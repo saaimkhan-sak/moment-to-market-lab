@@ -1,5 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "echo 'Using committed validated static release'",
   "outputDirectory": "app",
   "cleanUrls": true,
   "rewrites": [
