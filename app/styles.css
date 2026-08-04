@@ -127,10 +127,10 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .chain-line strong { display: block; font: 600 19px/1.25 "IBM Plex Sans", sans-serif; }
 .chain-line p { color: #cbd7d4; font-size: 14px; }
 
-.method-intro { grid-template-columns: 1fr 10fr; padding-bottom: var(--space-8); }
+.method-intro { grid-template-columns: 1fr 10fr; padding-bottom: var(--space-8); background: #e8eeea; }
 .method-intro > div:last-child { max-width: 850px; }
 .method-intro > div:last-child > p:last-child { max-width: 680px; color: var(--slate); font-size: 18px; }
-.method-spine { padding: 0 var(--gutter); }
+.method-spine { padding: 0 var(--gutter); background: #e8eeea; }
 .method-chapter {
   display: grid;
   grid-template-columns: 1fr 6fr 4fr;
