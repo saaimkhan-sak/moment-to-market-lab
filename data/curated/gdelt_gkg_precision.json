@@ -1,0 +1,523 @@
+{
+  "club_precision": {
+    "ANA": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "ANA-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "ARI": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "ARI-2023-24"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "BOS": {
+      "precision": 0.48,
+      "quantification_status": "unavailable",
+      "required_mappings": [
+        "BOS-current"
+      ],
+      "sample_size": 25,
+      "true_matches": 12
+    },
+    "BUF": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "BUF-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "CAR": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "CAR-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "CBJ": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "CBJ-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "CGY": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "CGY-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "CHI": {
+      "precision": 0.6538461538461539,
+      "quantification_status": "unavailable",
+      "required_mappings": [
+        "CHI-current"
+      ],
+      "sample_size": 26,
+      "true_matches": 17
+    },
+    "COL": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "COL-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "DAL": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "DAL-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "DET": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "DET-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "EDM": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "EDM-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "FLA": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "FLA-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "LAK": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "LAK-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "MIN": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "MIN-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "MTL": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "MTL-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "NJD": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "NJD-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "NSH": {
+      "precision": 0.6538461538461539,
+      "quantification_status": "unavailable",
+      "required_mappings": [
+        "NSH-current"
+      ],
+      "sample_size": 26,
+      "true_matches": 17
+    },
+    "NYI": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "NYI-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "NYR": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "NYR-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "OTT": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "OTT-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "PHI": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "PHI-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "PIT": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "PIT-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "SEA": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "SEA-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "SJS": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "SJS-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "STL": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "STL-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "TBL": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "TBL-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "TOR": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "TOR-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "UTA": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "UTA-hockey-club",
+        "UTA-mammoth"
+      ],
+      "sample_size": 10,
+      "true_matches": 10
+    },
+    "VAN": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "VAN-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "VGK": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "VGK-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "WPG": {
+      "precision": 0.3,
+      "quantification_status": "unavailable",
+      "required_mappings": [
+        "WPG-current"
+      ],
+      "sample_size": 30,
+      "true_matches": 9
+    },
+    "WSH": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_mappings": [
+        "WSH-current"
+      ],
+      "sample_size": 5,
+      "true_matches": 5
+    }
+  },
+  "clubs_eligible_for_quantification": 28,
+  "decision": "GKG remains an excluded diagnostic because not every club clears the registered precision threshold.",
+  "historical_club_identities_eligible_for_quantification": 29,
+  "ineligible_clubs": [
+    "BOS",
+    "CHI",
+    "NSH",
+    "WPG"
+  ],
+  "mapping_precision": {
+    "ANA-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "ARI-2023-24": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "BOS-current": {
+      "precision": 0.48,
+      "quantification_status": "unavailable",
+      "sample_size": 25,
+      "true_matches": 12
+    },
+    "BUF-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "CAR-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "CBJ-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "CGY-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "CHI-current": {
+      "precision": 0.6538461538461539,
+      "quantification_status": "unavailable",
+      "sample_size": 26,
+      "true_matches": 17
+    },
+    "COL-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "DAL-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "DET-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "EDM-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "FLA-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "LAK-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "MIN-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "MTL-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "NJD-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "NSH-current": {
+      "precision": 0.6538461538461539,
+      "quantification_status": "unavailable",
+      "sample_size": 26,
+      "true_matches": 17
+    },
+    "NYI-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "NYR-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "OTT-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "PHI-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "PIT-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "SEA-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "SJS-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "STL-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "TBL-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "TOR-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "UTA-hockey-club": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "UTA-mammoth": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "VAN-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "VGK-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    },
+    "WPG-current": {
+      "precision": 0.3,
+      "quantification_status": "unavailable",
+      "sample_size": 30,
+      "true_matches": 9
+    },
+    "WSH-current": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5,
+      "true_matches": 5
+    }
+  },
+  "minimum_per_mapping": 5,
+  "overall_precision": 0.7976653696498055,
+  "quantification_threshold": 0.9,
+  "reviewed_articles": 257,
+  "status": "audit_complete",
+  "true_matches": 205
+}

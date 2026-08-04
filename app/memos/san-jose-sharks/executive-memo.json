@@ -1,0 +1,413 @@
+{
+  "as_of": "2026-08-03",
+  "club_id": "SJS",
+  "club_slug": "san-jose-sharks",
+  "feedback_question": "Which public-attention signal would be useful in your team’s workflow, and which internal data would you need before acting on it?",
+  "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+  "slides": [
+    {
+      "as_of": "2026-08-03",
+      "body": "No club–moment–window cell clears the registered agreement, precision, and sample-size rules in both Wikimedia and GDELT.",
+      "club_name": "San Jose Sharks",
+      "evidence": [
+        "Cross-channel status: no reliable pattern",
+        "Wikimedia days: 4,049",
+        "GDELT days: 4,031",
+        "Registered moments: 189"
+      ],
+      "kicker": "DECISION AND EVIDENCE COVERAGE",
+      "limitation": "Use the event docket to improve measurement coverage; do not substitute a single-channel result for the missing agreement.",
+      "slide": 1,
+      "title": "No reliable two-channel public-response pattern is visible in the available sample. Do not operationalize a moment ranking."
+    },
+    {
+      "as_of": "2026-08-03",
+      "body": "The profile keeps immediate, short-persistence, and sustained windows separate and suppresses club–moment cells with fewer than ten observations.",
+      "club_name": "San Jose Sharks",
+      "evidence": [
+        "Wikimedia observations: 4,049",
+        "GDELT observations: 4,031",
+        "Official YouTube videos: 2,845",
+        "GDELT audit precision: 100.0%"
+      ],
+      "kicker": "CLUB MOMENT-RESPONSE PROFILE",
+      "limitation": "Public statistics are current at retrieval time; historical 24-hour and 72-hour video trajectories were not reconstructed.",
+      "slide": 2,
+      "title": "189 registered moments across the eligible 2015–16 through 2025–26 archive."
+    },
+    {
+      "as_of": "2026-08-03",
+      "benchmark": [
+        {
+          "leading_window": "immediate",
+          "moment_type": "four_point_game",
+          "stable_club_window_cells": 5
+        },
+        {
+          "leading_window": "immediate",
+          "moment_type": "hat_trick",
+          "stable_club_window_cells": 3
+        },
+        {
+          "leading_window": "immediate",
+          "moment_type": "overtime_win",
+          "stable_club_window_cells": 3
+        }
+      ],
+      "body": "The benchmark counts only club–moment–window cells that meet both sample and precision rules. A high single-channel estimate is not promoted to a stable finding.",
+      "club_name": "San Jose Sharks",
+      "kicker": "LEAGUE BENCHMARK",
+      "limitation": "League comparisons describe public-signal associations and do not rank club business performance.",
+      "slide": 3,
+      "title": "Cross-channel agreement is uncommon by design."
+    },
+    {
+      "as_of": "2026-08-03",
+      "club_name": "San Jose Sharks",
+      "kicker": "THREE ACTIVATION TEST NOTES",
+      "limitation": "Every action is a test protocol. Any internal KPI or commercial use requires club validation.",
+      "playbooks": [
+        {
+          "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 338 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
+          "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
+          "club_id": "SJS",
+          "club_name": "San Jose Sharks",
+          "confidence_label": "directional_hypothesis_not_stable",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "SJS",
+                "confidence_interval_high": 0.17822811280595463,
+                "confidence_interval_low": 0.12890752902919078,
+                "estimate": 0.15330420421521773,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 23,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "overtime_win",
+                "post_window": "short_persistence",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.3656515821125319,
+                "raw_confidence_interval_low": -0.13209929460094416,
+                "raw_median_lift": 0.058965071247828245,
+                "sample_size": 66
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "SJS",
+                "confidence_interval_high": 0.13048542335884772,
+                "confidence_interval_low": 0.10320121548029815,
+                "estimate": 0.11675999799967762,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 23,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "overtime_win",
+                "post_window": "short_persistence",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.08097569822270591,
+                "raw_confidence_interval_low": -0.17691980597162654,
+                "raw_median_lift": -0.010671909007933753,
+                "sample_size": 66
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 23,
+                "modeled_confidence_interval_high": 0.17822811280595463,
+                "modeled_confidence_interval_low": 0.12890752902919078,
+                "modeled_estimate": 0.15330420421521773,
+                "modeled_sample_size": 66,
+                "raw_confidence_interval_high": 0.3656515821125319,
+                "raw_confidence_interval_low": -0.13209929460094416,
+                "raw_median_lift": 0.058965071247828245
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 23,
+                "modeled_confidence_interval_high": 0.13048542335884772,
+                "modeled_confidence_interval_low": 0.10320121548029815,
+                "modeled_estimate": 0.11675999799967762,
+                "modeled_sample_size": 66,
+                "raw_confidence_interval_high": 0.08097569822270591,
+                "raw_confidence_interval_low": -0.17691980597162654,
+                "raw_median_lift": -0.010671909007933753
+              }
+            ],
+            "cross_channel_status": "mixed_direction",
+            "minimum_isolated_sample_size": 23,
+            "minimum_sample_size": 66,
+            "post_window": "short_persistence",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "overtime_win",
+          "official_content_context": {
+            "accessible_video_count": 2845,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 25,
+              "game_highlight_or_recap": 338,
+              "press_conference_or_media": 110,
+              "roster_announcement": 52,
+              "short_form": 2
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "game_highlight_or_recap",
+            "leading_observed_title_format_count": 338,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "measurement_rehearsal",
+          "owner_function": "content",
+          "playbook_id": "san-jose-sharks--1--overtime_win",
+          "priority_within_club": 1,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered short persistence window"
+        },
+        {
+          "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 338 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
+          "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
+          "club_id": "SJS",
+          "club_name": "San Jose Sharks",
+          "confidence_label": "directional_hypothesis_not_stable",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "SJS",
+                "confidence_interval_high": 0.1169871515364509,
+                "confidence_interval_low": 0.066019115828853,
+                "estimate": 0.09120559734317557,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 13,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "four_point_game",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.1298668160400108,
+                "raw_confidence_interval_low": -0.401442417202565,
+                "raw_median_lift": -0.06981195304561288,
+                "sample_size": 41
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "SJS",
+                "confidence_interval_high": 0.07141096193884255,
+                "confidence_interval_low": 0.043176025623230085,
+                "estimate": 0.05719923812142591,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 13,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "four_point_game",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.15045914763362384,
+                "raw_confidence_interval_low": -0.02405602923264312,
+                "raw_median_lift": -0.004121792314851658,
+                "sample_size": 41
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 13,
+                "modeled_confidence_interval_high": 0.1169871515364509,
+                "modeled_confidence_interval_low": 0.066019115828853,
+                "modeled_estimate": 0.09120559734317557,
+                "modeled_sample_size": 41,
+                "raw_confidence_interval_high": 0.1298668160400108,
+                "raw_confidence_interval_low": -0.401442417202565,
+                "raw_median_lift": -0.06981195304561288
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 13,
+                "modeled_confidence_interval_high": 0.07141096193884255,
+                "modeled_confidence_interval_low": 0.043176025623230085,
+                "modeled_estimate": 0.05719923812142591,
+                "modeled_sample_size": 41,
+                "raw_confidence_interval_high": 0.15045914763362384,
+                "raw_confidence_interval_low": -0.02405602923264312,
+                "raw_median_lift": -0.004121792314851658
+              }
+            ],
+            "cross_channel_status": "mixed_direction",
+            "minimum_isolated_sample_size": 13,
+            "minimum_sample_size": 41,
+            "post_window": "immediate",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "four_point_game",
+          "official_content_context": {
+            "accessible_video_count": 2845,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 25,
+              "game_highlight_or_recap": 338,
+              "press_conference_or_media": 110,
+              "roster_announcement": 52,
+              "short_form": 2
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "game_highlight_or_recap",
+            "leading_observed_title_format_count": 338,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "measurement_rehearsal",
+          "owner_function": "content",
+          "playbook_id": "san-jose-sharks--2--four_point_game",
+          "priority_within_club": 2,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
+        },
+        {
+          "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 338 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
+          "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
+          "club_id": "SJS",
+          "club_name": "San Jose Sharks",
+          "confidence_label": "directional_hypothesis_not_stable",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "SJS",
+                "confidence_interval_high": 0.15819554782446277,
+                "confidence_interval_low": 0.08260616072800597,
+                "estimate": 0.11976320505833327,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 6,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "hat_trick",
+                "post_window": "immediate",
+                "ranking_eligible": false,
+                "raw_confidence_interval_high": 0.2729214099059181,
+                "raw_confidence_interval_low": -0.5490980735513186,
+                "raw_median_lift": -0.08528659374986168,
+                "sample_size": 29
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "SJS",
+                "confidence_interval_high": 0.08543516065120049,
+                "confidence_interval_low": 0.04432670190466492,
+                "estimate": 0.06468254491854442,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 6,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "hat_trick",
+                "post_window": "immediate",
+                "ranking_eligible": false,
+                "raw_confidence_interval_high": 0.11897948705376532,
+                "raw_confidence_interval_low": -0.14893705256167258,
+                "raw_median_lift": -0.018961183768068993,
+                "sample_size": 29
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 6,
+                "modeled_confidence_interval_high": 0.15819554782446277,
+                "modeled_confidence_interval_low": 0.08260616072800597,
+                "modeled_estimate": 0.11976320505833327,
+                "modeled_sample_size": 29,
+                "raw_confidence_interval_high": 0.2729214099059181,
+                "raw_confidence_interval_low": -0.5490980735513186,
+                "raw_median_lift": -0.08528659374986168
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 6,
+                "modeled_confidence_interval_high": 0.08543516065120049,
+                "modeled_confidence_interval_low": 0.04432670190466492,
+                "modeled_estimate": 0.06468254491854442,
+                "modeled_sample_size": 29,
+                "raw_confidence_interval_high": 0.11897948705376532,
+                "raw_confidence_interval_low": -0.14893705256167258,
+                "raw_median_lift": -0.018961183768068993
+              }
+            ],
+            "cross_channel_status": "insufficient_evidence",
+            "minimum_isolated_sample_size": 6,
+            "minimum_sample_size": 29,
+            "post_window": "immediate",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "hat_trick",
+          "official_content_context": {
+            "accessible_video_count": 2845,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 25,
+              "game_highlight_or_recap": 338,
+              "press_conference_or_media": 110,
+              "roster_announcement": 52,
+              "short_form": 2
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "game_highlight_or_recap",
+            "leading_observed_title_format_count": 338,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "measurement_rehearsal",
+          "owner_function": "content",
+          "playbook_id": "san-jose-sharks--3--hat_trick",
+          "priority_within_club": 3,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
+        }
+      ],
+      "slide": 4,
+      "title": "A 0–24 hour, 24–72 hour, and Day 4–7 sequence—with the evidence gate attached."
+    },
+    {
+      "as_of": "2026-08-03",
+      "body": "Retain exact publication and distribution timestamps, predeclare one internal outcome, preserve no-signal cases, and compare the same moment definition over time.",
+      "club_name": "San Jose Sharks",
+      "evidence": [
+        "Internal request: owned-channel publication and distribution timestamps",
+        "Internal request: approved outcome definition and attribution window",
+        "Guardrail: no revenue, attendance, sponsor, CRM, or conversion inference from public signals",
+        "Feedback question: Which public-attention signal would be useful in your team’s workflow, and which internal data would you need before acting on it?"
+      ],
+      "kicker": "MEASUREMENT PLAN AND INTERNAL-DATA REQUEST",
+      "limitation": "Public attention can identify a timing hypothesis; it cannot establish downstream business value.",
+      "slide": 5,
+      "title": "Connect public attention to an approved internal outcome before acting."
+    }
+  ],
+  "taxonomy_version": "1.1.0",
+  "title": "San Jose Sharks Moment-to-Market Intelligence Brief"
+}

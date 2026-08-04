@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 14065,
+  "channel_id": "UCMrpTL3zZyNA5S1p9B3FhWg",
+  "channel_title": "Toronto Maple Leafs",
+  "club_id": "TOR",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-03T15:00:29Z",
+  "oldest_accessible_published_at": "2011-04-20T15:21:34Z",
+  "playlist_pages": 282,
+  "playlist_video_ids": 14065,
+  "retrieved_at": "2026-08-03T19:33:34Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCMrpTL3zZyNA5S1p9B3FhWg",
+  "uploads_playlist_id": "UUMrpTL3zZyNA5S1p9B3FhWg",
+  "video_detail_pages": 282
+}

@@ -1,0 +1,41 @@
+{
+  "club_id": "SJS",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.thebiglead.com/sharks-weighing-fit-versus-talent-around-macklin-celebrini-core/",
+      "club_id": "SJS",
+      "query": "\"San Jose Sharks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:26:23Z",
+      "title": "Sharks weighing fit versus talent around Macklin Celebrini core"
+    },
+    {
+      "article_url": "https://www.spotrac.com/nhl/player/_/id/94188/carson-wetsch",
+      "club_id": "SJS",
+      "query": "\"San Jose Sharks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:26:23Z",
+      "title": "Carson Wetsch | NHL Contracts & Salaries"
+    },
+    {
+      "article_url": "https://www.spotrac.com/nhl/player/_/id/108373/phillip-sinn",
+      "club_id": "SJS",
+      "query": "\"San Jose Sharks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:26:23Z",
+      "title": "Phillip Sinn | NHL Contracts & Salaries"
+    },
+    {
+      "article_url": "https://www.wmur.com/article/kyle-chauvette-bruins/71776090",
+      "club_id": "SJS",
+      "query": "\"San Jose Sharks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:26:23Z",
+      "title": "NH Kyle Chauvette works out with Bruins"
+    },
+    {
+      "article_url": "https://www.habseyesontheprize.com/2026-nhl-entry-draft-preview-start-time-tv-schedule-and-how-to-watch-tv-listings-online-stream-gavin-mckenna-ivar-stenberg-viggo-bjorck/",
+      "club_id": "SJS",
+      "query": "\"San Jose Sharks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:26:23Z",
+      "title": "2026 NHL Entry Draft : Preview and how to watch"
+    }
+  ]
+}

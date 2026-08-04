@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 11369,
+  "channel_id": "UCxdPjcb73fJilPpcRxgzi3A",
+  "channel_title": "Columbus Blue Jackets",
+  "club_id": "CBJ",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-01T18:01:09Z",
+  "oldest_accessible_published_at": "2010-09-14T02:21:49Z",
+  "playlist_pages": 228,
+  "playlist_video_ids": 11369,
+  "retrieved_at": "2026-08-03T19:10:20Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCxdPjcb73fJilPpcRxgzi3A",
+  "uploads_playlist_id": "UUxdPjcb73fJilPpcRxgzi3A",
+  "video_detail_pages": 228
+}

@@ -1,0 +1,21 @@
+{
+  "analysis_start": "2015-07-01",
+  "analysis_end": "2026-07-31",
+  "first_full_season": "20152016",
+  "last_season": "20252026",
+  "seasons": [
+    "20152016", "20162017", "20172018", "20182019", "20192020",
+    "20202021", "20212022", "20222023", "20232024", "20242025",
+    "20252026"
+  ],
+  "club_season_validity": {
+    "ARI": {"first": "20152016", "last": "20232024", "historical_only": true},
+    "VGK": {"first": "20172018", "last": "20252026"},
+    "SEA": {"first": "20212022", "last": "20252026"},
+    "UTA": {"first": "20242025", "last": "20252026"}
+  },
+  "default_club_first_season": "20152016",
+  "balanced_panel_policy": "A club-season enters only while that club identity is active and all required core source/event-window gates pass. Expansion clubs are not backfilled before entry.",
+  "historical_response_channels": ["wikimedia_pageviews", "gdelt_earned_media"],
+  "youtube_historical_policy": "Publication metadata is reconstructable. Public views, likes, comments, and subscribers are retrieval-time snapshots and are never assigned to a past event date."
+}

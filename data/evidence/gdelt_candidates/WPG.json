@@ -1,0 +1,61 @@
+{
+  "club_id": "WPG",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.cbc.ca/news/canada/manitoba/jets-cole-perfetti-contract-9.7271650",
+      "club_id": "WPG",
+      "domain": "cbc.ca",
+      "language": "English",
+      "query": "\"Winnipeg Jets\" domain:winnipegsun.com",
+      "retrieved_at": "2026-08-03T15:37:17Z",
+      "seen_at": "20260716T004500Z",
+      "source_country": "Canada",
+      "title": "Jets re - sign Cole Perfetti to 5 - year deal"
+    },
+    {
+      "article_url": "https://www.cbc.ca/news/canada/manitoba/scheifele-hat-trick-worlds-9.7207546",
+      "club_id": "WPG",
+      "domain": "cbc.ca",
+      "language": "English",
+      "query": "\"Winnipeg Jets\" domain:winnipegsun.com",
+      "retrieved_at": "2026-08-03T15:37:17Z",
+      "seen_at": "20260522T031500Z",
+      "source_country": "Canada",
+      "title": "Scheifele completes hat trick in overtime as Canada avoids upset"
+    },
+    {
+      "article_url": "https://www.winnipegfreepress.com/breakingnews/2026/07/12/top-prospect-viggo-bjorck-plans-future-with-jets",
+      "club_id": "WPG",
+      "domain": "winnipegfreepress.com",
+      "language": "English",
+      "query": "\"Winnipeg Jets\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:41:30Z",
+      "seen_at": "20260712T200000Z",
+      "source_country": "Canada",
+      "title": "Top prospect Viggo Bj\u00f6rck plans future with Jets \u2013 Winnipeg Free Press"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/jets-rfa-perfetti-avoid-arbitration-with-five-year-extension/",
+      "club_id": "WPG",
+      "domain": "tsn.ca",
+      "language": "English",
+      "query": "\"Winnipeg Jets\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:41:30Z",
+      "seen_at": "20260715T223000Z",
+      "source_country": "Canada",
+      "title": "Winnipeg Jets , RFA Cole Perfetti avoid arbitration with five - year extension"
+    },
+    {
+      "article_url": "https://www.winnipegfreepress.com/breakingnews/2026/07/13/viggomania-heats-up",
+      "club_id": "WPG",
+      "domain": "winnipegfreepress.com",
+      "language": "English",
+      "query": "\"Winnipeg Jets\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:41:30Z",
+      "seen_at": "20260713T230000Z",
+      "source_country": "Canada",
+      "title": "Viggomania heats up \u2013 Winnipeg Free Press"
+    }
+  ]
+}

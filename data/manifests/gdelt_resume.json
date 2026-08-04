@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "club_id": "NSH",
+      "evidence_status": "unavailable",
+      "reason": "HTTPError"
+    },
+    {
+      "club_id": "NJD",
+      "evidence_status": "confirmed",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/evidence/gdelt_candidates/NJD.json"
+    },
+    {
+      "club_id": "NYI",
+      "evidence_status": "confirmed",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/evidence/gdelt_candidates/NYI.json"
+    },
+    {
+      "club_id": "OTT",
+      "evidence_status": "confirmed",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/evidence/gdelt_candidates/OTT.json"
+    },
+    {
+      "club_id": "PHI",
+      "evidence_status": "confirmed",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/evidence/gdelt_candidates/PHI.json"
+    },
+    {
+      "club_id": "PIT",
+      "evidence_status": "unavailable",
+      "reason": "HTTPError"
+    },
+    {
+      "club_id": "SJS",
+      "evidence_status": "confirmed",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/evidence/gdelt_candidates/SJS.json"
+    },
+    {
+      "club_id": "STL",
+      "evidence_status": "confirmed",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/evidence/gdelt_candidates/STL.json"
+    },
+    {
+      "club_id": "TBL",
+      "evidence_status": "confirmed",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/evidence/gdelt_candidates/TBL.json"
+    },
+    {
+      "club_id": "TOR",
+      "evidence_status": "unavailable",
+      "reason": "HTTPError"
+    },
+    {
+      "club_id": "UTA",
+      "evidence_status": "confirmed",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/evidence/gdelt_candidates/UTA.json"
+    },
+    {
+      "club_id": "WSH",
+      "evidence_status": "confirmed",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/evidence/gdelt_candidates/WSH.json"
+    },
+    {
+      "club_id": "WPG",
+      "evidence_status": "unavailable",
+      "reason": "HTTPError"
+    }
+  ],
+  "source": {
+    "evidence_status": "confirmed",
+    "reason": "Eight-second pacing after prior 429 responses.",
+    "retrieved_at": "2026-08-03T15:30:07Z",
+    "source_id": "gdelt-doc-api"
+  }
+}

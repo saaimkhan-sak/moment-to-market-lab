@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 3944,
+  "channel_id": "UCxspiBq2xf5pLjz9_NMjoyw",
+  "channel_title": "Seattle Kraken",
+  "club_id": "SEA",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-31T16:30:33Z",
+  "oldest_accessible_published_at": "2018-12-04T17:06:03Z",
+  "playlist_pages": 79,
+  "playlist_video_ids": 3944,
+  "retrieved_at": "2026-08-03T19:31:46Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCxspiBq2xf5pLjz9_NMjoyw",
+  "uploads_playlist_id": "UUxspiBq2xf5pLjz9_NMjoyw",
+  "video_detail_pages": 79
+}

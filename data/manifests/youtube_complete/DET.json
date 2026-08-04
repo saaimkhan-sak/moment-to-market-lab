@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 4960,
+  "channel_id": "UCj_N4nmrUUiYd0_Vn5_as_w",
+  "channel_title": "Detroit Red Wings",
+  "club_id": "DET",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-23T14:04:24Z",
+  "oldest_accessible_published_at": "2013-03-25T23:10:27Z",
+  "playlist_pages": 100,
+  "playlist_video_ids": 4960,
+  "retrieved_at": "2026-08-03T19:13:12Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCj_N4nmrUUiYd0_Vn5_as_w",
+  "uploads_playlist_id": "UUj_N4nmrUUiYd0_Vn5_as_w",
+  "video_detail_pages": 100
+}

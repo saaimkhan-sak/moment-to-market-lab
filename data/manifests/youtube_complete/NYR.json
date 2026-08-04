@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 4985,
+  "channel_id": "UCXlX2t7ziIJpZQWZcrHGnow",
+  "channel_title": "New York Rangers",
+  "club_id": "NYR",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-30T20:56:03Z",
+  "oldest_accessible_published_at": "2018-06-01T14:59:31Z",
+  "playlist_pages": 100,
+  "playlist_video_ids": 4985,
+  "retrieved_at": "2026-08-03T19:27:34Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCXlX2t7ziIJpZQWZcrHGnow",
+  "uploads_playlist_id": "UUXlX2t7ziIJpZQWZcrHGnow",
+  "video_detail_pages": 100
+}

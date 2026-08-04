@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 2355,
+  "channel_id": "UCyUzGmp1kAmlkNUzAqW9xJw",
+  "channel_title": "Vegas Golden Knights",
+  "club_id": "VGK",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-30T22:09:57Z",
+  "oldest_accessible_published_at": "2017-12-15T18:38:38Z",
+  "playlist_pages": 48,
+  "playlist_video_ids": 2355,
+  "retrieved_at": "2026-08-03T19:37:17Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCyUzGmp1kAmlkNUzAqW9xJw",
+  "uploads_playlist_id": "UUyUzGmp1kAmlkNUzAqW9xJw",
+  "video_detail_pages": 48
+}

@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 854,
+  "channel_id": "UCnFXrrRYVwI82BrrFvBxg0w",
+  "channel_title": "Nashville Predators",
+  "club_id": "NSH",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-30T23:58:18Z",
+  "oldest_accessible_published_at": "2020-07-30T18:00:10Z",
+  "playlist_pages": 18,
+  "playlist_video_ids": 854,
+  "retrieved_at": "2026-08-03T19:25:35Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCnFXrrRYVwI82BrrFvBxg0w",
+  "uploads_playlist_id": "UUnFXrrRYVwI82BrrFvBxg0w",
+  "video_detail_pages": 18
+}

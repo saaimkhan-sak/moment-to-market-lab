@@ -1,0 +1,410 @@
+{
+  "as_of": "2026-08-03",
+  "club_id": "UTA",
+  "club_slug": "utah-mammoth",
+  "feedback_question": "Which public-attention signal would be useful in your team’s workflow, and which internal data would you need before acting on it?",
+  "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+  "slides": [
+    {
+      "as_of": "2026-08-03",
+      "body": "No club–moment–window cell clears the registered agreement, precision, and sample-size rules in both Wikimedia and GDELT.",
+      "club_name": "Utah Mammoth",
+      "evidence": [
+        "Cross-channel status: no reliable pattern",
+        "Wikimedia days: 779",
+        "GDELT days: 762",
+        "Registered moments: 46"
+      ],
+      "kicker": "DECISION AND EVIDENCE COVERAGE",
+      "limitation": "Use the event docket to improve measurement coverage; do not substitute a single-channel result for the missing agreement.",
+      "slide": 1,
+      "title": "No reliable two-channel public-response pattern is visible in the available sample. Do not operationalize a moment ranking."
+    },
+    {
+      "as_of": "2026-08-03",
+      "body": "The profile keeps immediate, short-persistence, and sustained windows separate and suppresses club–moment cells with fewer than ten observations.",
+      "club_name": "Utah Mammoth",
+      "evidence": [
+        "Wikimedia observations: 779",
+        "GDELT observations: 762",
+        "Official YouTube videos: 1,336",
+        "GDELT audit precision: 100.0%"
+      ],
+      "kicker": "CLUB MOMENT-RESPONSE PROFILE",
+      "limitation": "Public statistics are current at retrieval time; historical 24-hour and 72-hour video trajectories were not reconstructed.",
+      "slide": 2,
+      "title": "46 registered moments across the eligible 2015–16 through 2025–26 archive."
+    },
+    {
+      "as_of": "2026-08-03",
+      "benchmark": [
+        {
+          "leading_window": "immediate",
+          "moment_type": "four_point_game",
+          "stable_club_window_cells": 5
+        },
+        {
+          "leading_window": "immediate",
+          "moment_type": "hat_trick",
+          "stable_club_window_cells": 3
+        },
+        {
+          "leading_window": "immediate",
+          "moment_type": "overtime_win",
+          "stable_club_window_cells": 3
+        }
+      ],
+      "body": "The benchmark counts only club–moment–window cells that meet both sample and precision rules. A high single-channel estimate is not promoted to a stable finding.",
+      "club_name": "Utah Mammoth",
+      "kicker": "LEAGUE BENCHMARK",
+      "limitation": "League comparisons describe public-signal associations and do not rank club business performance.",
+      "slide": 3,
+      "title": "Cross-channel agreement is uncommon by design."
+    },
+    {
+      "as_of": "2026-08-03",
+      "club_name": "Utah Mammoth",
+      "kicker": "THREE ACTIVATION TEST NOTES",
+      "limitation": "Every action is a test protocol. Any internal KPI or commercial use requires club validation.",
+      "playbooks": [
+        {
+          "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 303 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
+          "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
+          "club_id": "UTA",
+          "club_name": "Utah Mammoth",
+          "confidence_label": "directional_hypothesis_not_stable",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "UTA",
+                "confidence_interval_high": 0.17822811280595463,
+                "confidence_interval_low": 0.12890752902919078,
+                "estimate": 0.15330420421521773,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 4,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "overtime_win",
+                "post_window": "short_persistence",
+                "ranking_eligible": false,
+                "raw_confidence_interval_high": 0.8347693454824292,
+                "raw_confidence_interval_low": -0.05433619792919739,
+                "raw_median_lift": 0.18615206317128474,
+                "sample_size": 17
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "UTA",
+                "confidence_interval_high": 0.13048542335884772,
+                "confidence_interval_low": 0.10320121548029815,
+                "estimate": 0.11675999799967762,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 4,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "overtime_win",
+                "post_window": "short_persistence",
+                "ranking_eligible": false,
+                "raw_confidence_interval_high": 0.6193084477475086,
+                "raw_confidence_interval_low": -0.6578250207342614,
+                "raw_median_lift": -0.14124743442125984,
+                "sample_size": 17
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 4,
+                "modeled_confidence_interval_high": 0.17822811280595463,
+                "modeled_confidence_interval_low": 0.12890752902919078,
+                "modeled_estimate": 0.15330420421521773,
+                "modeled_sample_size": 17,
+                "raw_confidence_interval_high": 0.8347693454824292,
+                "raw_confidence_interval_low": -0.05433619792919739,
+                "raw_median_lift": 0.18615206317128474
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 4,
+                "modeled_confidence_interval_high": 0.13048542335884772,
+                "modeled_confidence_interval_low": 0.10320121548029815,
+                "modeled_estimate": 0.11675999799967762,
+                "modeled_sample_size": 17,
+                "raw_confidence_interval_high": 0.6193084477475086,
+                "raw_confidence_interval_low": -0.6578250207342614,
+                "raw_median_lift": -0.14124743442125984
+              }
+            ],
+            "cross_channel_status": "insufficient_evidence",
+            "minimum_isolated_sample_size": 4,
+            "minimum_sample_size": 17,
+            "post_window": "short_persistence",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "overtime_win",
+          "official_content_context": {
+            "accessible_video_count": 1336,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 4,
+              "game_highlight_or_recap": 303,
+              "press_conference_or_media": 21,
+              "roster_announcement": 21
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "game_highlight_or_recap",
+            "leading_observed_title_format_count": 303,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "measurement_rehearsal",
+          "owner_function": "content",
+          "playbook_id": "utah-mammoth--1--overtime_win",
+          "priority_within_club": 1,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered short persistence window"
+        },
+        {
+          "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 303 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
+          "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
+          "club_id": "UTA",
+          "club_name": "Utah Mammoth",
+          "confidence_label": "directional_hypothesis_not_stable",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "UTA",
+                "confidence_interval_high": 0.05776741121893414,
+                "confidence_interval_low": 0.023556537093208707,
+                "estimate": 0.04052138299859087,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 5,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "four_point_game",
+                "post_window": "sustained_attention",
+                "ranking_eligible": false,
+                "raw_confidence_interval_high": 0.2213487640682612,
+                "raw_confidence_interval_low": -0.8742731300400602,
+                "raw_median_lift": 0.18769712606640507,
+                "sample_size": 14
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "UTA",
+                "confidence_interval_high": 0.03053069868887226,
+                "confidence_interval_low": 0.011349776067157036,
+                "estimate": 0.02089519116769356,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 5,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "four_point_game",
+                "post_window": "sustained_attention",
+                "ranking_eligible": false,
+                "raw_confidence_interval_high": 0.10251336527112415,
+                "raw_confidence_interval_low": -0.4102350924765291,
+                "raw_median_lift": -0.11673974722723754,
+                "sample_size": 14
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 5,
+                "modeled_confidence_interval_high": 0.05776741121893414,
+                "modeled_confidence_interval_low": 0.023556537093208707,
+                "modeled_estimate": 0.04052138299859087,
+                "modeled_sample_size": 14,
+                "raw_confidence_interval_high": 0.2213487640682612,
+                "raw_confidence_interval_low": -0.8742731300400602,
+                "raw_median_lift": 0.18769712606640507
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 5,
+                "modeled_confidence_interval_high": 0.03053069868887226,
+                "modeled_confidence_interval_low": 0.011349776067157036,
+                "modeled_estimate": 0.02089519116769356,
+                "modeled_sample_size": 14,
+                "raw_confidence_interval_high": 0.10251336527112415,
+                "raw_confidence_interval_low": -0.4102350924765291,
+                "raw_median_lift": -0.11673974722723754
+              }
+            ],
+            "cross_channel_status": "insufficient_evidence",
+            "minimum_isolated_sample_size": 5,
+            "minimum_sample_size": 14,
+            "post_window": "sustained_attention",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "four_point_game",
+          "official_content_context": {
+            "accessible_video_count": 1336,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 4,
+              "game_highlight_or_recap": 303,
+              "press_conference_or_media": 21,
+              "roster_announcement": 21
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "game_highlight_or_recap",
+            "leading_observed_title_format_count": 303,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "measurement_rehearsal",
+          "owner_function": "content",
+          "playbook_id": "utah-mammoth--2--four_point_game",
+          "priority_within_club": 2,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
+        },
+        {
+          "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 303 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
+          "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
+          "club_id": "UTA",
+          "club_name": "Utah Mammoth",
+          "confidence_label": "directional_hypothesis_not_stable",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "UTA",
+                "confidence_interval_high": 0.15819554782446277,
+                "confidence_interval_low": 0.08260616072800597,
+                "estimate": 0.11976320505833327,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "suppressed_small_sample",
+                "isolated_sample_size": 2,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "hat_trick",
+                "post_window": "immediate",
+                "ranking_eligible": false,
+                "raw_confidence_interval_high": 0.5998593107364609,
+                "raw_confidence_interval_low": -0.40212003314549066,
+                "raw_median_lift": 0.09886963879548513,
+                "sample_size": 7
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "UTA",
+                "confidence_interval_high": 0.08543516065120049,
+                "confidence_interval_low": 0.04432670190466492,
+                "estimate": 0.06468254491854442,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "suppressed_small_sample",
+                "isolated_sample_size": 2,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "hat_trick",
+                "post_window": "immediate",
+                "ranking_eligible": false,
+                "raw_confidence_interval_high": 0.004906385243815009,
+                "raw_confidence_interval_low": -0.018699956511729066,
+                "raw_median_lift": -0.006896785633957028,
+                "sample_size": 7
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 2,
+                "modeled_confidence_interval_high": 0.15819554782446277,
+                "modeled_confidence_interval_low": 0.08260616072800597,
+                "modeled_estimate": 0.11976320505833327,
+                "modeled_sample_size": 7,
+                "raw_confidence_interval_high": 0.5998593107364609,
+                "raw_confidence_interval_low": -0.40212003314549066,
+                "raw_median_lift": 0.09886963879548513
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 2,
+                "modeled_confidence_interval_high": 0.08543516065120049,
+                "modeled_confidence_interval_low": 0.04432670190466492,
+                "modeled_estimate": 0.06468254491854442,
+                "modeled_sample_size": 7,
+                "raw_confidence_interval_high": 0.004906385243815009,
+                "raw_confidence_interval_low": -0.018699956511729066,
+                "raw_median_lift": -0.006896785633957028
+              }
+            ],
+            "cross_channel_status": "insufficient_evidence",
+            "minimum_isolated_sample_size": 2,
+            "minimum_sample_size": 7,
+            "post_window": "immediate",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "hat_trick",
+          "official_content_context": {
+            "accessible_video_count": 1336,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 4,
+              "game_highlight_or_recap": 303,
+              "press_conference_or_media": 21,
+              "roster_announcement": 21
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "game_highlight_or_recap",
+            "leading_observed_title_format_count": 303,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "measurement_rehearsal",
+          "owner_function": "content",
+          "playbook_id": "utah-mammoth--3--hat_trick",
+          "priority_within_club": 3,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
+        }
+      ],
+      "slide": 4,
+      "title": "A 0–24 hour, 24–72 hour, and Day 4–7 sequence—with the evidence gate attached."
+    },
+    {
+      "as_of": "2026-08-03",
+      "body": "Retain exact publication and distribution timestamps, predeclare one internal outcome, preserve no-signal cases, and compare the same moment definition over time.",
+      "club_name": "Utah Mammoth",
+      "evidence": [
+        "Internal request: owned-channel publication and distribution timestamps",
+        "Internal request: approved outcome definition and attribution window",
+        "Guardrail: no revenue, attendance, sponsor, CRM, or conversion inference from public signals",
+        "Feedback question: Which public-attention signal would be useful in your team’s workflow, and which internal data would you need before acting on it?"
+      ],
+      "kicker": "MEASUREMENT PLAN AND INTERNAL-DATA REQUEST",
+      "limitation": "Public attention can identify a timing hypothesis; it cannot establish downstream business value.",
+      "slide": 5,
+      "title": "Connect public attention to an approved internal outcome before acting."
+    }
+  ],
+  "taxonomy_version": "1.1.0",
+  "title": "Utah Mammoth Moment-to-Market Intelligence Brief"
+}

@@ -1,0 +1,41 @@
+{
+  "club_id": "BOS",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.westernmassnews.com/2026/07/29/bruins-mascot-visits-south-hadley-library-summer-reading-program/",
+      "club_id": "BOS",
+      "query": "\"Boston Bruins\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:03:29Z",
+      "title": "Bruins mascot visits South Hadley library for summer reading program"
+    },
+    {
+      "article_url": "https://bleacherreport.com/articles/25443233-bs-meter-connor-hellebuyck-bowen-byram-and-latest-nhl-trade-rumors",
+      "club_id": "BOS",
+      "query": "\"Boston Bruins\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:03:29Z",
+      "title": "BS Meter on Connor Hellebuyck , Bowen Byram and the Latest NHL Trade Rumors"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/bruins-sign-f-reichel-to-one-year-extension/",
+      "club_id": "BOS",
+      "query": "\"Boston Bruins\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:03:29Z",
+      "title": "Boston Bruins sign forward Lukas Reichel to one - year extension"
+    },
+    {
+      "article_url": "https://www.spotrac.com/nhl/player/_/id/90232/jaxon-nelson",
+      "club_id": "BOS",
+      "query": "\"Boston Bruins\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:03:29Z",
+      "title": "Jaxon Nelson Contract , Salary & Cap Hit 2026"
+    },
+    {
+      "article_url": "https://www.vavel.com/en-us/data/boston-bruins/",
+      "club_id": "BOS",
+      "query": "\"Boston Bruins\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:03:29Z",
+      "title": "Boston Bruins | VAVEL united states "
+    }
+  ]
+}

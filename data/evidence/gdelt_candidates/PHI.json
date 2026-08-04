@@ -1,0 +1,41 @@
+{
+  "club_id": "PHI",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://dailycaller.com/2026/05/12/nhl-philadelphia-flyers-owen-tippett-injury-internal-bleeding-statement-announcement/",
+      "club_id": "PHI",
+      "query": "\"Philadelphia Flyers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:24:41Z",
+      "title": "Philadelphia Flyer Owen Tippett Out For Months Due To Internal Bleeding"
+    },
+    {
+      "article_url": "https://www.bostonherald.com/2026/06/22/bruins-release-preseason-schedule-4/",
+      "club_id": "PHI",
+      "query": "\"Philadelphia Flyers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:24:41Z",
+      "title": "Bruins release preseason schedule ahead of expanded 2026 - 27 season"
+    },
+    {
+      "article_url": "https://6abc.com/post/flyers-eliminated-playoffs-game-4-loss-hurricanes/19072299/",
+      "club_id": "PHI",
+      "query": "\"Philadelphia Flyers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:24:41Z",
+      "title": "Flyers eliminated from playoffs with game 4 loss to Hurricanes"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/flyers-sign-g-kolosov-to-one-year-deal-worth-850k/",
+      "club_id": "PHI",
+      "query": "\"Philadelphia Flyers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:24:41Z",
+      "title": "Philadelphia Flyers sign G Aleksei Kolosov to one - year deal worth $850k"
+    },
+    {
+      "article_url": "https://www.blueshirtbanter.com/bantering-points-5-10-26/",
+      "club_id": "PHI",
+      "query": "\"Philadelphia Flyers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:24:41Z",
+      "title": "Bantering Points : 5 / 10 / 26"
+    }
+  ]
+}

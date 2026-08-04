@@ -1,0 +1,3090 @@
+{
+  "analysis_end": "2026-07-31",
+  "analysis_start": "2023-10-01",
+  "interval_count": 386,
+  "mapping_count": 34,
+  "mappings": [
+    {
+      "club_id": "ANA",
+      "entity_id": "Q192751",
+      "entity_label": "Anaheim Ducks",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "ANA-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "ANA-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "ANA-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "ANA-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "ANA-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "ANA-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "ANA-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "ANA-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "ANA-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "ANA-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "ANA-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "ANA-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "ANA-current",
+      "query": "\"Anaheim Ducks\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "ARI",
+      "entity_id": "Q206312",
+      "entity_label": "Arizona Coyotes",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "ARI-2023-24-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Arizona%20Coyotes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "ARI-2023-24-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Arizona%20Coyotes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "ARI-2023-24-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Arizona%20Coyotes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-06-30",
+          "expected_days": 4,
+          "interval_id": "ARI-2023-24-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Arizona%20Coyotes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240630235959",
+          "start_date": "2024-06-27"
+        }
+      ],
+      "mapping_id": "ARI-2023-24",
+      "query": "\"Arizona Coyotes\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2024-06-30"
+    },
+    {
+      "club_id": "BOS",
+      "entity_id": "Q194121",
+      "entity_label": "Boston Bruins",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "BOS-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "BOS-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "BOS-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "BOS-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "BOS-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "BOS-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "BOS-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "BOS-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "BOS-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "BOS-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "BOS-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "BOS-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "BOS-current",
+      "query": "\"Boston Bruins\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "BUF",
+      "entity_id": "Q131206",
+      "entity_label": "Buffalo Sabres",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "BUF-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "BUF-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "BUF-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "BUF-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "BUF-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "BUF-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "BUF-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "BUF-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "BUF-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "BUF-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "BUF-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "BUF-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "BUF-current",
+      "query": "\"Buffalo Sabres\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "CAR",
+      "entity_id": "Q201857",
+      "entity_label": "Carolina Hurricanes",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "CAR-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "CAR-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "CAR-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "CAR-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "CAR-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "CAR-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "CAR-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "CAR-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "CAR-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "CAR-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "CAR-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "CAR-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "CAR-current",
+      "query": "\"Carolina Hurricanes\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "CBJ",
+      "entity_id": "Q207507",
+      "entity_label": "Columbus Blue Jackets",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "CBJ-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "CBJ-current",
+      "query": "\"Columbus Blue Jackets\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "CGY",
+      "entity_id": "Q194126",
+      "entity_label": "Calgary Flames",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "CGY-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "CGY-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "CGY-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "CGY-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "CGY-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "CGY-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "CGY-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "CGY-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "CGY-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "CGY-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "CGY-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "CGY-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "CGY-current",
+      "query": "\"Calgary Flames\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "CHI",
+      "entity_id": "Q209636",
+      "entity_label": "Chicago Blackhawks",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "CHI-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "CHI-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "CHI-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "CHI-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "CHI-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "CHI-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "CHI-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "CHI-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "CHI-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "CHI-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "CHI-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "CHI-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "CHI-current",
+      "query": "\"Chicago Blackhawks\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "COL",
+      "entity_id": "Q206297",
+      "entity_label": "Colorado Avalanche",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "COL-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "COL-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "COL-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "COL-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "COL-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "COL-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "COL-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "COL-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "COL-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "COL-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "COL-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "COL-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "COL-current",
+      "query": "\"Colorado Avalanche\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "DAL",
+      "entity_id": "Q208652",
+      "entity_label": "Dallas Stars",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "DAL-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "DAL-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "DAL-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "DAL-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "DAL-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "DAL-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "DAL-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "DAL-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "DAL-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "DAL-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "DAL-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "DAL-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "DAL-current",
+      "query": "\"Dallas Stars\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "DET",
+      "entity_id": "Q194116",
+      "entity_label": "Detroit Red Wings",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "DET-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "DET-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "DET-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "DET-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "DET-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "DET-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "DET-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "DET-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "DET-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "DET-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "DET-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "DET-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "DET-current",
+      "query": "\"Detroit Red Wings\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "EDM",
+      "entity_id": "Q205973",
+      "entity_label": "Edmonton Oilers",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "EDM-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "EDM-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "EDM-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "EDM-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "EDM-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "EDM-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "EDM-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "EDM-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "EDM-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "EDM-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "EDM-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "EDM-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "EDM-current",
+      "query": "\"Edmonton Oilers\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "FLA",
+      "entity_id": "Q204623",
+      "entity_label": "Florida Panthers",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "FLA-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "FLA-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "FLA-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "FLA-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "FLA-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "FLA-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "FLA-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "FLA-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "FLA-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "FLA-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "FLA-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "FLA-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "FLA-current",
+      "query": "\"Florida Panthers\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "LAK",
+      "entity_id": "Q203008",
+      "entity_label": "Los Angeles Kings",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "LAK-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "LAK-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "LAK-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "LAK-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "LAK-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "LAK-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "LAK-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "LAK-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "LAK-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "LAK-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "LAK-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "LAK-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "LAK-current",
+      "query": "\"Los Angeles Kings\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "MIN",
+      "entity_id": "Q206357",
+      "entity_label": "Minnesota Wild",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "MIN-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "MIN-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "MIN-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "MIN-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "MIN-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "MIN-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "MIN-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "MIN-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "MIN-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "MIN-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "MIN-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "MIN-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "MIN-current",
+      "query": "\"Minnesota Wild\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "MTL",
+      "entity_id": "Q188143",
+      "entity_label": "Montreal Canadiens",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "MTL-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "MTL-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "MTL-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "MTL-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "MTL-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "MTL-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "MTL-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "MTL-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "MTL-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "MTL-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "MTL-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "MTL-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "MTL-current",
+      "query": "\"Montreal Canadiens\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "NJD",
+      "entity_id": "Q192081",
+      "entity_label": "New Jersey Devils",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "NJD-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "NJD-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "NJD-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "NJD-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "NJD-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "NJD-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "NJD-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "NJD-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "NJD-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "NJD-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "NJD-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "NJD-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "NJD-current",
+      "query": "\"New Jersey Devils\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "NSH",
+      "entity_id": "Q207980",
+      "entity_label": "Nashville Predators",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "NSH-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "NSH-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "NSH-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "NSH-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "NSH-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "NSH-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "NSH-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "NSH-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "NSH-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "NSH-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "NSH-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "NSH-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "NSH-current",
+      "query": "\"Nashville Predators\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "NYI",
+      "entity_id": "Q194369",
+      "entity_label": "New York Islanders",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "NYI-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "NYI-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "NYI-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "NYI-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "NYI-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "NYI-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "NYI-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "NYI-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "NYI-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "NYI-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "NYI-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "NYI-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "NYI-current",
+      "query": "\"New York Islanders\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "NYR",
+      "entity_id": "Q188984",
+      "entity_label": "New York Rangers",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "NYR-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "NYR-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "NYR-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "NYR-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "NYR-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "NYR-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "NYR-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "NYR-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "NYR-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "NYR-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "NYR-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "NYR-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "NYR-current",
+      "query": "\"New York Rangers\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "OTT",
+      "entity_id": "Q203013",
+      "entity_label": "Ottawa Senators",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "OTT-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "OTT-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "OTT-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "OTT-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "OTT-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "OTT-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "OTT-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "OTT-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "OTT-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "OTT-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "OTT-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "OTT-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "OTT-current",
+      "query": "\"Ottawa Senators\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "PHI",
+      "entity_id": "Q192083",
+      "entity_label": "Philadelphia Flyers",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "PHI-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "PHI-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "PHI-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "PHI-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "PHI-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "PHI-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "PHI-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "PHI-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "PHI-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "PHI-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "PHI-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "PHI-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "PHI-current",
+      "query": "\"Philadelphia Flyers\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "PIT",
+      "entity_id": "Q193643",
+      "entity_label": "Pittsburgh Penguins",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "PIT-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "PIT-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "PIT-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "PIT-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "PIT-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "PIT-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "PIT-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "PIT-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "PIT-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "PIT-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "PIT-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "PIT-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "PIT-current",
+      "query": "\"Pittsburgh Penguins\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "SEA",
+      "entity_id": "Q59422166",
+      "entity_label": "Seattle Kraken",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "SEA-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "SEA-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "SEA-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "SEA-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "SEA-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "SEA-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "SEA-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "SEA-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "SEA-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "SEA-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "SEA-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "SEA-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "SEA-current",
+      "query": "\"Seattle Kraken\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "SJS",
+      "entity_id": "Q206381",
+      "entity_label": "San Jose Sharks",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "SJS-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "SJS-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "SJS-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "SJS-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "SJS-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "SJS-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "SJS-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "SJS-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "SJS-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "SJS-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "SJS-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "SJS-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "SJS-current",
+      "query": "\"San Jose Sharks\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "STL",
+      "entity_id": "Q207735",
+      "entity_label": "St. Louis Blues",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "STL-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "STL-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "STL-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "STL-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "STL-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "STL-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "STL-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "STL-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "STL-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "STL-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "STL-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "STL-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "STL-current",
+      "query": "\"St. Louis Blues\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "TBL",
+      "entity_id": "Q201864",
+      "entity_label": "Tampa Bay Lightning",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "TBL-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "TBL-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "TBL-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "TBL-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "TBL-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "TBL-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "TBL-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "TBL-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "TBL-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "TBL-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "TBL-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "TBL-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "TBL-current",
+      "query": "\"Tampa Bay Lightning\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "TOR",
+      "entity_id": "Q203384",
+      "entity_label": "Toronto Maple Leafs",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "TOR-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "TOR-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "TOR-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "TOR-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "TOR-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "TOR-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "TOR-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "TOR-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "TOR-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "TOR-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "TOR-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "TOR-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "TOR-current",
+      "query": "\"Toronto Maple Leafs\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "UTA",
+      "entity_id": "Q125520712",
+      "entity_label": "Utah Hockey Club",
+      "intervals": [
+        {
+          "end_date": "2024-09-10",
+          "expected_days": 90,
+          "interval_id": "UTA-hockey-club-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Hockey%20Club%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240613000000&enddatetime=20240910235959",
+          "start_date": "2024-06-13"
+        },
+        {
+          "end_date": "2024-12-09",
+          "expected_days": 90,
+          "interval_id": "UTA-hockey-club-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Hockey%20Club%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240911000000&enddatetime=20241209235959",
+          "start_date": "2024-09-11"
+        },
+        {
+          "end_date": "2025-03-09",
+          "expected_days": 90,
+          "interval_id": "UTA-hockey-club-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Hockey%20Club%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241210000000&enddatetime=20250309235959",
+          "start_date": "2024-12-10"
+        },
+        {
+          "end_date": "2025-05-06",
+          "expected_days": 58,
+          "interval_id": "UTA-hockey-club-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Hockey%20Club%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250310000000&enddatetime=20250506235959",
+          "start_date": "2025-03-10"
+        }
+      ],
+      "mapping_id": "UTA-hockey-club",
+      "query": "\"Utah Hockey Club\" sourcelang:english",
+      "valid_from": "2024-06-13",
+      "valid_to": "2025-05-06"
+    },
+    {
+      "club_id": "UTA",
+      "entity_id": "Q125520712",
+      "entity_label": "Utah Mammoth",
+      "intervals": [
+        {
+          "end_date": "2025-08-04",
+          "expected_days": 90,
+          "interval_id": "UTA-mammoth-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Mammoth%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250507000000&enddatetime=20250804235959",
+          "start_date": "2025-05-07"
+        },
+        {
+          "end_date": "2025-11-02",
+          "expected_days": 90,
+          "interval_id": "UTA-mammoth-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Mammoth%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250805000000&enddatetime=20251102235959",
+          "start_date": "2025-08-05"
+        },
+        {
+          "end_date": "2026-01-31",
+          "expected_days": 90,
+          "interval_id": "UTA-mammoth-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Mammoth%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251103000000&enddatetime=20260131235959",
+          "start_date": "2025-11-03"
+        },
+        {
+          "end_date": "2026-05-01",
+          "expected_days": 90,
+          "interval_id": "UTA-mammoth-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Mammoth%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260201000000&enddatetime=20260501235959",
+          "start_date": "2026-02-01"
+        },
+        {
+          "end_date": "2026-07-30",
+          "expected_days": 90,
+          "interval_id": "UTA-mammoth-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Mammoth%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260502000000&enddatetime=20260730235959",
+          "start_date": "2026-05-02"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 1,
+          "interval_id": "UTA-mammoth-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Mammoth%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260731000000&enddatetime=20260731235959",
+          "start_date": "2026-07-31"
+        }
+      ],
+      "mapping_id": "UTA-mammoth",
+      "query": "\"Utah Mammoth\" sourcelang:english",
+      "valid_from": "2025-05-07",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "VAN",
+      "entity_id": "Q192890",
+      "entity_label": "Vancouver Canucks",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "VAN-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "VAN-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "VAN-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "VAN-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "VAN-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "VAN-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "VAN-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "VAN-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "VAN-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "VAN-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "VAN-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "VAN-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "VAN-current",
+      "query": "\"Vancouver Canucks\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "VGK",
+      "entity_id": "Q24725640",
+      "entity_label": "Vegas Golden Knights",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "VGK-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "VGK-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "VGK-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "VGK-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "VGK-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "VGK-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "VGK-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "VGK-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "VGK-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "VGK-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "VGK-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "VGK-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "VGK-current",
+      "query": "\"Vegas Golden Knights\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "WPG",
+      "entity_id": "Q472741",
+      "entity_label": "Winnipeg Jets",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "WPG-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "WPG-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "WPG-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "WPG-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "WPG-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "WPG-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "WPG-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "WPG-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "WPG-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "WPG-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "WPG-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "WPG-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "WPG-current",
+      "query": "\"Winnipeg Jets\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "WSH",
+      "entity_id": "Q204627",
+      "entity_label": "Washington Capitals",
+      "intervals": [
+        {
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "WSH-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "WSH-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "WSH-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "WSH-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "WSH-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "WSH-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "WSH-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "WSH-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "WSH-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "WSH-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "WSH-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "WSH-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "WSH-current",
+      "query": "\"Washington Capitals\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    }
+  ],
+  "max_window_days": 90,
+  "minimum_request_spacing_seconds": 6,
+  "source_contract": "Exact full club name; English; raw daily article count and monitored-news denominator.",
+  "source_id": "gdelt-doc-api-timelinevolraw",
+  "superseded_by": "data/manifests/gdelt_timeline_plan.json",
+  "superseded_reason": "GDELT documents daily timeline resolution for all spans longer than one week; one validity-era request reduces source load without reducing granularity."
+}

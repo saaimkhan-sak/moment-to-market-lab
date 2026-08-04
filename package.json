@@ -1,0 +1,12 @@
+{
+  "name": "nhl-moment-to-market-lab",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "serve": ".venv/bin/python -m http.server 4175 --directory app",
+    "test": ".venv/bin/python -m unittest discover -s tests -v",
+    "build:analytics": ".venv/bin/python src/build_attention_panel.py && .venv/bin/python src/fit_attention_model.py",
+    "build": ".venv/bin/python src/build_club_profiles.py && .venv/bin/python src/build_activation_playbooks.py && .venv/bin/python src/build_executive_memos.py && .venv/bin/python src/build_web_release.py",
+    "validate": ".venv/bin/python src/validate_release.py"
+  }
+}

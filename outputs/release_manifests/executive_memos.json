@@ -1,0 +1,328 @@
+{
+  "club_count": 32,
+  "evidence_status": "confirmed",
+  "memo_count": 32,
+  "records": [
+    {
+      "analytical_signature": "fea1a8864e7adce104bfa030521015057b781bdb26d244b33d9a78957aea3d62",
+      "club_id": "ANA",
+      "club_slug": "anaheim-ducks",
+      "html_checksum": "3909161a5eaedb61c3cd7c4699c8109b6a0ea9bd3355901a763d29951edf5fb5",
+      "html_path": "outputs/memos/anaheim-ducks/index.html",
+      "json_checksum": "9aa5bb44fac98808ce69656158079e0720bbccc0a98051f4ed398dc0e1fa755c",
+      "json_path": "outputs/memos/anaheim-ducks/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "e382774c604c475106aa298fdf922e2b55aa28bcc84aa250d870e1911866997c",
+      "club_id": "BOS",
+      "club_slug": "boston-bruins",
+      "html_checksum": "daccdabe03f802fa153a71d46045e4322de004be832cff48c8a74232801dfcd0",
+      "html_path": "outputs/memos/boston-bruins/index.html",
+      "json_checksum": "43e7b29a9ac528bd5960ac90de9e3354c921a13e019cc095b261a2fdb2dd337a",
+      "json_path": "outputs/memos/boston-bruins/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "19c1754b01b09e0ce6ae5683cf560b5cee3bdb562c16be9cbd9e17e252b2a98e",
+      "club_id": "BUF",
+      "club_slug": "buffalo-sabres",
+      "html_checksum": "24c5df56a40993ee739f83496d30bf4b9967304bba0446ebbcd732cfe2669c05",
+      "html_path": "outputs/memos/buffalo-sabres/index.html",
+      "json_checksum": "dd73dcdcae18a3a96e08c7335933d7ee0a04ba665dd3285886c2bb9d156bf1db",
+      "json_path": "outputs/memos/buffalo-sabres/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "6c6ba92073219cfb9a89f41094cc5399466e10a8098f2c7004f045bc14e0c963",
+      "club_id": "CGY",
+      "club_slug": "calgary-flames",
+      "html_checksum": "1d47ba43dd550cbd9309e8fae79129164276d7415f7a776b179ca00d9994b20f",
+      "html_path": "outputs/memos/calgary-flames/index.html",
+      "json_checksum": "8c707abbc39b8632ee29ab2774bff5965eea840392c7e39bc582e95627eeabb1",
+      "json_path": "outputs/memos/calgary-flames/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "37263d30e3c6546b5c5037cd994a52ad90291a718caab1ca87596f62f994b4ec",
+      "club_id": "CAR",
+      "club_slug": "carolina-hurricanes",
+      "html_checksum": "89643fd47683dded308006d9b7cf2c3f953ea1407abf31f23e7c7a9711c1aad7",
+      "html_path": "outputs/memos/carolina-hurricanes/index.html",
+      "json_checksum": "581d4eaa3256f96b6ecb8bc1f1dea482b65f655d6a61874a21f58b5772196661",
+      "json_path": "outputs/memos/carolina-hurricanes/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "972605ebf38e678e53d3e65ffcdca0d0911481be22ade9d1b6babca66d2439cc",
+      "club_id": "CHI",
+      "club_slug": "chicago-blackhawks",
+      "html_checksum": "68c8cb922ac3d2412f9697426d4be522fc45a38d6b038ea6f6c24edc79c6c5fe",
+      "html_path": "outputs/memos/chicago-blackhawks/index.html",
+      "json_checksum": "b3abfa842f51dbe389efe6265811fc9b053917ff30434aad35f187e4a2457ae8",
+      "json_path": "outputs/memos/chicago-blackhawks/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "68047fdfbde9970a00e73e2572bc2479f0141cf1366e33a977775120ef24afbb",
+      "club_id": "COL",
+      "club_slug": "colorado-avalanche",
+      "html_checksum": "0881c101e0ca064148aa7571d2fa3fd95b4a4110794b72272aba03741de04b5a",
+      "html_path": "outputs/memos/colorado-avalanche/index.html",
+      "json_checksum": "f0c85b8578108c00e04dbac6a0ce58fa1b3dd0069381c76c845845d9e99ba0dd",
+      "json_path": "outputs/memos/colorado-avalanche/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "8954f2f3e79b7a106c522a8984376f0fc1861de312657e8d096da4df94e9040d",
+      "club_id": "CBJ",
+      "club_slug": "columbus-blue-jackets",
+      "html_checksum": "ea9379665f69b7f9d7ba4902afc75f7355a9ec2ed674738250721c26d96a5568",
+      "html_path": "outputs/memos/columbus-blue-jackets/index.html",
+      "json_checksum": "7470347d8d3c693ccb4e982e15e32aa04a11121b9e6ba5683def16d155fe9b8a",
+      "json_path": "outputs/memos/columbus-blue-jackets/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "68db008b6a23088baf710b0bc4606922e742e52c4a69654a67807685a6f40635",
+      "club_id": "DAL",
+      "club_slug": "dallas-stars",
+      "html_checksum": "14088ea73e34bd4115bf26dcec2d937a198239076ab9847c6eb32779ff163010",
+      "html_path": "outputs/memos/dallas-stars/index.html",
+      "json_checksum": "0e437e0698846a957148aa3b204ed7a528c6f8fdab5eef905e98bdf9de4c9733",
+      "json_path": "outputs/memos/dallas-stars/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "b653138273a58e928dcb814a8f7218637f7a8c1f2da22c026286ef48eed9abaa",
+      "club_id": "DET",
+      "club_slug": "detroit-red-wings",
+      "html_checksum": "4b64d22cc7318657ef705e8a5daee32cd2889e7f7541dbc90b86514751fd970c",
+      "html_path": "outputs/memos/detroit-red-wings/index.html",
+      "json_checksum": "4dc72ed252bcc5207691ef35f88cb9b70772d0a4a702cd758c4930492c10c2c9",
+      "json_path": "outputs/memos/detroit-red-wings/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "0f32271e066f02afca116f3df8855025c1ec4c41a3f2645369be3878567c9b8e",
+      "club_id": "EDM",
+      "club_slug": "edmonton-oilers",
+      "html_checksum": "bda4c23f26d918e4c9345693f7157ac644cf190cc82d04d48ae41ff5fef98788",
+      "html_path": "outputs/memos/edmonton-oilers/index.html",
+      "json_checksum": "e73c10d59f8adcb26cf5e75e39d22d35a3f7028838adf88d17cf8cb6208f2a0e",
+      "json_path": "outputs/memos/edmonton-oilers/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "08c190b48f85e140669c2981fc0d1c414251b2f5a79d83e59690dd2a1b3bad1c",
+      "club_id": "FLA",
+      "club_slug": "florida-panthers",
+      "html_checksum": "574999d844ad8b304358d8e81c65273df66fd1b6ede546b452b3f01554c423c4",
+      "html_path": "outputs/memos/florida-panthers/index.html",
+      "json_checksum": "5cab2a69df2fab417c159fef09228ff70ddf7ba3d60b334da8d6d65501e38b85",
+      "json_path": "outputs/memos/florida-panthers/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "b7b476787a6e87d40def68220d4b1757280bccec1a109cc9817ce2a2d3697567",
+      "club_id": "LAK",
+      "club_slug": "los-angeles-kings",
+      "html_checksum": "1e873e6bb4ebf61f3f1c8ddd390436b8c0c383c05a374d3181c9e86411407884",
+      "html_path": "outputs/memos/los-angeles-kings/index.html",
+      "json_checksum": "3e1302e858f4ace37d12b2fc2a782f64b384dd5bc1e99425d50c15986ab91b83",
+      "json_path": "outputs/memos/los-angeles-kings/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "a01a36e4cbd0328a7f042c35c885db4ef155a008f4cf36ba0d19f2649ddd574d",
+      "club_id": "MIN",
+      "club_slug": "minnesota-wild",
+      "html_checksum": "02a6938c572322c0c7dfb2215c458f434079f5a97ffed3345be48f5a20c7f5cd",
+      "html_path": "outputs/memos/minnesota-wild/index.html",
+      "json_checksum": "2a343e799ddfe48957a097a1d5e9c56a9a0cc3962fb97272609ff4ce97ff1611",
+      "json_path": "outputs/memos/minnesota-wild/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "ec92797a3d4daed6a98247595f1dddaa2633ef95221d1085e0a3c98559413f1b",
+      "club_id": "MTL",
+      "club_slug": "montreal-canadiens",
+      "html_checksum": "76520ee1f954bbf7fa2aa8389b7de7b78813e471e0f2a297555bf3c141e1368b",
+      "html_path": "outputs/memos/montreal-canadiens/index.html",
+      "json_checksum": "aa470b7179e96ef3a181d3a251390ac0ab519671db51a909dde820652b07e45d",
+      "json_path": "outputs/memos/montreal-canadiens/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "d162f45776433cc6bdceaa6abe87a9a444fb2a120ce010b6522ff0c910841f25",
+      "club_id": "NSH",
+      "club_slug": "nashville-predators",
+      "html_checksum": "55ca0af784794157c13a6349a9ed64247d1dbc3b70e6e88f9ad1098eabf23350",
+      "html_path": "outputs/memos/nashville-predators/index.html",
+      "json_checksum": "1f2b8e5ee307656c871a8deb75282c1c067066d51064bf33ae3adc9a09ae33fb",
+      "json_path": "outputs/memos/nashville-predators/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "c4b871aaca26c035f1a7560ea4c1b4269ea4e1282cdfe30065f3d46009138b2c",
+      "club_id": "NJD",
+      "club_slug": "new-jersey-devils",
+      "html_checksum": "307d314a23a16c5bb83dac531fe7d223aef3aa86fb8b5f53581f836617c23e20",
+      "html_path": "outputs/memos/new-jersey-devils/index.html",
+      "json_checksum": "56c0c92fb0721c3e98fdfb23bfc60b92b57f230dfe2f8eb6b3a99aad8327bbac",
+      "json_path": "outputs/memos/new-jersey-devils/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "8e3a34123dad3a6e3dbaf007dd1a82596f67070b0074931d6505cabebf301dfe",
+      "club_id": "NYI",
+      "club_slug": "new-york-islanders",
+      "html_checksum": "83b2d0234d6464d67e3a94d2fa3b856c855ebfc6c0045608b2c6432166ba157f",
+      "html_path": "outputs/memos/new-york-islanders/index.html",
+      "json_checksum": "27013a7580f85748d628ac52785f03a514bf5b7b40b70aaf07d70e74abb3666f",
+      "json_path": "outputs/memos/new-york-islanders/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "51d4e8a7effec9a893e64b22880d140ce5269e77aaf54caa391ab1bcc78369f0",
+      "club_id": "NYR",
+      "club_slug": "new-york-rangers",
+      "html_checksum": "7cc81420d586ad6b13d7fd693137cee2c45fdcd1b90fe4b5f3271fa1994260e8",
+      "html_path": "outputs/memos/new-york-rangers/index.html",
+      "json_checksum": "87ca42b33352e47d46756a58dad2227549bcd0375ed92f60e0df160033e64efa",
+      "json_path": "outputs/memos/new-york-rangers/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "ea9457b9fd942cb19b3aecb3eb11c15f6f58088f5708c186646ceec726c4e605",
+      "club_id": "OTT",
+      "club_slug": "ottawa-senators",
+      "html_checksum": "2f368b59dde9e2ca06b15ce720d08315e76f0605dbe223f38a29283211f06b66",
+      "html_path": "outputs/memos/ottawa-senators/index.html",
+      "json_checksum": "8b3d0b5278e31a4ef35f5613cb14dcf48c7f65ebf80db7b1b4bba82d790227a3",
+      "json_path": "outputs/memos/ottawa-senators/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "b3ef97478137843a289836c0cfd6626e87cc129e2205e5460eb7971682f99a47",
+      "club_id": "PHI",
+      "club_slug": "philadelphia-flyers",
+      "html_checksum": "46719f2445065d4f4a6a3d2bc24f8f5c439de05dece63dac58c394fb1a02167c",
+      "html_path": "outputs/memos/philadelphia-flyers/index.html",
+      "json_checksum": "483fde08f3e66acf03fe2a826e104d13f39ca59a68bd65f84386ba8243ea5b08",
+      "json_path": "outputs/memos/philadelphia-flyers/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "b3f2a01d02a8b8389b2d74b7144954b8c7eaa8aa4fb99db14c542eada375e45f",
+      "club_id": "PIT",
+      "club_slug": "pittsburgh-penguins",
+      "html_checksum": "516bde653ef813cf9feb876101551e059de5f0f55fc71d0696388a426971e8ff",
+      "html_path": "outputs/memos/pittsburgh-penguins/index.html",
+      "json_checksum": "d1e172d04ace70ffe942785636e40224663c7e72ab93905fbd61cdbfc5cb304b",
+      "json_path": "outputs/memos/pittsburgh-penguins/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "5c4a7b658c344ae8e5b984ad8492f309157235963b3e1d102d00801c944e3c39",
+      "club_id": "SJS",
+      "club_slug": "san-jose-sharks",
+      "html_checksum": "435376e59e1cf76c07c3bc7db1569afe6d6208f583b91e08c1c7967c2d8e5697",
+      "html_path": "outputs/memos/san-jose-sharks/index.html",
+      "json_checksum": "1c1e1e75c491c3923b46e931a4d6cb820dfbe899981c15702a1567c217da5161",
+      "json_path": "outputs/memos/san-jose-sharks/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "fb36d17e345f8dee52b058b31e83aed172294c3907197c8e0bb9f7828de9f84f",
+      "club_id": "SEA",
+      "club_slug": "seattle-kraken",
+      "html_checksum": "63a34c09e5befc4a7caae0ce25d181de7da6f901e25e6e2e43730c3d5f7e7efd",
+      "html_path": "outputs/memos/seattle-kraken/index.html",
+      "json_checksum": "f0aa3a8070165bec30d77dac0c232016258eba89da69cf4b22be0aeaf8c34d15",
+      "json_path": "outputs/memos/seattle-kraken/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "7bc11d79d6d99b1c98ac173073c39990abcbc3a3a047dc98068e524e0f98201a",
+      "club_id": "STL",
+      "club_slug": "st-louis-blues",
+      "html_checksum": "7e8e4758ef0e586babf917182011e95f6e3bc650aee0133bedeb5736bf202079",
+      "html_path": "outputs/memos/st-louis-blues/index.html",
+      "json_checksum": "693d1774cb3e484c14b830b266e32865b08ef81530ff2ffac42c62fb715f3bc5",
+      "json_path": "outputs/memos/st-louis-blues/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "8e01a84ee872da81e87d54cb60226047263ba26e642fb2bbf42ecaca50915cfe",
+      "club_id": "TBL",
+      "club_slug": "tampa-bay-lightning",
+      "html_checksum": "11e01086af04a350e47dfd617fe15693cbedc3a4f42cdb8b9a699dafdf6f3efb",
+      "html_path": "outputs/memos/tampa-bay-lightning/index.html",
+      "json_checksum": "2e62ae732a7f691c783eae43baaeb246d1a559c2363c4cd9b007a1193a8bd848",
+      "json_path": "outputs/memos/tampa-bay-lightning/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "38c559daca971652d2064fad51253929f1452359d1b6ce30b188575a809bf92f",
+      "club_id": "TOR",
+      "club_slug": "toronto-maple-leafs",
+      "html_checksum": "d81d93946b3b0e6c30f0d75361cc8008a8e4573db8acdeaf05bc91112af3caa8",
+      "html_path": "outputs/memos/toronto-maple-leafs/index.html",
+      "json_checksum": "b79b2ff974a94fc8cf4af7c2f7caa20e50b89043117c8c45be2c26b475fb9c3b",
+      "json_path": "outputs/memos/toronto-maple-leafs/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "74aab8b7fed361407b0148a6d493574ca9276950aa37a26499db54c66c4c8aec",
+      "club_id": "UTA",
+      "club_slug": "utah-mammoth",
+      "html_checksum": "83f3929313742f37ee3775319655296833cc58228a0acbab100eab33843c06fb",
+      "html_path": "outputs/memos/utah-mammoth/index.html",
+      "json_checksum": "b4f22c62b576db51223642a74194d52cb04083c435cf0594d250bcbd89da79ac",
+      "json_path": "outputs/memos/utah-mammoth/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "fb866a4257eb39d1b5e7c4b46f01d16dff60325ede6b9380654230e8bcdcd348",
+      "club_id": "VAN",
+      "club_slug": "vancouver-canucks",
+      "html_checksum": "3015e60701524befaa521ba322ce4bcc6c1a3aa8a3e22fe6c5a8d9b5e87c4777",
+      "html_path": "outputs/memos/vancouver-canucks/index.html",
+      "json_checksum": "c563b3d1dbb56820c4907f20ea09566f32ad980c919a16978d3e424923e5ffb2",
+      "json_path": "outputs/memos/vancouver-canucks/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "c3800fe4c2746160de8f233192b09d5418f5feba7f65d8066ca7492fc9ddeaab",
+      "club_id": "VGK",
+      "club_slug": "vegas-golden-knights",
+      "html_checksum": "d94649477ae4d47422ad4732888f01a349c3485aa3d4a650d15c0aae28d7054a",
+      "html_path": "outputs/memos/vegas-golden-knights/index.html",
+      "json_checksum": "eddbd7002b4747c6a973e2ddd94dd2620e7fcc58705546d79875f55b44f9c6c8",
+      "json_path": "outputs/memos/vegas-golden-knights/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "e2ddf11c3ebbdc904b0b00244c84f89f4ced6edb4530bdceff304981fc27984b",
+      "club_id": "WSH",
+      "club_slug": "washington-capitals",
+      "html_checksum": "1b51870b87186775fceeecda773088eea7abb61fb51b59fa30605e4fdb697251",
+      "html_path": "outputs/memos/washington-capitals/index.html",
+      "json_checksum": "3c6d5d82e1c4131e38148326fbe391249d142bfe0d3f7d0cd85825d1222e141d",
+      "json_path": "outputs/memos/washington-capitals/executive-memo.json",
+      "slide_count": 5
+    },
+    {
+      "analytical_signature": "6f09748c9bd1acf79228f011664c7370549529031ba9ba8a565fba95ef7cd53e",
+      "club_id": "WPG",
+      "club_slug": "winnipeg-jets",
+      "html_checksum": "7ded08e287da127bfbfdcae33178708e9277416add0b6f209411cafbff64dde3",
+      "html_path": "outputs/memos/winnipeg-jets/index.html",
+      "json_checksum": "c954ad56e667c8fe4f8d71a66ebbc39208ecc66e54f51873f51a185d7d37b28b",
+      "json_path": "outputs/memos/winnipeg-jets/executive-memo.json",
+      "slide_count": 5
+    }
+  ],
+  "slides_per_memo": 5
+}

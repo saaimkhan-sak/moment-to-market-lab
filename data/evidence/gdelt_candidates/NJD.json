@@ -1,0 +1,41 @@
+{
+  "club_id": "NJD",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.wtae.com/article/anthony-mantha-devils-penguins/71943634",
+      "club_id": "NJD",
+      "query": "\"New Jersey Devils\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:22:49Z",
+      "title": "Penguins free agent Anthony Mantha signs with New Jersey Devils"
+    },
+    {
+      "article_url": "https://www.allaboutthejersey.com/devils-in-the-details-news-and-links/70371/devils-in-the-details-6-19-26-all-signs-edition",
+      "club_id": "NJD",
+      "query": "\"New Jersey Devils\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:22:49Z",
+      "title": "DitD & Open Post - 6 / 19 / 26 : All Signs Edition"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/06/27/2026-nhl-draft-live-tracker-day-two-picks-trades/",
+      "club_id": "NJD",
+      "query": "\"New Jersey Devils\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:22:49Z",
+      "title": "2026 NHL Draft live tracker : Following all of day two picks and trades"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/06/25/declan-chisholm-trade-devils-capitals-draft-pick/",
+      "club_id": "NJD",
+      "query": "\"New Jersey Devils\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:22:49Z",
+      "title": "Capitals trade defenseman Declan Chisholm to Devils for draft pick"
+    },
+    {
+      "article_url": "https://www.allaboutthejersey.com/devils-in-the-details-news-and-links/71155/devils-in-the-details-7-13-26-projecting-edition",
+      "club_id": "NJD",
+      "query": "\"New Jersey Devils\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:22:49Z",
+      "title": "DitD & Open Post - 7 / 13 / 26 : Projecting Edition"
+    }
+  ]
+}

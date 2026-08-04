@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 4844,
+  "channel_id": "UCygaJ2FHLv2HkmGua22dDYg",
+  "channel_title": "Buffalo Sabres",
+  "club_id": "BUF",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-30T00:36:51Z",
+  "oldest_accessible_published_at": "2011-08-24T17:38:07Z",
+  "playlist_pages": 97,
+  "playlist_video_ids": 4844,
+  "retrieved_at": "2026-08-03T19:06:54Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCygaJ2FHLv2HkmGua22dDYg",
+  "uploads_playlist_id": "UUygaJ2FHLv2HkmGua22dDYg",
+  "video_detail_pages": 97
+}

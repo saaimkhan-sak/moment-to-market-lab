@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 998,
+  "channel_id": "UCykaXC_7OKsseaCnnq1bF-A",
+  "channel_title": "Pittsburgh Penguins",
+  "club_id": "PIT",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-03T15:53:19Z",
+  "oldest_accessible_published_at": "2019-07-11T20:20:56Z",
+  "playlist_pages": 20,
+  "playlist_video_ids": 998,
+  "retrieved_at": "2026-08-03T19:30:59Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCykaXC_7OKsseaCnnq1bF-A",
+  "uploads_playlist_id": "UUykaXC_7OKsseaCnnq1bF-A",
+  "video_detail_pages": 20
+}

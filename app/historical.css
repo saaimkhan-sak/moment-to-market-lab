@@ -1,0 +1,42 @@
+.publication-evidence {
+  margin-top: 28px;
+  padding: 16px 0;
+  border-top: 2px solid var(--evergreen);
+  border-bottom: 1px solid var(--rule);
+}
+
+.publication-evidence h3 {
+  margin: 0 0 12px;
+  font-family: "Source Serif 4", serif;
+  font-weight: 600;
+}
+
+.publication-evidence dl {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) auto;
+  margin: 0;
+}
+
+.publication-evidence dt,
+.publication-evidence dd {
+  margin: 0;
+  padding: 8px 0;
+  border-top: 1px solid var(--rule);
+}
+
+.publication-evidence dd {
+  text-align: right;
+  font: 500 11px "IBM Plex Mono", monospace;
+}
+
+@media (max-width: 760px) {
+  .publication-evidence dl {
+    grid-template-columns: 1fr;
+  }
+
+  .publication-evidence dd {
+    padding-top: 0;
+    text-align: left;
+    border-top: 0;
+  }
+}

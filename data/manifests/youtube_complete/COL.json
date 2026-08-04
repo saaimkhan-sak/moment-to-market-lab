@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 1819,
+  "channel_id": "UCM715eqbBCk1JE4zlAwYLqw",
+  "channel_title": "Colorado Avalanche",
+  "club_id": "COL",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-03T17:25:52Z",
+  "oldest_accessible_published_at": "2021-03-17T04:52:30Z",
+  "playlist_pages": 37,
+  "playlist_video_ids": 1819,
+  "retrieved_at": "2026-08-03T19:09:58Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCM715eqbBCk1JE4zlAwYLqw",
+  "uploads_playlist_id": "UUM715eqbBCk1JE4zlAwYLqw",
+  "video_detail_pages": 37
+}

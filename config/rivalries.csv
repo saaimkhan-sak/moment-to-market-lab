@@ -1,0 +1,22 @@
+club_id,opponent_id,rule_version,valid_from,valid_to,evidence_status,source_url,source_note
+ANA,LAK,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/ducks/news/the-freeway-faceoff-a-storied-rivalry,Ducks official history calls the matchup the Freeway Faceoff rivalry.
+BOS,TOR,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/news/brad-marchand-says-toronto-maple-leafs-are-boston-bruins-biggest-rival,Bruins captain described Toronto as the club's biggest current rival.
+BOS,MTL,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/news/montreal-canadiens-boston-bruins-rivalry-294904956,NHL.com documents the longstanding Canadiens-Bruins rivalry.
+BUF,TOR,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/sabres/news/how-to-watch-buffalo-sabres-toronto-maple-leafs-lineup,Sabres official preview calls Toronto a cross-border rival.
+CGY,EDM,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/news/battle-of-alberta-renewed-in-2023-heritage-classic,NHL.com documents the historic Battle of Alberta rivalry.
+CAR,WSH,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/news/carolina-hurricanes-washington-capitals-game-1-preview-may-6,NHL.com describes the clubs as well-acquainted Metropolitan Division rivals after a heated season series.
+CHI,STL,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/news/st-louis-blues-chicago-blackhawks-take-rivalry-outside-at-winter-classic,NHL.com documents the longstanding Blackhawks-Blues rivalry.
+COL,DET,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/redwings/news/espn-e60-documentary-unrivaled-red-wings-334752014,Red Wings official coverage calls it one of the NHL's fiercest all-time rivalries.
+COL,MIN,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/avalanche/news/avalanche-division-rivalry-minnesota-wild-309764076,Avalanche official history identifies Minnesota as a division rivalry.
+CBJ,PIT,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/bluejackets/news/blue-jackets-preview-win-streak-on-line-at-pittsburgh,Blue Jackets official preview explicitly calls Pittsburgh a Metro rival.
+DAL,NSH,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/stars/news/game-day-guide-dallas-stars-at-nashville-predators-101024,Stars official preview calls Nashville a fierce Central Division rival.
+FLA,TBL,1.1.0,2023-10-01,,confirmed,https://media.nhl.com/site/vasset/public/attachments/2025/04/18894/MorningSkate041925.pdf,NHL official playoff notes frame the matchup as a battle for Florida supremacy.
+NJD,NYR,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/rangers/news/topic/rewind/nyr-original-6-americans-rivalry,Rangers official history identifies the Devils as a major rival over four decades.
+NYI,NYR,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/news/top-10-moments-of-new-york-rangers-new-york-islanders-rivalry,NHL.com documents the lifelong Rangers-Islanders rivalry.
+OTT,TOR,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/news/maple-leafs-senators-resume-heated-playoff-rivalry-in-battle-of-ontario,NHL.com documents the Battle of Ontario rivalry.
+PHI,PIT,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/flyers/news/rival-in-focus-pittsburgh-penguins-320227172,Flyers official history calls Pittsburgh the club's bitterest modern rival.
+SJS,VGK,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/sharks/news/power-rankings-top-sharks-rivalries-309640060,Sharks official ranking identifies Vegas as the club's top rivalry.
+SEA,VAN,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/kraken/news/final-buzzer-vancouver-canucks-seattle-kraken-game-recap-gd-x4225,Kraken official coverage calls Vancouver a Pacific Northwest rival.
+UTA,COL,1.1.0,2025-07-16,,confirmed,https://www.nhl.com/utah/news/home-dates-to-know-2025-26-season-feature-7-16-25,Utah official schedule labels Colorado the developing Rocky Mountain Rivalry.
+WPG,EDM,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/news/history-of-edmonton-oilers-winnipeg-jets-rivalry-282920354,NHL.com documents the storied Oilers-Jets rivalry.
+WSH,PIT,1.1.0,2023-10-01,,confirmed,https://www.nhl.com/news/alex-ovechkin-sidney-crosby-rivalry-going-strong-20-years-later,NHL.com documents the two-decade Capitals-Penguins rivalry.

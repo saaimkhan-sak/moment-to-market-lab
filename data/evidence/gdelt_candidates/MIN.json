@@ -1,0 +1,41 @@
+{
+  "club_id": "MIN",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://nypost.com/2026/05/09/betting/betmgm-bonus-code-nypnewsget-get-up-to-1k-in-no-sweat-tokens-for-wild-vs-avalanche/",
+      "club_id": "MIN",
+      "query": "\"Minnesota Wild\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:46Z",
+      "title": "BetMGM bonus code NYPNEWSGET : Get up to $1K in no - sweat tokens for Wild vs . Avalanche"
+    },
+    {
+      "article_url": "https://www.spotrac.com/nhl/player/_/id/73842/caedan-bankier",
+      "club_id": "MIN",
+      "query": "\"Minnesota Wild\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:46Z",
+      "title": "Caedan Bankier Contract , Salary & Cap Hit 2026"
+    },
+    {
+      "article_url": "https://www.kare11.com/article/news/local/outreach/communities-that-kare/foligno-brothers-raise-200k-for-cancer-research/89-d76c4aac-f943-476b-9c21-cae5987d5290",
+      "club_id": "MIN",
+      "query": "\"Minnesota Wild\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:46Z",
+      "title": "Foligno brothers raise $200k for cancer research"
+    },
+    {
+      "article_url": "https://www.durangoherald.com/articles/avalanche-bounce-back-to-beat-the-wild-5-2-and-take-a-3-1-lead-in-the-series/",
+      "club_id": "MIN",
+      "query": "\"Minnesota Wild\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:46Z",
+      "title": "Avalanche bounce back to beat the Wild 5 - 2 and take a 3 - 1 lead in the series"
+    },
+    {
+      "article_url": "https://www.durangoherald.com/articles/avalanche-bounce-back-to-beat-the-wild-5-2-and-take-a-3-1-lead-in-the-series-2/",
+      "club_id": "MIN",
+      "query": "\"Minnesota Wild\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:46Z",
+      "title": "Avalanche bounce back to beat the Wild 5 - 2 and take a 3 - 1 lead in the series"
+    }
+  ]
+}

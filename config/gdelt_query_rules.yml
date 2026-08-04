@@ -1,0 +1,117 @@
+version: 1.1.0
+query_policy: exact_full_name_validity_era_queries_only
+false_positive_policy: retain article-level audit; abbreviations and informal aliases cannot form a quantified query alone
+audit_evidence: data/evidence/gdelt_article_audit.csv
+manual_audit_rubric:
+  true_match:
+    - the club is a principal subject, transaction participant, game participant, or materially discussed comparator
+    - a multi-club article contains a substantive club-specific item
+  false_match:
+    - the club appears only in incidental career history, a footer, navigation, or an unrelated venue reference
+    - the full-name string resolves to a non-NHL entity or copied keyword spam
+  duplicate_policy: syndicated or duplicate URLs are reviewed individually because GDELT counts article observations
+  evidence_review_basis: title, publisher, URL context, and article body when the first three are insufficient
+  threshold: club-level and validity-query quantified use each require at least five reviewed articles and precision of at least 0.90
+clubs:
+  ANA:
+    include: ['"Anaheim Ducks"']
+    exclude: []
+  BOS:
+    include: ['"Boston Bruins"']
+    exclude: []
+  BUF:
+    include: ['"Buffalo Sabres"']
+    exclude: []
+  CGY:
+    include: ['"Calgary Flames"']
+    exclude: []
+  CAR:
+    include: ['"Carolina Hurricanes"']
+    exclude: ['hurricane weather', 'Hurricane Carolina']
+  CHI:
+    include: ['"Chicago Blackhawks"']
+    exclude: []
+  COL:
+    include: ['"Colorado Avalanche"']
+    exclude: []
+  CBJ:
+    include: ['"Columbus Blue Jackets"']
+    exclude: []
+  DAL:
+    include: ['"Dallas Stars"']
+    exclude: []
+  DET:
+    include: ['"Detroit Red Wings"']
+    exclude: []
+  EDM:
+    include: ['"Edmonton Oilers"']
+    exclude: []
+  FLA:
+    include: ['"Florida Panthers"']
+    exclude: ['regional event roundups with no material club item']
+  LAK:
+    include: ['"Los Angeles Kings"']
+    exclude: []
+  MIN:
+    include: ['"Minnesota Wild"']
+    exclude: []
+  MTL:
+    include: ['"Montreal Canadiens"']
+    exclude: []
+  NSH:
+    include: ['"Nashville Predators"']
+    exclude: []
+  NJD:
+    include: ['"New Jersey Devils"']
+    exclude: []
+  NYI:
+    include: ['"New York Islanders"']
+    exclude: []
+  NYR:
+    include: ['"New York Rangers"']
+    exclude: ['Texas Rangers', 'Rangers FC']
+  OTT:
+    include: ['"Ottawa Senators"']
+    exclude: ['incidental owner or bidder affiliation']
+  PHI:
+    include: ['"Philadelphia Flyers"']
+    exclude: []
+  PIT:
+    include: ['"Pittsburgh Penguins"']
+    exclude: []
+  SJS:
+    include: ['"San Jose Sharks"']
+    exclude: []
+  SEA:
+    include: ['"Seattle Kraken"']
+    exclude: []
+  STL:
+    include: ['"St. Louis Blues"']
+    exclude: []
+  TBL:
+    include: ['"Tampa Bay Lightning"']
+    exclude: []
+  TOR:
+    include: ['"Toronto Maple Leafs"']
+    exclude: []
+  UTA:
+    include: ['"Utah Hockey Club"', '"Utah Mammoth"']
+    exclude: []
+  VAN:
+    include: ['"Vancouver Canucks"']
+    exclude: []
+  VGK:
+    include: ['"Vegas Golden Knights"']
+    exclude: []
+  WSH:
+    include: ['"Washington Capitals"']
+    exclude: []
+  WPG:
+    include: ['"Winnipeg Jets"']
+    exclude: ['international hockey coverage where the club is only a player affiliation']
+historical_identities:
+  ARI:
+    include: ['"Arizona Coyotes"']
+    valid_from: 2015-07-01
+    valid_to: 2024-06-30
+    exclude: []

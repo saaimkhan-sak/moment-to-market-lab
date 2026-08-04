@@ -1,0 +1,1433 @@
+{
+  "rows": [
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCyvZHKXloFLuB55IVRQoymA",
+          "description": "Welcome to the \"Locked On Anaheim Ducks Podcast,\" your daily stop for Orange County's favorite hockey team, the Anaheim ...",
+          "published_at": "2022-04-08T20:04:43Z",
+          "title": "Locked On Ducks (Anaheim)"
+        },
+        {
+          "channel_id": "UCM7xcVV9BAWEOuiXi0_wqWw",
+          "description": "The official Youtube page of the Anaheim Ducks.",
+          "published_at": "2010-10-06T19:39:18Z",
+          "title": "Anaheim Ducks"
+        },
+        {
+          "channel_id": "UCHpXOnimn-UyGLEiUxl5urQ",
+          "description": "Your go-to for all things Anaheim Ducks! Hosted by passionate season ticket holders, Sean and Kim (brother & sister), we deliver ...",
+          "published_at": "2021-01-18T23:01:50Z",
+          "title": "Duck My Life"
+        },
+        {
+          "channel_id": "UCnhRac8UDu5vg0oI0iU6-vA",
+          "description": "Affiliated with The Hockey Podcast Network. Available on all streaming services as audio-only.",
+          "published_at": "2020-05-04T07:30:06Z",
+          "title": "Anaheim Ducks Across the Pond"
+        },
+        {
+          "channel_id": "UClMtxjF8WYb2VxP6ZfWCDZg",
+          "description": "Welcome to Aneheim Ducks Super News your favorite channel Hello Ducks Mighty fans, we created this channel with first-hand ...",
+          "published_at": "2023-02-08T20:12:36Z",
+          "title": "Anaheim Ducks Super News"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCM7xcVV9BAWEOuiXi0_wqWw",
+        "description": "The official Youtube page of the Anaheim Ducks.",
+        "published_at": "2010-10-06T19:39:18Z",
+        "title": "Anaheim Ducks"
+      },
+      "candidate_count": 5,
+      "club_id": "ANA",
+      "club_name": "Anaheim Ducks",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:39Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Anaheim+Ducks&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCeNx7hBcFlZ4OXkd-18hJ-g",
+          "description": "The official YouTube channel of the Boston Bruins.",
+          "published_at": "2011-12-07T14:54:50Z",
+          "title": "Boston Bruins"
+        },
+        {
+          "channel_id": "UCqIqxXGr03SvlcgA2Omj_nQ",
+          "description": "Welcome to DAILY source for year-round coverage of the Boston Bruins. We dive deep into the storylines that matter\u2014from David ...",
+          "published_at": "2021-10-05T13:27:30Z",
+          "title": "Locked On Bruins (Boston)"
+        },
+        {
+          "channel_id": "UCiP7KyKodc3OHuN_XhEyPPw",
+          "description": "Welcome to the CLNS Media Network's YouTube channel for Boston Bruins hockey. Get complete inside access to the Bruins at ...",
+          "published_at": "2020-08-10T20:02:36Z",
+          "title": "Bruins on CLNS"
+        },
+        {
+          "channel_id": "UCbF9NnqEZWUo-th4gvsZfnQ",
+          "description": "I bleed black and gold and want to keep you up to date on the latest news about your beloved Boston Bruins and the NHL.",
+          "published_at": "2019-10-26T16:15:44Z",
+          "title": "Bruins Diehards "
+        },
+        {
+          "channel_id": "UCM-HdsWR-xJA4zFtChN561Q",
+          "description": "Follow us on TikTok @_bruinsedits_ Follow us on Instagram @boston.bruins.edits Follow us on X @bruinsedits_.",
+          "published_at": "2019-07-31T01:51:22Z",
+          "title": "Boston Bruins Edits"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCeNx7hBcFlZ4OXkd-18hJ-g",
+        "description": "The official YouTube channel of the Boston Bruins.",
+        "published_at": "2011-12-07T14:54:50Z",
+        "title": "Boston Bruins"
+      },
+      "candidate_count": 5,
+      "club_id": "BOS",
+      "club_name": "Boston Bruins",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:39Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Boston+Bruins&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCygaJ2FHLv2HkmGua22dDYg",
+          "description": "Welcome to the official Buffalo Sabres YouTube channel. Hit the subscribe button and never miss a video! Exclusive ...",
+          "published_at": "2011-06-09T19:37:26Z",
+          "title": "Buffalo Sabres"
+        },
+        {
+          "channel_id": "UCXdmdsb6MQwUCBVzM4ihH7g",
+          "description": "The Kahlenberg Q-3A Chrome Chimetone Air Horn All videos are mine, anyone who uses my videos as there own EXEPT live ...",
+          "published_at": "2017-02-13T01:02:28Z",
+          "title": "Buffalo Sabres Goal Horn"
+        },
+        {
+          "channel_id": "UCizOLItScmRWn9Pt7Y46iZQ",
+          "description": "All Sabres, all the time. Grew up with the Super Sabres in the 90's and ready for another Cup run. Posting my favorite moments ...",
+          "published_at": "2023-01-25T01:53:25Z",
+          "title": "Buffalo Sabres Land"
+        },
+        {
+          "channel_id": "UCvao-lcstvxFlUaTb3E5pSA",
+          "description": "Covering all things Buffalo Sabres hockey.",
+          "published_at": "2021-07-03T04:41:37Z",
+          "title": "The Sabre Report"
+        },
+        {
+          "channel_id": "UCxpDNAdiggHjZqcXk8dvBLQ",
+          "description": "Sneaky Joe DiBiase goes in-depth daily on the Buffalo Sabres with the Locked On Sabres podcast. From game recaps, to film ...",
+          "published_at": "2021-07-21T20:13:51Z",
+          "title": "Locked On Sabres"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCygaJ2FHLv2HkmGua22dDYg",
+        "description": "Welcome to the official Buffalo Sabres YouTube channel. Hit the subscribe button and never miss a video! Exclusive ...",
+        "published_at": "2011-06-09T19:37:26Z",
+        "title": "Buffalo Sabres"
+      },
+      "candidate_count": 5,
+      "club_id": "BUF",
+      "club_name": "Buffalo Sabres",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:40Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Buffalo+Sabres&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCFQqBMe3HSg6ltl09MlLHcQ",
+          "description": "The official YouTube channel of the 1989 Stanley Cup Champions!",
+          "published_at": "2014-05-01T20:52:01Z",
+          "title": "Calgary Flames"
+        },
+        {
+          "channel_id": "UC_du8Sn2DD_vwP8ZJZ2RmtQ",
+          "description": "Flames Digest is a channel hosted by Mark Griffith that breaks down all of the latest news, reports and rumours on the Calgary ...",
+          "published_at": "2024-01-25T20:17:58Z",
+          "title": "Flames Digest"
+        },
+        {
+          "channel_id": "UCSceDAGvzezmR5Fyo_a-VEg",
+          "description": "The Locked On Flames Podcast is your daily audio/video podcast that brings you in-depth coverage, analysis, highlights and ...",
+          "published_at": "2021-07-09T13:52:58Z",
+          "title": "Locked On Flames"
+        },
+        {
+          "channel_id": "UCbtTX-SjqXzu_iDpkrGhGew",
+          "description": "Hello Calgary Flames fans, welcome to the Calgary Flames News Channel. Here you can find out about everything that happens ...",
+          "published_at": "2023-02-10T18:05:00Z",
+          "title": "Calgary Flames NEWS"
+        },
+        {
+          "channel_id": "UClXRiZe5ImnQ0GBoH5L_d3w",
+          "description": "",
+          "published_at": "2026-05-21T10:11:40Z",
+          "title": "CALGARY FLAMES fan 119\ud83d\udd25 \u2665 "
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCFQqBMe3HSg6ltl09MlLHcQ",
+        "description": "The official YouTube channel of the 1989 Stanley Cup Champions!",
+        "published_at": "2014-05-01T20:52:01Z",
+        "title": "Calgary Flames"
+      },
+      "candidate_count": 5,
+      "club_id": "CGY",
+      "club_name": "Calgary Flames",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:40Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Calgary+Flames&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCsjx7L3gOJJYxmaEMiwxvVQ",
+          "description": "Welcome to the official YouTube channel of the Carolina Hurricanes. Subscribe for news, stories, and features from the most fun ...",
+          "published_at": "2010-05-07T18:22:42Z",
+          "title": "Carolina Hurricanes"
+        },
+        {
+          "channel_id": "UCQ2suv9ZAZX28wE90broOdA",
+          "description": "Attention Canaics! The premier daily podcast for your favorite bunch of jerks has finally arrived in the form of the Locked On ...",
+          "published_at": "2022-01-11T15:07:02Z",
+          "title": "Locked On Hurricanes"
+        },
+        {
+          "channel_id": "UCGFCqhOgbbZG0Ti_BiL_iIg",
+          "description": "",
+          "published_at": "2026-05-06T01:59:17Z",
+          "title": "Carolina Hurricanes vs Vegas Golden Knights Live"
+        },
+        {
+          "channel_id": "UCtj9beAUCanURlnpdbCgf_w",
+          "description": "Sound the Siren \u2013 A Carolina Hurricanes Fancast where sharp analysis meets sharper wit. From smashing great guests (lol...all ...",
+          "published_at": "2024-07-19T20:29:59Z",
+          "title": "Sound the Siren - a Carolina Hurricanes Fancast"
+        },
+        {
+          "channel_id": "UCm6Fg9EbENqYWGAVmkQFlqA",
+          "description": "",
+          "published_at": "2025-08-01T11:31:40Z",
+          "title": "Fanboy Carolina Hurricanes"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCsjx7L3gOJJYxmaEMiwxvVQ",
+        "description": "Welcome to the official YouTube channel of the Carolina Hurricanes. Subscribe for news, stories, and features from the most fun ...",
+        "published_at": "2010-05-07T18:22:42Z",
+        "title": "Carolina Hurricanes"
+      },
+      "candidate_count": 5,
+      "club_id": "CAR",
+      "club_name": "Carolina Hurricanes",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:41Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Carolina+Hurricanes&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UC-eEFwGhQy3BGHYKp92KG1A",
+          "description": "The official YouTube channel of the Chicago Blackhawks. For more videos, visit blackhawks.com and our social media channels.",
+          "published_at": "2006-05-19T20:34:19Z",
+          "title": "Chicago Blackhawks"
+        },
+        {
+          "channel_id": "UCc1cYsJV90zr-fxKmeUkcGA",
+          "description": "Every weekday, host Jack Bushman brings you the Locked On Blackhawks Podcast! Join Jack Monday through Friday for an ...",
+          "published_at": "2021-06-22T18:28:53Z",
+          "title": "Locked On Blackhawks"
+        },
+        {
+          "channel_id": "UC5sD1bOBqrxDyOHIYuhR4dQ",
+          "description": "Welcome to Just Another Year Chicago Blackhawks], your home for Chicago Blackhawks news, analysis, rumors, and fan-focused ...",
+          "published_at": "2024-12-23T16:24:23Z",
+          "title": "Just Another Year Chicago Blackhawks"
+        },
+        {
+          "channel_id": "UCfSOQKE0tcp4jK-dNlPvupQ",
+          "description": "Blackhawks post game live, Bears game reactions, Spring Football games, Midwest weather, Emma Fred and Lucy, Fishing, and ...",
+          "published_at": "2014-08-18T16:14:05Z",
+          "title": "Chicago Blackhawks 19"
+        },
+        {
+          "channel_id": "UCwpYt08fXlfsAsOq8Wcg24Q",
+          "description": "in this channel I play ea sports nhl games.",
+          "published_at": "2026-08-01T00:26:28Z",
+          "title": "Krypto JX"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UC-eEFwGhQy3BGHYKp92KG1A",
+        "description": "The official YouTube channel of the Chicago Blackhawks. For more videos, visit blackhawks.com and our social media channels.",
+        "published_at": "2006-05-19T20:34:19Z",
+        "title": "Chicago Blackhawks"
+      },
+      "candidate_count": 5,
+      "club_id": "CHI",
+      "club_name": "Chicago Blackhawks",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:42Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Chicago+Blackhawks&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCM715eqbBCk1JE4zlAwYLqw",
+          "description": "The Official YouTube page of the Colorado Avalanche with the latest news, highlights and team exclusives.",
+          "published_at": "2010-07-12T22:26:00Z",
+          "title": "Colorado Avalanche"
+        },
+        {
+          "channel_id": "UCIg-1EJ77LGYsh9i8IaIO7w",
+          "description": "Locked On Avalanche is your daily audio and video podcast dose of the most up-to-date information on the boys in burgundy and ...",
+          "published_at": "2021-07-09T13:50:08Z",
+          "title": "Locked On Avalanche"
+        },
+        {
+          "channel_id": "UCht8i5yiWUhnqRpHsoxC4QA",
+          "description": "Avalanche Digest is a YouTube channel dedicated to covering all the latest news, trades, reports, and rumors about the Colorado ...",
+          "published_at": "2025-03-08T01:54:49Z",
+          "title": "Avalanche Digest"
+        },
+        {
+          "channel_id": "UCgWlqjy0PXJnUdM1VDGWi4A",
+          "description": "",
+          "published_at": "2019-11-20T21:16:17Z",
+          "title": "Colorado Avalanche Society"
+        },
+        {
+          "channel_id": "UCgm5XfQijAfNeNa3kK5KoFQ",
+          "description": "",
+          "published_at": "2023-02-09T13:10:03Z",
+          "title": "Colorado avalanche "
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCM715eqbBCk1JE4zlAwYLqw",
+        "description": "The Official YouTube page of the Colorado Avalanche with the latest news, highlights and team exclusives.",
+        "published_at": "2010-07-12T22:26:00Z",
+        "title": "Colorado Avalanche"
+      },
+      "candidate_count": 5,
+      "club_id": "COL",
+      "club_name": "Colorado Avalanche",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:42Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Colorado+Avalanche&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCxdPjcb73fJilPpcRxgzi3A",
+          "description": "Check out everything relating to the Columbus Blue Jackets of the National Hockey League. With everything from player ...",
+          "published_at": "2010-09-14T01:39:00Z",
+          "title": "Columbus Blue Jackets"
+        },
+        {
+          "channel_id": "UC9Tsndgsrew5fjeXhsdHYhw",
+          "description": "Every weekday, join Jay Forster as he talks about the good, the bad and the ugly of your favourite team and theirs, the Columbus ...",
+          "published_at": "2022-02-28T17:40:29Z",
+          "title": "Locked On Blue Jackets"
+        },
+        {
+          "channel_id": "UCD9pOOCWdUjYfFTx2mwoWmA",
+          "description": "The CBJ Fan Zone were we play NHL 24 world of chel and other hockey things.",
+          "published_at": "2026-03-01T00:51:50Z",
+          "title": "Columbus blue jackets Fan Zone "
+        },
+        {
+          "channel_id": "UCvJ7oJf0P-4-FaDzsCcBXcA",
+          "description": "CBJ My name is Gavin, I love the Columbus Blue Jackets and am a hockey fan. I also play hockey for the Newark ...",
+          "published_at": "2026-03-28T01:33:42Z",
+          "title": "CBJ_Editz"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCxdPjcb73fJilPpcRxgzi3A",
+        "description": "Check out everything relating to the Columbus Blue Jackets of the National Hockey League. With everything from player ...",
+        "published_at": "2010-09-14T01:39:00Z",
+        "title": "Columbus Blue Jackets"
+      },
+      "candidate_count": 4,
+      "club_id": "CBJ",
+      "club_name": "Columbus Blue Jackets",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:43Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Columbus+Blue+Jackets&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCxfgTxo6HUmnZkxHWFV5T-A",
+          "description": "Official YouTube of the Dallas Stars.",
+          "published_at": "2013-11-06T17:35:11Z",
+          "title": "Dallas Stars"
+        },
+        {
+          "channel_id": "UCI34dAVWg9G6pfJkJYxuS9g",
+          "description": "If you would like to support me to be able to post more you can cashapp me at $dallasstars20 If you would like to watch full Dallas ...",
+          "published_at": "2019-06-06T05:33:13Z",
+          "title": "Dallas Stars fan"
+        },
+        {
+          "channel_id": "UCeTuanJiJclPy-lFa_gbu8A",
+          "description": "Subscribe to follow your favorite youth hockey team, the Dallas Stars Elite 2013! DSE 2013 represents Dallas and Texas at the ...",
+          "published_at": "2026-01-25T16:43:41Z",
+          "title": "Dallas Stars Elite 2013"
+        },
+        {
+          "channel_id": "UCjq87QjLoSxsHgcLZr7-zQQ",
+          "description": "Texas Tigers 16U AA, Dallas Stars Elite 08 AAA (2022-2024), Dallas Stars Elite 18U Hockey and One United Volleyball live ...",
+          "published_at": "2020-04-13T21:12:01Z",
+          "title": "Dallas Stars Elite 18U"
+        },
+        {
+          "channel_id": "UCQiEMVlmnUqjPIlsv-Oi27g",
+          "description": "Welcome to the Dallas Stars News Channel! Here, you'll find everything you need to know about the Dallas Stars hockey team.",
+          "published_at": "2022-12-28T20:23:15Z",
+          "title": "Dallas Stars News Today"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCxfgTxo6HUmnZkxHWFV5T-A",
+        "description": "Official YouTube of the Dallas Stars.",
+        "published_at": "2013-11-06T17:35:11Z",
+        "title": "Dallas Stars"
+      },
+      "candidate_count": 5,
+      "club_id": "DAL",
+      "club_name": "Dallas Stars",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:43Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Dallas+Stars&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCj_N4nmrUUiYd0_Vn5_as_w",
+          "description": "The official YouTube channel of the Detroit Red Wings of the National Hockey League. Subscribe for all-things Red Wings!",
+          "published_at": "2009-09-12T19:28:28Z",
+          "title": "Detroit Red Wings"
+        },
+        {
+          "channel_id": "UCOmRIsBXHYfLmDTw71hoB3g",
+          "description": "Sports Radio Producer Brian Fisher and cult classic Scotty Bentley walk you through the highs and lows (mostly lows) of the ...",
+          "published_at": "2021-12-02T15:07:24Z",
+          "title": "Locked On Red Wings"
+        },
+        {
+          "channel_id": "UCpN1qVH8cA2gOdFw4ccCqTQ",
+          "description": "Welcome to the home of the Detroit Jr. Red Wings Brick Team. This channel documents our full journey to the Brick\u2014from ...",
+          "published_at": "2026-04-10T22:59:30Z",
+          "title": "Detroit Jr. Red Wings 2026"
+        },
+        {
+          "channel_id": "UCBAd0jG2C83r8jG_TJ0s4Og",
+          "description": "Detroit Red Wings Game Highlights and Compilations.",
+          "published_at": "2009-01-19T01:55:12Z",
+          "title": "awood40"
+        },
+        {
+          "channel_id": "UCqwFoRyL2mTfYcsI40VNTbg",
+          "description": "Hello Detroit Red Wings fans, welcome, here you will find everything you need to know about the team, from the latest news and ...",
+          "published_at": "2023-02-08T02:16:08Z",
+          "title": "Detroit Red Wings News Today"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCj_N4nmrUUiYd0_Vn5_as_w",
+        "description": "The official YouTube channel of the Detroit Red Wings of the National Hockey League. Subscribe for all-things Red Wings!",
+        "published_at": "2009-09-12T19:28:28Z",
+        "title": "Detroit Red Wings"
+      },
+      "candidate_count": 5,
+      "club_id": "DET",
+      "club_name": "Detroit Red Wings",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:44Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Detroit+Red+Wings&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCyfbxrAcT9w7pHvDeYCtc0Q",
+          "description": "The Official YouTube Channel of the Edmonton Oilers.",
+          "published_at": "2010-09-20T03:38:12Z",
+          "title": "Edmonton Oilers"
+        },
+        {
+          "channel_id": "UC4K4mprYG72He49k56Eging",
+          "description": "Daily Edmonton Oilers & NHL Hockey Content Including: Pre-Game Reports, Post-Game Reactions, \"Day After\" Discussions, ...",
+          "published_at": "2015-02-18T01:23:48Z",
+          "title": "Austin Hockey"
+        },
+        {
+          "channel_id": "UC9SX5n9NUc-S8KGszsplljQ",
+          "description": "Welcome to the Oilersnation YouTube Channel Part of the Nation Network of Podcasts and Shows! On our channel, you can ...",
+          "published_at": "2014-10-02T16:58:13Z",
+          "title": "Oilersnation"
+        },
+        {
+          "channel_id": "UCYXxEZEECJdvueUaaC1_1tw",
+          "description": "Welcome to Locked On Oilers, your premier destination for daily insights, analysis, and updates on the Edmonton Oilers. Hosted ...",
+          "published_at": "2022-02-24T15:29:01Z",
+          "title": "Locked On Oilers"
+        },
+        {
+          "channel_id": "UCv-9yTgXY8rzdkDiaPRbyeQ",
+          "description": "The Oilers Fanatic brings you the latest news & analysis on the Edmonton Oilers. #LetsGoOilers.",
+          "published_at": "2020-09-27T02:20:14Z",
+          "title": "The Oilers Fanatic"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCyfbxrAcT9w7pHvDeYCtc0Q",
+        "description": "The Official YouTube Channel of the Edmonton Oilers.",
+        "published_at": "2010-09-20T03:38:12Z",
+        "title": "Edmonton Oilers"
+      },
+      "candidate_count": 5,
+      "club_id": "EDM",
+      "club_name": "Edmonton Oilers",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:44Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Edmonton+Oilers&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCSSc4wVk6telelb58RrLYdg",
+          "description": "Home of the Cats, rats and two-time Stanley Cup Champions.",
+          "published_at": "2008-09-02T14:37:47Z",
+          "title": "Florida Panthers"
+        },
+        {
+          "channel_id": "UChnqB3Vwi9BfGNIIn81XT2w",
+          "description": "Welcome to Flying Fluffy Panthers Hockey, the ultimate channel for die-hard hockey fans! We bring you the latest NHL news, ...",
+          "published_at": "2016-06-20T16:59:43Z",
+          "title": "Flying Fluffy Panthers Hockey"
+        },
+        {
+          "channel_id": "UCch1pcW4EjV0MB98vGvDuJQ",
+          "description": "Panthers Digest is a YouTube channel dedicated to delivering the latest news, trades, reports, and rumors about the Florida ...",
+          "published_at": "2025-04-07T00:53:57Z",
+          "title": "Panthers Digest"
+        },
+        {
+          "channel_id": "UCHsUfqcK1qfjlqhamXbta_Q",
+          "description": "Talking Florida Panthers and the NHL EVERY DAY with South Florida Native Armando Velez. The Panthers are currently in their ...",
+          "published_at": "2022-01-11T20:40:42Z",
+          "title": "Locked On Panthers (Florida)"
+        },
+        {
+          "channel_id": "UCH_MBikZBj8MYuRhp9cW42Q",
+          "description": "Florida Panthers Hockey Podcast & Around NHL Coverage on our live streams Check out our linktree; appreciate all donations ...",
+          "published_at": "2024-05-17T16:59:33Z",
+          "title": "Cats \u2019N\u2019 Rats Florida Panthers Hockey Podcast"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCSSc4wVk6telelb58RrLYdg",
+        "description": "Home of the Cats, rats and two-time Stanley Cup Champions.",
+        "published_at": "2008-09-02T14:37:47Z",
+        "title": "Florida Panthers"
+      },
+      "candidate_count": 5,
+      "club_id": "FLA",
+      "club_name": "Florida Panthers",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:45Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Florida+Panthers&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCP1bDIMe-hTC2nJprRJHtRg",
+          "description": "Est. 1967 in Los Angeles | #GoKingsGo.",
+          "published_at": "2007-12-13T00:37:33Z",
+          "title": "LA Kings"
+        },
+        {
+          "channel_id": "UCq3eOjCIjJ_FtnUroeOuu2g",
+          "description": "Every weekday join Eddie Garcia (Locked on NHL Game Night and Puck Podcast host) in a daily discussion about all things Los ...",
+          "published_at": "2021-07-09T14:00:06Z",
+          "title": "Locked On Kings (LA)"
+        },
+        {
+          "channel_id": "UCpfbHeP1wICV-ue-9C5hleA",
+          "description": "The voice of Los Angeles Kings in Runet! http://vk.com/lakings.",
+          "published_at": "2009-04-13T08:27:37Z",
+          "title": "Roman Los Angeles Kings"
+        },
+        {
+          "channel_id": "UCZpoWfIcxdJaloVSjGuFKbg",
+          "description": "Don't And Click Subscribe.",
+          "published_at": "2020-03-07T22:01:06Z",
+          "title": "Australian Happy My Brother Studios "
+        },
+        {
+          "channel_id": "UCU-US-CcYYjARQlAyrzBD4w",
+          "description": "A good Video editor and very Creative, a big Star Wars fan and a big Hockey fan, THE OTTAWA SENATORS. GO SENS GO!",
+          "published_at": "2026-07-18T23:14:59Z",
+          "title": "@CarlsJrcreativity (Carlos)"
+        }
+      ],
+      "candidate": null,
+      "candidate_count": 5,
+      "club_id": "LAK",
+      "club_name": "Los Angeles Kings",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:45Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Los+Angeles+Kings&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCQRr7SxnnndFYuuRUtOIEnA",
+          "description": "The official YouTube channel of the Minnesota Wild.",
+          "published_at": "2016-08-01T20:41:37Z",
+          "title": "Minnesota Wild"
+        },
+        {
+          "channel_id": "UCmuih6ndJpcU69flsDUpTeA",
+          "description": "Judd Zulgad and AJ Fredrickson are lifelong Minnesota hockey die-hards and Minnesota Wild media nerds, and this is their safe ...",
+          "published_at": "2025-12-17T15:35:32Z",
+          "title": "Judd's Hockey Show | Minnesota Wild podcast"
+        },
+        {
+          "channel_id": "UCuiL8PL7IOEpRcSOLdJL74A",
+          "description": "The official YouTube channel of the Minnesota Wild Audio Network find more info at www.wild.com/radio.",
+          "published_at": "2020-08-06T17:14:43Z",
+          "title": "Minnesota Wild Audio Network"
+        },
+        {
+          "channel_id": "UCmJQ644CWZxFb8uq9KB8sug",
+          "description": "Locked on Wild is your daily Minnesota Wild podcast. Hosted by Seth Toupal, your daily Minnesota Wild Insider, if it happens in ...",
+          "published_at": "2021-09-09T14:26:04Z",
+          "title": "Locked On Wild"
+        },
+        {
+          "channel_id": "UCq1pwA7yVhOh5cBqasaGI4A",
+          "description": "",
+          "published_at": "2015-10-26T06:21:16Z",
+          "title": "Minnesota Wild After Dark"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCQRr7SxnnndFYuuRUtOIEnA",
+        "description": "The official YouTube channel of the Minnesota Wild.",
+        "published_at": "2016-08-01T20:41:37Z",
+        "title": "Minnesota Wild"
+      },
+      "candidate_count": 5,
+      "club_id": "MIN",
+      "club_name": "Minnesota Wild",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:46Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Minnesota+Wild&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCJG0Vt13PlOczJGT-DPSG-Q",
+          "description": "Locked On Canadiens is a daily podcast covering the Montreal Canadiens, for Habs fans everywhere. Ian Boisvert and Laura ...",
+          "published_at": "2021-12-02T15:17:00Z",
+          "title": "Locked On Canadiens"
+        },
+        {
+          "channel_id": "UCy8mtXf-Lxkyl6I6HMAq6-g",
+          "description": "La cha\u00eene YouTube officielle des Canadiens de Montr\u00e9al.",
+          "published_at": "2007-04-01T07:55:20Z",
+          "title": "Canadiens de Montr\u00e9al"
+        },
+        {
+          "channel_id": "UCN0o9S2Quko4SaGitlK2Txw",
+          "description": "Welcome to my channel \u2013 your go-to destination for all things NHL, with a special focus on the legendary Montreal Canadiens!",
+          "published_at": "2007-04-29T07:59:54Z",
+          "title": "Whiskeylung"
+        },
+        {
+          "channel_id": "UCgenG6srueglAboZAM_Nyrg",
+          "description": "Montreal Canadiens News is a YouTube channel dedicated to providing up-to-date information and coverage on the Montreal ...",
+          "published_at": "2023-03-10T23:30:43Z",
+          "title": "MONTREAL CANADIENS NEWS"
+        },
+        {
+          "channel_id": "UCJekRbtONYIKhJkisjUXxjw",
+          "description": "Hello! Montreal Canadiens Fans Welcome to our channel! Here, we are passionate about everything related to the world of ...",
+          "published_at": "2023-02-08T20:55:13Z",
+          "title": "Montreal Canadiens News Today"
+        }
+      ],
+      "candidate": null,
+      "candidate_count": 5,
+      "club_id": "MTL",
+      "club_name": "Montreal Canadiens",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:46Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Montreal+Canadiens&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCnFXrrRYVwI82BrrFvBxg0w",
+          "description": "Welcome to Smashville and the official YouTube channel of the Nashville Predators. Subscribe for all the latest interviews, ...",
+          "published_at": "2013-07-23T14:27:45Z",
+          "title": "Nashville Predators"
+        },
+        {
+          "channel_id": "UCIGOBoMfvjwsyVyfzMpWNQA",
+          "description": "The Locked On Predators podcast is your daily source for all Nashville Predators happenings! Five days a week, The Hockey ...",
+          "published_at": "2022-01-03T22:11:29Z",
+          "title": "Locked On Predators"
+        },
+        {
+          "channel_id": "UCaAFevUuv3IPVlRd5WFJLeg",
+          "description": "",
+          "published_at": "2015-10-29T02:37:01Z",
+          "title": "Nashville Predators Highlights"
+        },
+        {
+          "channel_id": "UClUKb8NXbPuK8f_wyeqw2DA",
+          "description": "",
+          "published_at": "2023-01-26T23:17:39Z",
+          "title": "Nashville Predators vs New Jersey Devils Live"
+        },
+        {
+          "channel_id": "UC9BS5ZRRt_yY-k5frKEOO3w",
+          "description": "",
+          "published_at": "2017-05-22T03:18:48Z",
+          "title": "Nashville Predators fan club"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCnFXrrRYVwI82BrrFvBxg0w",
+        "description": "Welcome to Smashville and the official YouTube channel of the Nashville Predators. Subscribe for all the latest interviews, ...",
+        "published_at": "2013-07-23T14:27:45Z",
+        "title": "Nashville Predators"
+      },
+      "candidate_count": 5,
+      "club_id": "NSH",
+      "club_name": "Nashville Predators",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:47Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Nashville+Predators&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCTB0WLJJBDRFxtqPLndvw6g",
+          "description": "The official YouTube channel of the New Jersey Devils. The New Jersey Devils are the premier National Hockey League (NHL) ...",
+          "published_at": "2011-04-29T20:07:49Z",
+          "title": "New Jersey Devils"
+        },
+        {
+          "channel_id": "UCeKoGW1dUFK2yZ33hUsyCOA",
+          "description": "Welcome to Speaking of the Devils, NJ.com's YouTube destination for all things New Jersey Devils. Our Devils reporter breaks ...",
+          "published_at": "2025-09-25T18:32:28Z",
+          "title": "Speaking of the Devils"
+        },
+        {
+          "channel_id": "UCUzj8lCWEMy9mwlNRKUd1ww",
+          "description": "Home base for the 2011 AAA Devils Youth (NJ) team. We livestream games and post full-game replays, and clips from league ...",
+          "published_at": "2025-09-16T02:15:37Z",
+          "title": "New Jersey Devils Youth  2011 AAA"
+        },
+        {
+          "channel_id": "UCm3ezkQMF_45VCJCCxD5jpQ",
+          "description": "Credentialed media member and Devils writer (New Jersey Hockey Now), Zach Berman, brings you all the latest news, stories, ...",
+          "published_at": "2022-01-11T20:44:45Z",
+          "title": "Locked On Devils"
+        },
+        {
+          "channel_id": "UCVxUEgFAhJuSOI2ientB5aw",
+          "description": "Home Of The 2011 New Jersey Devils Youth Hockey Team.",
+          "published_at": "2024-08-23T01:26:09Z",
+          "title": "New Jersey Devils 2011"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCTB0WLJJBDRFxtqPLndvw6g",
+        "description": "The official YouTube channel of the New Jersey Devils. The New Jersey Devils are the premier National Hockey League (NHL) ...",
+        "published_at": "2011-04-29T20:07:49Z",
+        "title": "New Jersey Devils"
+      },
+      "candidate_count": 5,
+      "club_id": "NJD",
+      "club_name": "New Jersey Devils",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:47Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=New+Jersey+Devils&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UC33CtnOXm7fyNVGmT_3UcMA",
+          "description": "The home of the New York Islanders on YouTube.",
+          "published_at": "2006-09-15T12:40:16Z",
+          "title": "New York Islanders"
+        },
+        {
+          "channel_id": "UCJFHZjnRg5qU1ZUr_XwjVsw",
+          "description": "Where you'll find your perfect edit.",
+          "published_at": "2026-07-20T00:30:13Z",
+          "title": "NEW YORK ISLANDERS  VAULT"
+        },
+        {
+          "channel_id": "UChU2O3_WFpjVbJdRIexNbiQ",
+          "description": "",
+          "published_at": "2020-10-21T18:48:13Z",
+          "title": "JamHam_Pictures"
+        },
+        {
+          "channel_id": "UC3WvSiNiw1DI1vAPK84iDgA",
+          "description": "\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0439 \u043a\u0430\u043d\u0430\u043b! \u0417\u0434\u0435\u0441\u044c \u043c\u044b \u0434\u0435\u043b\u0438\u043c\u0441\u044f \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u043c \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u043c \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0438\u0431\u043b\u0438\u0436\u0430\u0435\u0442 ...",
+          "published_at": "2023-06-09T18:17:21Z",
+          "title": "Tommy"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UC33CtnOXm7fyNVGmT_3UcMA",
+        "description": "The home of the New York Islanders on YouTube.",
+        "published_at": "2006-09-15T12:40:16Z",
+        "title": "New York Islanders"
+      },
+      "candidate_count": 4,
+      "club_id": "NYI",
+      "club_name": "New York Islanders",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:48Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=New+York+Islanders&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCXlX2t7ziIJpZQWZcrHGnow",
+          "description": "The official YouTube channel of the New York Rangers.",
+          "published_at": "2006-03-22T14:54:11Z",
+          "title": "New York Rangers"
+        },
+        {
+          "channel_id": "UCSfYg3T_XtaKAinwiLLooYg",
+          "description": "The Locked On New York Rangers Podcast is your one-stop shop for all things New York Rangers. Enjoy a daily ...",
+          "published_at": "2021-08-10T13:12:25Z",
+          "title": "Locked On Rangers (New York)"
+        },
+        {
+          "channel_id": "UC7j8HsXuwOd8ovLwu2c_nZg",
+          "description": "Rangers Digest is a YouTube Channel dedicated to bringing you the latest news, trades, reports, analysis and rumors ...",
+          "published_at": "2024-05-22T19:48:34Z",
+          "title": "Rangers Digest"
+        },
+        {
+          "channel_id": "UCY7uJZRhIkM1iLKEdo6gmag",
+          "description": "The Blueshirt Underground is something different. Its not your every day video show running down stats and tedium. Its a show ...",
+          "published_at": "2019-06-29T05:42:06Z",
+          "title": "Blueshirt Underground Show - New York Rangers Talk"
+        },
+        {
+          "channel_id": "UCkRRMnGGKwyhToYRzGq7Jzw",
+          "description": "",
+          "published_at": "2021-05-28T03:20:28Z",
+          "title": "BlueTruth: New York Rangers Talk with Brian Attard"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCXlX2t7ziIJpZQWZcrHGnow",
+        "description": "The official YouTube channel of the New York Rangers.",
+        "published_at": "2006-03-22T14:54:11Z",
+        "title": "New York Rangers"
+      },
+      "candidate_count": 5,
+      "club_id": "NYR",
+      "club_name": "New York Rangers",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:48Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=New+York+Rangers&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCtgGJaIlIzYE2Ney_P2ps9w",
+          "description": "Official YouTube channel of the Ottawa Senators.",
+          "published_at": "2006-07-10T20:17:35Z",
+          "title": "Ottawa Senators"
+        },
+        {
+          "channel_id": "UCz-TT-zluOZH9VEuEgKnl_A",
+          "description": "The #1 Daily Podcast Covering Ottawa Senators Hockey. Hosted by Ross Levitan and Brandon Piller. The Locked On Senators ...",
+          "published_at": "2021-07-27T13:55:42Z",
+          "title": "Locked On Senators"
+        },
+        {
+          "channel_id": "UCqf2GDQisRh_dXerVnZ2zSg",
+          "description": "Coming In Hot is the multi-award-winning Ottawa Senators show delivering unfiltered, must-watch Sens and NHL coverage every ...",
+          "published_at": "2021-02-19T16:37:43Z",
+          "title": "Coming In Hot"
+        },
+        {
+          "channel_id": "UCI7dsEr9xO_zDUM305eCuiA",
+          "description": "Official YouTube channel of the U18 AA Ottawa Senators Women's Hockey Club.",
+          "published_at": "2021-09-01T19:39:37Z",
+          "title": "U18AA Ottawa Senators Women's Hockey Club"
+        },
+        {
+          "channel_id": "UCokt8Yb0SIYB49gJgZodoQA",
+          "description": "Official YouTube channel of the U22AA Ottawa Senators Women's Hockey Club The U22 OWSHC play in the OWHA Elite league.",
+          "published_at": "2020-05-02T21:42:20Z",
+          "title": "U22AA Ottawa Senators Women's Hockey Club"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCtgGJaIlIzYE2Ney_P2ps9w",
+        "description": "Official YouTube channel of the Ottawa Senators.",
+        "published_at": "2006-07-10T20:17:35Z",
+        "title": "Ottawa Senators"
+      },
+      "candidate_count": 5,
+      "club_id": "OTT",
+      "club_name": "Ottawa Senators",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:49Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Ottawa+Senators&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCr6jSk2_SLOmjCG-3GeIStw",
+          "description": "This is the Official YouTube page of the Philadelphia Flyers. Subscribe to the Philadelphia YouTube channel to watch our original ...",
+          "published_at": "2014-08-15T22:05:01Z",
+          "title": "Philadelphia Flyers"
+        },
+        {
+          "channel_id": "UCzafww-qrCISz3Hwy7hkUuQ",
+          "description": "Locked On Flyers Podcast brings you the latest look at your Philadelphia Flyers five days a week! Host Rachel Donner, along with ...",
+          "published_at": "2021-09-09T14:29:41Z",
+          "title": "Locked On Flyers"
+        },
+        {
+          "channel_id": "UCL02u05nQFtAoBA-ufnYkMg",
+          "description": "",
+          "published_at": "2026-07-03T13:18:04Z",
+          "title": "Philadelphia Flyers Performance"
+        },
+        {
+          "channel_id": "UCi_KvaTum0YyP-RNYrHFgiw",
+          "description": "The Philadelphia Flyers - disco music straight out of the 70's and available to enjoy on every streaming channel. 12 sizzling ...",
+          "published_at": "2026-04-22T14:43:56Z",
+          "title": "The Philadelphia Flyers Music"
+        },
+        {
+          "channel_id": "UCPO1BaPHXSEtXOg5BRlaq3Q",
+          "description": "The Philadelphia Flyers PowerPlay are a power wheelchair floor hockey team based in the Philadelphia metropolitan area.",
+          "published_at": "2019-01-18T00:20:33Z",
+          "title": "Philadelphia Flyers PowerPlay"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCr6jSk2_SLOmjCG-3GeIStw",
+        "description": "This is the Official YouTube page of the Philadelphia Flyers. Subscribe to the Philadelphia YouTube channel to watch our original ...",
+        "published_at": "2014-08-15T22:05:01Z",
+        "title": "Philadelphia Flyers"
+      },
+      "candidate_count": 5,
+      "club_id": "PHI",
+      "club_name": "Philadelphia Flyers",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:49Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Philadelphia+Flyers&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCykaXC_7OKsseaCnnq1bF-A",
+          "description": "The official YouTube channel of the Pittsburgh Penguins!",
+          "published_at": "2015-12-13T03:07:32Z",
+          "title": "Pittsburgh Penguins"
+        },
+        {
+          "channel_id": "UCBhECUiu6J4oElf_vN0tJBA",
+          "description": "Original content covering the Pittsburgh Penguins produced for DK Pittsburgh Sports, our city's pioneering, independent sports ...",
+          "published_at": "2023-03-14T18:39:06Z",
+          "title": "DK Pittsburgh Sports | Penguins"
+        },
+        {
+          "channel_id": "UCbWmhtMBJ6B1-q4YygJSy-w",
+          "description": "The Home of Pittsburgh Hockey Now on YouTube Dan Kingerski talks Pittsburgh Penguins hockey. Credentialed locker room ...",
+          "published_at": "2019-05-08T03:44:34Z",
+          "title": "Pittsburgh Hockey Now"
+        },
+        {
+          "channel_id": "UCtqkWr6NVFOvP3UxmhQRazA",
+          "description": "The Official Pittsburgh Penguins Youtube page.",
+          "published_at": "2012-03-26T18:21:16Z",
+          "title": "Pittsburgh Penguins"
+        },
+        {
+          "channel_id": "UCjlgq6gYIJCRwF7Z_IzuVwg",
+          "description": "Ever since I was a kid, I have been obsessed with the Pittsburgh Penguins. They have been my favorite team to cheer for and ...",
+          "published_at": "2019-05-29T19:11:15Z",
+          "title": "Pittsburgh Penguins Montages"
+        }
+      ],
+      "candidate": null,
+      "candidate_count": 5,
+      "club_id": "PIT",
+      "club_name": "Pittsburgh Penguins",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:50Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Pittsburgh+Penguins&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCxQ6TOrK5RtG1Rt3GI02EJA",
+          "description": "The Official YouTube page of the National Hockey League's San Jose Sharks.",
+          "published_at": "2011-05-12T16:39:23Z",
+          "title": "San Jose Sharks"
+        },
+        {
+          "channel_id": "UCUwjWXBCpK5K9O0sivx3-dQ",
+          "description": "San Jose Hockey Now is the insider destination for the smartest, most entertaining San Jose Sharks coverage. The SJHN Podcast ...",
+          "published_at": "2007-05-22T03:41:41Z",
+          "title": "San Jose Hockey Now"
+        },
+        {
+          "channel_id": "UCcEuDcICvWTCMwN_Isuh_ZA",
+          "description": "Join JD Young every weekday to discuss all things San Jose Sharks. JD is a contributor at San Jose Hockey Now and Fear the ...",
+          "published_at": "2021-09-27T13:26:53Z",
+          "title": "Locked On Sharks"
+        },
+        {
+          "channel_id": "UCg1Kx4uOH6d9SMVvevrobpw",
+          "description": "Sharks Digest is a YouTube channel that delivers the latest news, trades, reports, and rumors about the San Jose Sharks.",
+          "published_at": "2025-01-07T21:55:47Z",
+          "title": "Sharks Digest"
+        },
+        {
+          "channel_id": "UChuRoPxh4Zur6mSpZmfsElA",
+          "description": "",
+          "published_at": "2024-12-11T18:33:26Z",
+          "title": "San Jose Sharks - Topic"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCxQ6TOrK5RtG1Rt3GI02EJA",
+        "description": "The Official YouTube page of the National Hockey League's San Jose Sharks.",
+        "published_at": "2011-05-12T16:39:23Z",
+        "title": "San Jose Sharks"
+      },
+      "candidate_count": 5,
+      "club_id": "SJS",
+      "club_name": "San Jose Sharks",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:50Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=San+Jose+Sharks&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCxspiBq2xf5pLjz9_NMjoyw",
+          "description": "Some say we know more about the cosmos than we do our own waters. Maybe that's what draws us to the sea\u2014the vast expanse, ...",
+          "published_at": "2018-11-19T23:06:42Z",
+          "title": "Seattle Kraken"
+        },
+        {
+          "channel_id": "UCY4SOI77PRAzWTuKfJwO_4g",
+          "description": "Locked On Kraken is a daily podcast covering the 32nd NHL team! Zaiem Beg of Davy Jones' Locker Room guides you through ...",
+          "published_at": "2021-08-10T12:27:53Z",
+          "title": "Locked On Kraken"
+        },
+        {
+          "channel_id": "UCDvR8CQuZTVYJ8pqBdRdWlw",
+          "description": "Jeff Januszek and Joey Cirilo talk Seattle Kraken and the NHL for hockey newbs and diehards. Find us anywhere you get your ...",
+          "published_at": "2021-11-14T05:08:53Z",
+          "title": "The Kraken Pod"
+        },
+        {
+          "channel_id": "UCNKXzW6syGQZVmY5r4v5dzg",
+          "description": "Welcome to the Seattle Kraken news channel, the newest NHL team! In this channel, you will find everything you need to know ...",
+          "published_at": "2023-03-19T16:38:29Z",
+          "title": "Seattle Kraken News"
+        },
+        {
+          "channel_id": "UCyz6A8Noqsk0DeT9HfX_Wxg",
+          "description": "Introducing The Kraken Report a channel dedicated to bringing you up to date Seattle Kraken hockey news daily! SEATTLE WE ...",
+          "published_at": "2020-07-24T02:29:22Z",
+          "title": "The Kraken Report - NHL Seattle"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCxspiBq2xf5pLjz9_NMjoyw",
+        "description": "Some say we know more about the cosmos than we do our own waters. Maybe that's what draws us to the sea\u2014the vast expanse, ...",
+        "published_at": "2018-11-19T23:06:42Z",
+        "title": "Seattle Kraken"
+      },
+      "candidate_count": 5,
+      "club_id": "SEA",
+      "club_name": "Seattle Kraken",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:51Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Seattle+Kraken&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCtN4OcxSgiJhDMPXo5A5Gqg",
+          "description": "The Official YouTube Channel of the St. Louis Blues.",
+          "published_at": "2010-04-20T16:03:48Z",
+          "title": "St. Louis Blues"
+        },
+        {
+          "channel_id": "UCyZLd1dD67b3krdfsIubtfw",
+          "description": "Conversations with, and storytelling by, those who have made St. Louis Blues hockey what it is today. Hosted by Blues ...",
+          "published_at": "2024-11-15T22:43:28Z",
+          "title": "St. Louis Blues Hockey Legends"
+        },
+        {
+          "channel_id": "UCImNqEYZmDX_EwIB1RbgrMg",
+          "description": "Haley Taylor Simon and an array of guests lead you through the season with a daily podcast on the St. Louis Blues.",
+          "published_at": "2021-08-31T12:27:41Z",
+          "title": "Locked On Blues"
+        },
+        {
+          "channel_id": "UCIfwEDdnw1m7IOanrenGUBA",
+          "description": "",
+          "published_at": "2015-04-15T06:42:53Z",
+          "title": "St. Louis Blues Goals"
+        },
+        {
+          "channel_id": "UCaCG1-vKXTRMXrbjyGE6AvA",
+          "description": "",
+          "published_at": "2026-03-08T23:14:59Z",
+          "title": "St Louis Blues"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCtN4OcxSgiJhDMPXo5A5Gqg",
+        "description": "The Official YouTube Channel of the St. Louis Blues.",
+        "published_at": "2010-04-20T16:03:48Z",
+        "title": "St. Louis Blues"
+      },
+      "candidate_count": 5,
+      "club_id": "STL",
+      "club_name": "St. Louis Blues",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:51Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=St.+Louis+Blues&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCgC7zVCS9UJg-ziFINnwzyA",
+          "description": "Welcome to hockey in paradise. Your '04, '20, & '21 Stanley Cup Champions.",
+          "published_at": "2012-11-02T17:08:44Z",
+          "title": "Tampa Bay Lightning"
+        },
+        {
+          "channel_id": "UClEnMX-CSZKA6ZHiXDU7Y3Q",
+          "description": "Your daily source for all things @TBLightningNHL, hosted by Nick Morgan and Greg Stephen! Join us each day as we break ...",
+          "published_at": "2021-07-21T20:16:27Z",
+          "title": "Locked On Lightning"
+        },
+        {
+          "channel_id": "UCL0C1C-j2TTM0VtHvN7WMoA",
+          "description": "WE THE THUNDER | Tampa Bay Lightning Podcast *We The Thunder* is a **Tampa Bay Lightning\u2013focused podcast** hosted by ...",
+          "published_at": "2015-09-01T01:32:43Z",
+          "title": "We The Thunder a Tampa Bay Lightning Fan Podcast"
+        },
+        {
+          "channel_id": "UCvzIPu3RSgxcreh5NKsUJTA",
+          "description": "30 \u0438\u0437 38.",
+          "published_at": "2026-02-17T10:41:06Z",
+          "title": "Vhs Fanboy Tampa Bay Lightning"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCgC7zVCS9UJg-ziFINnwzyA",
+        "description": "Welcome to hockey in paradise. Your '04, '20, & '21 Stanley Cup Champions.",
+        "published_at": "2012-11-02T17:08:44Z",
+        "title": "Tampa Bay Lightning"
+      },
+      "candidate_count": 4,
+      "club_id": "TBL",
+      "club_name": "Tampa Bay Lightning",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:52Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Tampa+Bay+Lightning&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCMrpTL3zZyNA5S1p9B3FhWg",
+          "description": "The official YouTube channel of the Toronto Maple Leafs.",
+          "published_at": "2006-05-05T03:00:02Z",
+          "title": "Toronto Maple Leafs"
+        },
+        {
+          "channel_id": "UCkUjSzthJUlO0uyUpiJfnxg",
+          "description": "Hockey YouTuber. Steve Dangle Podcast host. SDPN co-CEO. I make videos after every Leafs game! That and a bunch of other ...",
+          "published_at": "2007-02-26T04:02:02Z",
+          "title": "SteveDangle"
+        },
+        {
+          "channel_id": "UCQcWQcfmoPkh4PlwWi9U6fw",
+          "description": "Welcome to the Leafsnation YouTube Channel Part of the Nation Network of Podcasts and Shows! On our channel, you can ...",
+          "published_at": "2022-11-07T15:23:07Z",
+          "title": "The Leafs Nation"
+        },
+        {
+          "channel_id": "UC704dOotkV_QlFw_KXzmVzw",
+          "description": "Every weekday, Mike DiStefano and David Morassutti bring you the Locked On Leafs Podcast. Join Mike and Dave for a daily ...",
+          "published_at": "2021-07-23T12:51:18Z",
+          "title": "Locked On Leafs"
+        },
+        {
+          "channel_id": "UCwpzgPlze4IAh_u6sSsVnVQ",
+          "description": "Toronto Maple Leafs Baseball TV is your official home of Maple Leafs Baseball! Here, you can watch each and every home game ...",
+          "published_at": "2018-06-30T23:30:26Z",
+          "title": "Toronto Maple Leafs Baseball TV"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCMrpTL3zZyNA5S1p9B3FhWg",
+        "description": "The official YouTube channel of the Toronto Maple Leafs.",
+        "published_at": "2006-05-05T03:00:02Z",
+        "title": "Toronto Maple Leafs"
+      },
+      "candidate_count": 5,
+      "club_id": "TOR",
+      "club_name": "Toronto Maple Leafs",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:52Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Toronto+Maple+Leafs&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCT0uj5F-RnIAqkp0XLSMaqg",
+          "description": "Utah has spoken. A new Ice Age dawns.",
+          "published_at": "2024-04-17T23:16:58Z",
+          "title": "Utah Mammoth"
+        },
+        {
+          "channel_id": "UC1b1UeuxqeFbsqtyY8bJg3A",
+          "description": "Clean Hits is the Number One Utah Mammoth Podcast.",
+          "published_at": "2024-06-19T21:18:06Z",
+          "title": "Clean Hits Hockey - a Utah Mammoth podcast"
+        },
+        {
+          "channel_id": "UCUbcbq-B6bPCLaR0OqcJzXg",
+          "description": "Utah Mammoth Daily is not endorsed, sponsored by, or affiliated with the NHL or its 32 teams. The content of our videos is ...",
+          "published_at": "2025-08-15T14:35:12Z",
+          "title": "Utah Mammoth Daily"
+        },
+        {
+          "channel_id": "UCQiVCFld44QrwiBKPr9Rn4g",
+          "description": "Welcome to the YouTube home of the #1 daily podcast on the Utah Mammoth. Locked On Mammoth hosted by Robyn Lea\u00f1o ...",
+          "published_at": "2021-09-20T14:35:23Z",
+          "title": "Locked On Mammoth"
+        },
+        {
+          "channel_id": "UCRY6Wk-1-ZvGFSvFNNU3oTg",
+          "description": "This channel talks about the Utah Mammoth hockey team. We will update the fans on state of the team, catch up with current ...",
+          "published_at": "2024-04-24T04:58:09Z",
+          "title": "Utah Mammoth DNA"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCT0uj5F-RnIAqkp0XLSMaqg",
+        "description": "Utah has spoken. A new Ice Age dawns.",
+        "published_at": "2024-04-17T23:16:58Z",
+        "title": "Utah Mammoth"
+      },
+      "candidate_count": 5,
+      "club_id": "UTA",
+      "club_name": "Utah Mammoth",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:53Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Utah+Mammoth&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCr-FENk9ztCt4cBLbL5pI-w",
+          "description": "Welcome to the official YouTube channel of the Vancouver Canucks.",
+          "published_at": "2006-01-03T11:24:38Z",
+          "title": "Vancouver Canucks"
+        },
+        {
+          "channel_id": "UCcdtwfKHpqdzT9RjAkxpOTA",
+          "description": "Welcome to the Canucks Army YouTube Channel Part of the Nation Network of Podcasts and Shows! Are you tired of feeling left ...",
+          "published_at": "2022-11-07T15:20:32Z",
+          "title": "CanucksArmy"
+        },
+        {
+          "channel_id": "UCxTy6zoyK7tfvOm4GGOjxKQ",
+          "description": "",
+          "published_at": "2024-01-25T08:49:57Z",
+          "title": "Vancouver Canucks"
+        },
+        {
+          "channel_id": "UCtbtH8A1c3uyxUqKQDnLowQ",
+          "description": "Welcome to Canucks On Ice News! Your ultimate source for Vancouver Canucks updates, trade rumors, highlights, and the latest ...",
+          "published_at": "2022-07-16T01:20:09Z",
+          "title": "Vancouver Canucks NEWS TODAY FANS"
+        },
+        {
+          "channel_id": "UCGDVkzK9qpFScXWJaY1V2bQ",
+          "description": "\"Welcome to VancouverCanucks\u2014your ultimate destination for all things Vancouver Canucks! Whether you're a die-hard fan or ...",
+          "published_at": "2025-01-01T04:38:29Z",
+          "title": "Vancouver Canucks"
+        }
+      ],
+      "candidate": null,
+      "candidate_count": 5,
+      "club_id": "VAN",
+      "club_name": "Vancouver Canucks",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:53Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Vancouver+Canucks&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCyUzGmp1kAmlkNUzAqW9xJw",
+          "description": "The official YouTube channel of the Vegas Golden Knights. #VegasBorn.",
+          "published_at": "2017-11-01T01:22:24Z",
+          "title": "Vegas Golden Knights"
+        },
+        {
+          "channel_id": "UC5TsFVGHJvB7Y1_RbRpDk2Q",
+          "description": "Welcome to Locked On Golden Knights, the daily podcast of the Vegas Golden Knights. Longtime Las Vegas sportscaster Tony ...",
+          "published_at": "2021-12-02T14:59:29Z",
+          "title": "Locked On Golden Knights"
+        },
+        {
+          "channel_id": "UC0mKKBQNTUdLc-ky2vbTKkw",
+          "description": "The YouTube home of SinBin.vegas, the best website covering the Vegas Golden Knights NHL team.",
+          "published_at": "2015-09-27T23:53:48Z",
+          "title": "SinBin.vegas"
+        },
+        {
+          "channel_id": "UCpagGpdxxqaJIfvRhuZDSBA",
+          "description": "",
+          "published_at": "2019-03-13T04:25:33Z",
+          "title": "Vegas Golden Knights Recap"
+        },
+        {
+          "channel_id": "UCypBHGEPxiX8hsUDCllG1Nw",
+          "description": "Vegas Golden Knights Fan channel!",
+          "published_at": "2018-03-05T04:33:16Z",
+          "title": "Vegas Golden Knights"
+        }
+      ],
+      "candidate": null,
+      "candidate_count": 5,
+      "club_id": "VGK",
+      "club_name": "Vegas Golden Knights",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:54Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Vegas+Golden+Knights&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCAX21FrzWy76WBRtOX1LgbA",
+          "description": "Your official YouTube home for Washington Capitals.",
+          "published_at": "2007-01-23T16:38:04Z",
+          "title": "Washington Capitals"
+        },
+        {
+          "channel_id": "UCMtWZbyOcmccHZtdFhatclw",
+          "description": "Each weekday, Washington Capitals enthusiast, Dan Holmi, brings his in depth analysis, game recaps, game previews and ...",
+          "published_at": "2021-11-01T19:45:14Z",
+          "title": "Locked On Capitals"
+        },
+        {
+          "channel_id": "UCFGZ6CKx1xX6-7vqCZpF3Cg",
+          "description": "30 \u0438\u0437 38.",
+          "published_at": "2026-05-24T06:35:44Z",
+          "title": "Vhs Fanboy Washington Capitals"
+        },
+        {
+          "channel_id": "UCTPy9ZPqt713-lD9vZ2LShA",
+          "description": "Welcome to BBC USA** \u2014 your trusted source for breaking news, global affairs, U.S. politics, international relations, military ...",
+          "published_at": "2026-08-03T08:51:07Z",
+          "title": "BBC U.S.A"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCAX21FrzWy76WBRtOX1LgbA",
+        "description": "Your official YouTube home for Washington Capitals.",
+        "published_at": "2007-01-23T16:38:04Z",
+        "title": "Washington Capitals"
+      },
+      "candidate_count": 4,
+      "club_id": "WSH",
+      "club_name": "Washington Capitals",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:54Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Washington+Capitals&type=channel&maxResults=5&key=[REDACTED]"
+    },
+    {
+      "all_candidates": [
+        {
+          "channel_id": "UCRaSe1OUiCAsgFJy8tWAPBw",
+          "description": "Welcome to the official YouTube channel for the Winnipeg Jets of the National Hockey League. Go Jets Go! Winnipeg, Manitoba ...",
+          "published_at": "2014-07-24T14:49:21Z",
+          "title": "Winnipeg Jets"
+        },
+        {
+          "channel_id": "UCMY_Oif0ratOBPPHQan-5Hg",
+          "description": "The official Youtube account of the 'Jets @ Noon' podcast with Cam Poitras & Jim Toth! Tune in as we take a daily look at the ...",
+          "published_at": "2025-02-04T17:08:58Z",
+          "title": "Jets @ Noon"
+        },
+        {
+          "channel_id": "UC3wKm_I_WXOW1ho3k5O3PlQ",
+          "description": "Welcome to the Locked On Jets Podcast with your host, Harrison Lee (@HLLivingLoco)! Tune in every week, Monday through ...",
+          "published_at": "2022-01-31T16:54:23Z",
+          "title": "Locked On Jets (Winnipeg) "
+        },
+        {
+          "channel_id": "UCEqYcU4IEXvfWt0vtGA_Cww",
+          "description": "Winnipeg Sports Talk brings you the latest news, analysis and opinion on the local sports scene including Winnipeg Jets, the ...",
+          "published_at": "2021-02-17T19:21:02Z",
+          "title": "Winnipeg Sports Talk"
+        },
+        {
+          "channel_id": "UCm55TjVIeErlyQ9NX2hKfWg",
+          "description": "Your #1 source for all Winnipeg Jets news and content! Contact: jetshubyt@gmail.com.",
+          "published_at": "2022-01-14T05:16:11Z",
+          "title": "JetsHub"
+        }
+      ],
+      "candidate": {
+        "channel_id": "UCRaSe1OUiCAsgFJy8tWAPBw",
+        "description": "Welcome to the official YouTube channel for the Winnipeg Jets of the National Hockey League. Go Jets Go! Winnipeg, Manitoba ...",
+        "published_at": "2014-07-24T14:49:21Z",
+        "title": "Winnipeg Jets"
+      },
+      "candidate_count": 5,
+      "club_id": "WPG",
+      "club_name": "Winnipeg Jets",
+      "evidence_status": "candidate_pending_official_verification",
+      "retrieved_at": "2026-08-03T14:44:55Z",
+      "source_url": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=Winnipeg+Jets&type=channel&maxResults=5&key=[REDACTED]"
+    }
+  ],
+  "source": {
+    "evidence_status": "confirmed",
+    "reason": "API candidate discovery only; official verification remains separate.",
+    "retrieved_at": "2026-08-03T14:44:55Z",
+    "source_id": "youtube"
+  }
+}

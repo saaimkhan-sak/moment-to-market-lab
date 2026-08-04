@@ -1,0 +1,413 @@
+{
+  "as_of": "2026-08-03",
+  "club_id": "WSH",
+  "club_slug": "washington-capitals",
+  "feedback_question": "Which public-attention signal would be useful in your team’s workflow, and which internal data would you need before acting on it?",
+  "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+  "slides": [
+    {
+      "as_of": "2026-08-03",
+      "body": "Wikimedia information demand and audited GDELT earned-media volume agree in modeled and club-local raw direction, with at least ten modeled and isolated observations per channel and every modeled and raw interval excluding zero.",
+      "club_name": "Washington Capitals",
+      "evidence": [
+        "Moment: hat trick",
+        "Window: immediate",
+        "Minimum modeled sample: 37",
+        "Cross-channel status: stable_positive"
+      ],
+      "kicker": "DECISION AND EVIDENCE COVERAGE",
+      "limitation": "This is a reproducible public-signal association, not causal evidence, ticket demand, sponsor value, conversion, or fan identity.",
+      "slide": 1,
+      "title": "Hat trick showed a stable positive public-attention association in the immediate window."
+    },
+    {
+      "as_of": "2026-08-03",
+      "body": "The profile keeps immediate, short-persistence, and sustained windows separate and suppresses club–moment cells with fewer than ten observations.",
+      "club_name": "Washington Capitals",
+      "evidence": [
+        "Wikimedia observations: 4,049",
+        "GDELT observations: 4,031",
+        "Official YouTube videos: 1,452",
+        "GDELT audit precision: 100.0%"
+      ],
+      "kicker": "CLUB MOMENT-RESPONSE PROFILE",
+      "limitation": "Public statistics are current at retrieval time; historical 24-hour and 72-hour video trajectories were not reconstructed.",
+      "slide": 2,
+      "title": "238 registered moments across the eligible 2015–16 through 2025–26 archive."
+    },
+    {
+      "as_of": "2026-08-03",
+      "benchmark": [
+        {
+          "leading_window": "immediate",
+          "moment_type": "four_point_game",
+          "stable_club_window_cells": 5
+        },
+        {
+          "leading_window": "immediate",
+          "moment_type": "hat_trick",
+          "stable_club_window_cells": 3
+        },
+        {
+          "leading_window": "immediate",
+          "moment_type": "overtime_win",
+          "stable_club_window_cells": 3
+        }
+      ],
+      "body": "The benchmark counts only club–moment–window cells that meet both sample and precision rules. A high single-channel estimate is not promoted to a stable finding.",
+      "club_name": "Washington Capitals",
+      "kicker": "LEAGUE BENCHMARK",
+      "limitation": "League comparisons describe public-signal associations and do not rank club business performance.",
+      "slide": 3,
+      "title": "Cross-channel agreement is uncommon by design."
+    },
+    {
+      "as_of": "2026-08-03",
+      "club_name": "Washington Capitals",
+      "kicker": "THREE ACTIVATION TEST NOTES",
+      "limitation": "Every action is a test protocol. Any internal KPI or commercial use requires club validation.",
+      "playbooks": [
+        {
+          "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 30 titles coded as roster announcement; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
+          "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
+          "club_id": "WSH",
+          "club_name": "Washington Capitals",
+          "confidence_label": "stable_cross_channel_public_signal",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "WSH",
+                "confidence_interval_high": 0.1169871515364509,
+                "confidence_interval_low": 0.066019115828853,
+                "estimate": 0.09120559734317557,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 23,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "four_point_game",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.42435406436630196,
+                "raw_confidence_interval_low": 0.0480914792671783,
+                "raw_median_lift": 0.28754304405689995,
+                "sample_size": 51
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "WSH",
+                "confidence_interval_high": 0.07141096193884255,
+                "confidence_interval_low": 0.043176025623230085,
+                "estimate": 0.05719923812142591,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 23,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "four_point_game",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.280588559288693,
+                "raw_confidence_interval_low": 0.1375590020229265,
+                "raw_median_lift": 0.15739124814168434,
+                "sample_size": 51
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 23,
+                "modeled_confidence_interval_high": 0.1169871515364509,
+                "modeled_confidence_interval_low": 0.066019115828853,
+                "modeled_estimate": 0.09120559734317557,
+                "modeled_sample_size": 51,
+                "raw_confidence_interval_high": 0.42435406436630196,
+                "raw_confidence_interval_low": 0.0480914792671783,
+                "raw_median_lift": 0.28754304405689995
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 23,
+                "modeled_confidence_interval_high": 0.07141096193884255,
+                "modeled_confidence_interval_low": 0.043176025623230085,
+                "modeled_estimate": 0.05719923812142591,
+                "modeled_sample_size": 51,
+                "raw_confidence_interval_high": 0.280588559288693,
+                "raw_confidence_interval_low": 0.1375590020229265,
+                "raw_median_lift": 0.15739124814168434
+              }
+            ],
+            "cross_channel_status": "stable_positive",
+            "minimum_isolated_sample_size": 23,
+            "minimum_sample_size": 51,
+            "post_window": "immediate",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "four_point_game",
+          "official_content_context": {
+            "accessible_video_count": 1452,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 24,
+              "game_highlight_or_recap": 5,
+              "press_conference_or_media": 17,
+              "roster_announcement": 30,
+              "short_form": 1
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "roster_announcement",
+            "leading_observed_title_format_count": 30,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "timed_activation_test",
+          "owner_function": "content",
+          "playbook_id": "washington-capitals--1--four_point_game",
+          "priority_within_club": 1,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
+        },
+        {
+          "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 30 titles coded as roster announcement; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
+          "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
+          "club_id": "WSH",
+          "club_name": "Washington Capitals",
+          "confidence_label": "stable_cross_channel_public_signal",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "WSH",
+                "confidence_interval_high": 0.15819554782446277,
+                "confidence_interval_low": 0.08260616072800597,
+                "estimate": 0.11976320505833327,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 14,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "hat_trick",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.5899960169257885,
+                "raw_confidence_interval_low": 0.06471147245641011,
+                "raw_median_lift": 0.31083775079936915,
+                "sample_size": 37
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "WSH",
+                "confidence_interval_high": 0.08543516065120049,
+                "confidence_interval_low": 0.04432670190466492,
+                "estimate": 0.06468254491854442,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 14,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "hat_trick",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.2714394131039717,
+                "raw_confidence_interval_low": 0.04860431871191028,
+                "raw_median_lift": 0.1528083589351428,
+                "sample_size": 37
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 14,
+                "modeled_confidence_interval_high": 0.15819554782446277,
+                "modeled_confidence_interval_low": 0.08260616072800597,
+                "modeled_estimate": 0.11976320505833327,
+                "modeled_sample_size": 37,
+                "raw_confidence_interval_high": 0.5899960169257885,
+                "raw_confidence_interval_low": 0.06471147245641011,
+                "raw_median_lift": 0.31083775079936915
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 14,
+                "modeled_confidence_interval_high": 0.08543516065120049,
+                "modeled_confidence_interval_low": 0.04432670190466492,
+                "modeled_estimate": 0.06468254491854442,
+                "modeled_sample_size": 37,
+                "raw_confidence_interval_high": 0.2714394131039717,
+                "raw_confidence_interval_low": 0.04860431871191028,
+                "raw_median_lift": 0.1528083589351428
+              }
+            ],
+            "cross_channel_status": "stable_positive",
+            "minimum_isolated_sample_size": 14,
+            "minimum_sample_size": 37,
+            "post_window": "immediate",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "hat_trick",
+          "official_content_context": {
+            "accessible_video_count": 1452,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 24,
+              "game_highlight_or_recap": 5,
+              "press_conference_or_media": 17,
+              "roster_announcement": 30,
+              "short_form": 1
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "roster_announcement",
+            "leading_observed_title_format_count": 30,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "timed_activation_test",
+          "owner_function": "content",
+          "playbook_id": "washington-capitals--2--hat_trick",
+          "priority_within_club": 2,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
+        },
+        {
+          "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 30 titles coded as roster announcement; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
+          "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
+          "club_id": "WSH",
+          "club_name": "Washington Capitals",
+          "confidence_label": "directional_hypothesis_not_stable",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "WSH",
+                "confidence_interval_high": 0.22567129134493102,
+                "confidence_interval_low": 0.17403142336142619,
+                "estimate": 0.19957351202455564,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 26,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "overtime_win",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.4927487076641759,
+                "raw_confidence_interval_low": -0.056534575461865154,
+                "raw_median_lift": 0.24066711852332057,
+                "sample_size": 73
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "WSH",
+                "confidence_interval_high": 0.1683215613440816,
+                "confidence_interval_low": 0.1398988963751462,
+                "estimate": 0.1540227287135234,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 26,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "overtime_win",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.3633846153846154,
+                "raw_confidence_interval_low": 0.05674249666031768,
+                "raw_median_lift": 0.13171986427708318,
+                "sample_size": 73
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 26,
+                "modeled_confidence_interval_high": 0.22567129134493102,
+                "modeled_confidence_interval_low": 0.17403142336142619,
+                "modeled_estimate": 0.19957351202455564,
+                "modeled_sample_size": 73,
+                "raw_confidence_interval_high": 0.4927487076641759,
+                "raw_confidence_interval_low": -0.056534575461865154,
+                "raw_median_lift": 0.24066711852332057
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 26,
+                "modeled_confidence_interval_high": 0.1683215613440816,
+                "modeled_confidence_interval_low": 0.1398988963751462,
+                "modeled_estimate": 0.1540227287135234,
+                "modeled_sample_size": 73,
+                "raw_confidence_interval_high": 0.3633846153846154,
+                "raw_confidence_interval_low": 0.05674249666031768,
+                "raw_median_lift": 0.13171986427708318
+              }
+            ],
+            "cross_channel_status": "insufficient_evidence",
+            "minimum_isolated_sample_size": 26,
+            "minimum_sample_size": 73,
+            "post_window": "immediate",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "overtime_win",
+          "official_content_context": {
+            "accessible_video_count": 1452,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 24,
+              "game_highlight_or_recap": 5,
+              "press_conference_or_media": 17,
+              "roster_announcement": 30,
+              "short_form": 1
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "roster_announcement",
+            "leading_observed_title_format_count": 30,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "measurement_rehearsal",
+          "owner_function": "content",
+          "playbook_id": "washington-capitals--3--overtime_win",
+          "priority_within_club": 3,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
+        }
+      ],
+      "slide": 4,
+      "title": "A 0–24 hour, 24–72 hour, and Day 4–7 sequence—with the evidence gate attached."
+    },
+    {
+      "as_of": "2026-08-03",
+      "body": "Retain exact publication and distribution timestamps, predeclare one internal outcome, preserve no-signal cases, and compare the same moment definition over time.",
+      "club_name": "Washington Capitals",
+      "evidence": [
+        "Internal request: owned-channel publication and distribution timestamps",
+        "Internal request: approved outcome definition and attribution window",
+        "Guardrail: no revenue, attendance, sponsor, CRM, or conversion inference from public signals",
+        "Feedback question: Which public-attention signal would be useful in your team’s workflow, and which internal data would you need before acting on it?"
+      ],
+      "kicker": "MEASUREMENT PLAN AND INTERNAL-DATA REQUEST",
+      "limitation": "Public attention can identify a timing hypothesis; it cannot establish downstream business value.",
+      "slide": 5,
+      "title": "Connect public attention to an approved internal outcome before acting."
+    }
+  ],
+  "taxonomy_version": "1.1.0",
+  "title": "Washington Capitals Moment-to-Market Intelligence Brief"
+}

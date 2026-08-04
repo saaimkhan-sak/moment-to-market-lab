@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 1247,
+  "channel_id": "UCM7xcVV9BAWEOuiXi0_wqWw",
+  "channel_title": "Anaheim Ducks",
+  "club_id": "ANA",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-29T17:00:20Z",
+  "oldest_accessible_published_at": "2010-10-06T20:34:16Z",
+  "playlist_pages": 25,
+  "playlist_video_ids": 1247,
+  "retrieved_at": "2026-08-03T19:05:57Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCM7xcVV9BAWEOuiXi0_wqWw",
+  "uploads_playlist_id": "UUM7xcVV9BAWEOuiXi0_wqWw",
+  "video_detail_pages": 25
+}

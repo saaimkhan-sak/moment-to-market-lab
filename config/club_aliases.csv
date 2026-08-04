@@ -1,0 +1,6 @@
+club_id,alias,alias_type,valid_from,valid_to,notes
+NYR,New York Rangers,canonical,1926-01-01,,Exact full name used for GDELT.
+TOR,Toronto Maple Leafs,canonical,1927-01-01,,Exact full name used for GDELT.
+CAR,Carolina Hurricanes,canonical,1997-01-01,,Exact full name used for GDELT.
+UTA,Utah Mammoth,canonical,2025-05-07,,Current identity; Arizona historical records are not merged.
+ARI,Arizona Coyotes,historical,1979-01-01,2024-06-30,Separate historical club_id and franchise validity record required before any 2023-24 analysis.

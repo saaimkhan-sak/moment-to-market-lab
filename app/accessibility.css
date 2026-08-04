@@ -1,0 +1,7 @@
+:root {
+  --red-ink: #96352f;
+}
+
+.validation-flag {
+  color: var(--red-ink);
+}

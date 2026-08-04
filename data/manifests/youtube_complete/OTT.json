@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 5744,
+  "channel_id": "UCtgGJaIlIzYE2Ney_P2ps9w",
+  "channel_title": "Ottawa Senators",
+  "club_id": "OTT",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-23T17:45:19Z",
+  "oldest_accessible_published_at": "2010-03-18T20:24:25Z",
+  "playlist_pages": 115,
+  "playlist_video_ids": 5744,
+  "retrieved_at": "2026-08-03T19:28:38Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCtgGJaIlIzYE2Ney_P2ps9w",
+  "uploads_playlist_id": "UUtgGJaIlIzYE2Ney_P2ps9w",
+  "video_detail_pages": 115
+}

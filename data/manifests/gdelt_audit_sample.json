@@ -1,0 +1,171 @@
+{
+  "results": [
+    {
+      "club_id": "ANA",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "BOS",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "BUF",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "CGY",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "CAR",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "CHI",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "COL",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "CBJ",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "DAL",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "DET",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "EDM",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "FLA",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "LAK",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "MIN",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "MTL",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "NSH",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "NJD",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "NYI",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "NYR",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "OTT",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "PHI",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "PIT",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "SJS",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "SEA",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "STL",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "TBL",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "TOR",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "UTA",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "VAN",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "VGK",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "WSH",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    },
+    {
+      "club_id": "WPG",
+      "evidence_status": "confirmed",
+      "sample_count": 5
+    }
+  ],
+  "sample_rows": 160,
+  "source": {
+    "evidence_status": "confirmed",
+    "reason": "Per-club resumable sample; manual review pending.",
+    "retrieved_at": "2026-08-03T15:41:40Z",
+    "source_id": "gdelt-doc-api"
+  }
+}

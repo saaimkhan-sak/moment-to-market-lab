@@ -1,0 +1,41 @@
+{
+  "club_id": "STL",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.habseyesontheprize.com/2026-nhl-entry-draft-preview-start-time-tv-schedule-and-how-to-watch-tv-listings-online-stream-gavin-mckenna-ivar-stenberg-viggo-bjorck/",
+      "club_id": "STL",
+      "query": "\"St. Louis Blues\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:27:08Z",
+      "title": "2026 NHL Entry Draft : Preview and how to watch"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/blues-re-sign-f-sundqvist-to-a-one-year-two-way-contract/",
+      "club_id": "STL",
+      "query": "\"St. Louis Blues\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:27:08Z",
+      "title": "St . Louis Blues re - sign Oskar Sundqvist to a one - year , two - way contract"
+    },
+    {
+      "article_url": "https://www.gulfcoastnewsnow.com/article/everblades-not-affiliated-st-louis-blues-nhl-deal-worcester/71649255",
+      "club_id": "STL",
+      "query": "\"St. Louis Blues\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:27:08Z",
+      "title": "Everblades no longer affiliated with St . Louis Blues after NHL team signs deal with Worcester"
+    },
+    {
+      "article_url": "https://bleacherreport.com/articles/25432336-br-nhl-trade-block-big-board-auston-matthews-nico-hischier-and-quinn-hughes-highlight-junes-list",
+      "club_id": "STL",
+      "query": "\"St. Louis Blues\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:27:08Z",
+      "title": "B / R NHL Trade Block Big Board : Auston Matthews , Nico Hischier and Quinn Hughes Highlight June List"
+    },
+    {
+      "article_url": "https://bleacherreport.com/articles/25426197-7-early-predictions-2026-nhl-draft",
+      "club_id": "STL",
+      "query": "\"St. Louis Blues\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:27:08Z",
+      "title": "7 Early Predictions for the 2026 NHL Draft"
+    }
+  ]
+}

@@ -1,0 +1,2427 @@
+{
+  "source": {
+    "evidence_status": "planned",
+    "reason": "Run schedules first; then enumerate game IDs and archive boxscore/play-by-play with 200ms pacing.",
+    "retrieved_at": "2026-08-04T02:00:15Z",
+    "source_id": "nhl-public"
+  },
+  "tasks": [
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "ANA",
+      "club_id": "ANA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "BOS",
+      "club_id": "BOS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "BUF",
+      "club_id": "BUF",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "CGY",
+      "club_id": "CGY",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "CAR",
+      "club_id": "CAR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "CHI",
+      "club_id": "CHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "COL",
+      "club_id": "COL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "CBJ",
+      "club_id": "CBJ",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "DAL",
+      "club_id": "DAL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "DET",
+      "club_id": "DET",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "EDM",
+      "club_id": "EDM",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "FLA",
+      "club_id": "FLA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "LAK",
+      "club_id": "LAK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "MIN",
+      "club_id": "MIN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "MTL",
+      "club_id": "MTL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "NSH",
+      "club_id": "NSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "NJD",
+      "club_id": "NJD",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "NYI",
+      "club_id": "NYI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "NYR",
+      "club_id": "NYR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "OTT",
+      "club_id": "OTT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "PHI",
+      "club_id": "PHI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "PIT",
+      "club_id": "PIT",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "SJS",
+      "club_id": "SJS",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "SEA",
+      "club_id": "SEA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "SEA",
+      "club_id": "SEA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "SEA",
+      "club_id": "SEA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "SEA",
+      "club_id": "SEA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "SEA",
+      "club_id": "SEA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "STL",
+      "club_id": "STL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "TBL",
+      "club_id": "TBL",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "TOR",
+      "club_id": "TOR",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "UTA",
+      "club_id": "UTA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "UTA",
+      "club_id": "UTA",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "VAN",
+      "club_id": "VAN",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "VGK",
+      "club_id": "VGK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "VGK",
+      "club_id": "VGK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "VGK",
+      "club_id": "VGK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "VGK",
+      "club_id": "VGK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "VGK",
+      "club_id": "VGK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "VGK",
+      "club_id": "VGK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "VGK",
+      "club_id": "VGK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "VGK",
+      "club_id": "VGK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "VGK",
+      "club_id": "VGK",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "WSH",
+      "club_id": "WSH",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20232024"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20242025"
+    },
+    {
+      "abbreviation": "WPG",
+      "club_id": "WPG",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "season": "20252026"
+    },
+    {
+      "abbreviation": "ARI",
+      "club_id": "ARI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "historical_only": true,
+      "season": "20152016"
+    },
+    {
+      "abbreviation": "ARI",
+      "club_id": "ARI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "historical_only": true,
+      "season": "20162017"
+    },
+    {
+      "abbreviation": "ARI",
+      "club_id": "ARI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "historical_only": true,
+      "season": "20172018"
+    },
+    {
+      "abbreviation": "ARI",
+      "club_id": "ARI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "historical_only": true,
+      "season": "20182019"
+    },
+    {
+      "abbreviation": "ARI",
+      "club_id": "ARI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "historical_only": true,
+      "season": "20192020"
+    },
+    {
+      "abbreviation": "ARI",
+      "club_id": "ARI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "historical_only": true,
+      "season": "20202021"
+    },
+    {
+      "abbreviation": "ARI",
+      "club_id": "ARI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "historical_only": true,
+      "season": "20212022"
+    },
+    {
+      "abbreviation": "ARI",
+      "club_id": "ARI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "historical_only": true,
+      "season": "20222023"
+    },
+    {
+      "abbreviation": "ARI",
+      "club_id": "ARI",
+      "endpoint": "club-schedule-season",
+      "evidence_status": "planned",
+      "historical_only": true,
+      "season": "20232024"
+    }
+  ]
+}

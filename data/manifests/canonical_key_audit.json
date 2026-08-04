@@ -1,0 +1,12 @@
+{
+  "duplicate_event_key_count": 0,
+  "duplicate_event_keys": [],
+  "event_count": 4584321,
+  "evidence_status": "confirmed",
+  "game_count": 15585,
+  "key_contract": "game.game_id unique; game_event (game_id,event_id) unique and game_id references game",
+  "missing_event_key_count": 0,
+  "orphan_game_id_count": 0,
+  "orphan_game_ids": [],
+  "unique_event_key_count": 4584321
+}

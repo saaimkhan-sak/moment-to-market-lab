@@ -1,0 +1,1089 @@
+{
+  "acquisition_interval_count": 31,
+  "analysis_end": "2026-07-31",
+  "analysis_start": "2023-10-01",
+  "interval_count": 87,
+  "mapping_count": 34,
+  "mappings": [
+    {
+      "club_id": "ANA",
+      "entity_id": "Q192751",
+      "entity_label": "Anaheim Ducks",
+      "intervals": [
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "ANA-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "ANA-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "ANA-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "ANA-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "ANA-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "ANA-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "ANA-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "ANA-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "ANA-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "ANA-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "ANA-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "ANA-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anaheim%20Ducks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "ANA-current",
+      "query": "\"Anaheim Ducks\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "ARI",
+      "entity_id": "Q206312",
+      "entity_label": "Arizona Coyotes",
+      "intervals": [
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "ARI-2023-24-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Arizona%20Coyotes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "ARI-2023-24-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Arizona%20Coyotes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "ARI-2023-24-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Arizona%20Coyotes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-06-30",
+          "expected_days": 4,
+          "interval_id": "ARI-2023-24-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Arizona%20Coyotes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240630235959",
+          "start_date": "2024-06-27"
+        }
+      ],
+      "mapping_id": "ARI-2023-24",
+      "query": "\"Arizona Coyotes\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2024-06-30"
+    },
+    {
+      "club_id": "BOS",
+      "entity_id": "Q194121",
+      "entity_label": "Boston Bruins",
+      "intervals": [
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "BOS-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "BOS-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "BOS-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "BOS-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "BOS-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "BOS-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "BOS-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "BOS-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "BOS-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "BOS-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "BOS-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "BOS-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Boston%20Bruins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "BOS-current",
+      "query": "\"Boston Bruins\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "BUF",
+      "entity_id": "Q131206",
+      "entity_label": "Buffalo Sabres",
+      "intervals": [
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "BUF-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "BUF-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "BUF-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "BUF-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "BUF-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "BUF-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "BUF-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "BUF-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "BUF-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "BUF-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "BUF-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "BUF-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Buffalo%20Sabres%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "BUF-current",
+      "query": "\"Buffalo Sabres\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "CAR",
+      "entity_id": "Q201857",
+      "entity_label": "Carolina Hurricanes",
+      "intervals": [
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "CAR-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "CAR-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "CAR-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "CAR-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-12-23",
+          "expected_days": 90,
+          "interval_id": "CAR-current-04",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20241223235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-03-23",
+          "expected_days": 90,
+          "interval_id": "CAR-current-05",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20241224000000&enddatetime=20250323235959",
+          "start_date": "2024-12-24"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "CAR-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-09-19",
+          "expected_days": 90,
+          "interval_id": "CAR-current-07",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20250919235959",
+          "start_date": "2025-06-22"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-12-18",
+          "expected_days": 90,
+          "interval_id": "CAR-current-08",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250920000000&enddatetime=20251218235959",
+          "start_date": "2025-09-20"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-03-18",
+          "expected_days": 90,
+          "interval_id": "CAR-current-09",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20251219000000&enddatetime=20260318235959",
+          "start_date": "2025-12-19"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-06-16",
+          "expected_days": 90,
+          "interval_id": "CAR-current-10",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260319000000&enddatetime=20260616235959",
+          "start_date": "2026-03-19"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2026-07-31",
+          "expected_days": 45,
+          "interval_id": "CAR-current-11",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Carolina%20Hurricanes%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20260617000000&enddatetime=20260731235959",
+          "start_date": "2026-06-17"
+        }
+      ],
+      "mapping_id": "CAR-current",
+      "query": "\"Carolina Hurricanes\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "CBJ",
+      "entity_id": "Q207507",
+      "entity_label": "Columbus Blue Jackets",
+      "intervals": [
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2023-12-29",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20231229235959",
+          "start_date": "2023-10-01"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-03-28",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231230000000&enddatetime=20240328235959",
+          "start_date": "2023-12-30"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-06-26",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-02",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240329000000&enddatetime=20240626235959",
+          "start_date": "2024-03-29"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2024-09-24",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-03",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240627000000&enddatetime=20240924235959",
+          "start_date": "2024-06-27"
+        },
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2025-03-23",
+          "expected_days": 180,
+          "interval_id": "CBJ-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240925000000&enddatetime=20250323235959",
+          "start_date": "2024-09-25"
+        },
+        {
+          "acquisition_mode": "reused_checksum_valid_90day_archive",
+          "end_date": "2025-06-21",
+          "expected_days": 90,
+          "interval_id": "CBJ-current-06",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250324000000&enddatetime=20250621235959",
+          "start_date": "2025-03-24"
+        },
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 405,
+          "interval_id": "CBJ-current-gap-01",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Columbus%20Blue%20Jackets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250622000000&enddatetime=20260731235959",
+          "start_date": "2025-06-22"
+        }
+      ],
+      "mapping_id": "CBJ-current",
+      "query": "\"Columbus Blue Jackets\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "CGY",
+      "entity_id": "Q194126",
+      "entity_label": "Calgary Flames",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "CGY-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Calgary%20Flames%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "CGY-current",
+      "query": "\"Calgary Flames\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "CHI",
+      "entity_id": "Q209636",
+      "entity_label": "Chicago Blackhawks",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "CHI-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Chicago%20Blackhawks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "CHI-current",
+      "query": "\"Chicago Blackhawks\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "COL",
+      "entity_id": "Q206297",
+      "entity_label": "Colorado Avalanche",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "COL-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Colorado%20Avalanche%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "COL-current",
+      "query": "\"Colorado Avalanche\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "DAL",
+      "entity_id": "Q208652",
+      "entity_label": "Dallas Stars",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "DAL-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Dallas%20Stars%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "DAL-current",
+      "query": "\"Dallas Stars\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "DET",
+      "entity_id": "Q194116",
+      "entity_label": "Detroit Red Wings",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "DET-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Detroit%20Red%20Wings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "DET-current",
+      "query": "\"Detroit Red Wings\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "EDM",
+      "entity_id": "Q205973",
+      "entity_label": "Edmonton Oilers",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "EDM-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Edmonton%20Oilers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "EDM-current",
+      "query": "\"Edmonton Oilers\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "FLA",
+      "entity_id": "Q204623",
+      "entity_label": "Florida Panthers",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "FLA-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Florida%20Panthers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "FLA-current",
+      "query": "\"Florida Panthers\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "LAK",
+      "entity_id": "Q203008",
+      "entity_label": "Los Angeles Kings",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "LAK-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Los%20Angeles%20Kings%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "LAK-current",
+      "query": "\"Los Angeles Kings\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "MIN",
+      "entity_id": "Q206357",
+      "entity_label": "Minnesota Wild",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "MIN-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Minnesota%20Wild%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "MIN-current",
+      "query": "\"Minnesota Wild\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "MTL",
+      "entity_id": "Q188143",
+      "entity_label": "Montreal Canadiens",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "MTL-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Montreal%20Canadiens%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "MTL-current",
+      "query": "\"Montreal Canadiens\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "NJD",
+      "entity_id": "Q192081",
+      "entity_label": "New Jersey Devils",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "NJD-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20Jersey%20Devils%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "NJD-current",
+      "query": "\"New Jersey Devils\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "NSH",
+      "entity_id": "Q207980",
+      "entity_label": "Nashville Predators",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "NSH-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nashville%20Predators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "NSH-current",
+      "query": "\"Nashville Predators\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "NYI",
+      "entity_id": "Q194369",
+      "entity_label": "New York Islanders",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "NYI-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Islanders%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "NYI-current",
+      "query": "\"New York Islanders\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "NYR",
+      "entity_id": "Q188984",
+      "entity_label": "New York Rangers",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "NYR-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22New%20York%20Rangers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "NYR-current",
+      "query": "\"New York Rangers\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "OTT",
+      "entity_id": "Q203013",
+      "entity_label": "Ottawa Senators",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "OTT-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Ottawa%20Senators%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "OTT-current",
+      "query": "\"Ottawa Senators\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "PHI",
+      "entity_id": "Q192083",
+      "entity_label": "Philadelphia Flyers",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "PHI-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Philadelphia%20Flyers%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "PHI-current",
+      "query": "\"Philadelphia Flyers\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "PIT",
+      "entity_id": "Q193643",
+      "entity_label": "Pittsburgh Penguins",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "PIT-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Pittsburgh%20Penguins%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "PIT-current",
+      "query": "\"Pittsburgh Penguins\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "SEA",
+      "entity_id": "Q59422166",
+      "entity_label": "Seattle Kraken",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "SEA-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Seattle%20Kraken%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "SEA-current",
+      "query": "\"Seattle Kraken\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "SJS",
+      "entity_id": "Q206381",
+      "entity_label": "San Jose Sharks",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "SJS-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22San%20Jose%20Sharks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "SJS-current",
+      "query": "\"San Jose Sharks\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "STL",
+      "entity_id": "Q207735",
+      "entity_label": "St. Louis Blues",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "STL-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22St.%20Louis%20Blues%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "STL-current",
+      "query": "\"St. Louis Blues\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "TBL",
+      "entity_id": "Q201864",
+      "entity_label": "Tampa Bay Lightning",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "TBL-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tampa%20Bay%20Lightning%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "TBL-current",
+      "query": "\"Tampa Bay Lightning\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "TOR",
+      "entity_id": "Q203384",
+      "entity_label": "Toronto Maple Leafs",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "TOR-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Toronto%20Maple%20Leafs%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "TOR-current",
+      "query": "\"Toronto Maple Leafs\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "UTA",
+      "entity_id": "Q125520712",
+      "entity_label": "Utah Hockey Club",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2025-05-06",
+          "expected_days": 328,
+          "interval_id": "UTA-hockey-club-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Hockey%20Club%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20240613000000&enddatetime=20250506235959",
+          "start_date": "2024-06-13"
+        }
+      ],
+      "mapping_id": "UTA-hockey-club",
+      "query": "\"Utah Hockey Club\" sourcelang:english",
+      "valid_from": "2024-06-13",
+      "valid_to": "2025-05-06"
+    },
+    {
+      "club_id": "UTA",
+      "entity_id": "Q125520712",
+      "entity_label": "Utah Mammoth",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 451,
+          "interval_id": "UTA-mammoth-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Utah%20Mammoth%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20250507000000&enddatetime=20260731235959",
+          "start_date": "2025-05-07"
+        }
+      ],
+      "mapping_id": "UTA-mammoth",
+      "query": "\"Utah Mammoth\" sourcelang:english",
+      "valid_from": "2025-05-07",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "VAN",
+      "entity_id": "Q192890",
+      "entity_label": "Vancouver Canucks",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "VAN-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vancouver%20Canucks%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "VAN-current",
+      "query": "\"Vancouver Canucks\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "VGK",
+      "entity_id": "Q24725640",
+      "entity_label": "Vegas Golden Knights",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "VGK-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Vegas%20Golden%20Knights%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "VGK-current",
+      "query": "\"Vegas Golden Knights\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "WPG",
+      "entity_id": "Q472741",
+      "entity_label": "Winnipeg Jets",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "WPG-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Winnipeg%20Jets%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "WPG-current",
+      "query": "\"Winnipeg Jets\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    },
+    {
+      "club_id": "WSH",
+      "entity_id": "Q204627",
+      "entity_label": "Washington Capitals",
+      "intervals": [
+        {
+          "acquisition_mode": "missing_contiguous_span",
+          "end_date": "2026-07-31",
+          "expected_days": 1035,
+          "interval_id": "WSH-current-gap-00",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22Washington%20Capitals%22%20sourcelang%3Aenglish&mode=timelinevolraw&format=json&startdatetime=20231001000000&enddatetime=20260731235959",
+          "start_date": "2023-10-01"
+        }
+      ],
+      "mapping_id": "WSH-current",
+      "query": "\"Washington Capitals\" sourcelang:english",
+      "valid_from": "2023-10-01",
+      "valid_to": "2026-07-31"
+    }
+  ],
+  "max_window_days": null,
+  "minimum_request_spacing_seconds": 6,
+  "resolution_contract": "GDELT DOC timeline spans greater than one week use daily resolution",
+  "resolution_source_url": "https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/",
+  "reused_interval_count": 56,
+  "source_contract": "Exact full club name; English; raw daily article count and monitored-news denominator.",
+  "source_id": "gdelt-doc-api-timelinevolraw",
+  "superseded_by": "data/manifests/gdelt_timeline_plan.json",
+  "superseded_reason": "Analysis window expanded; checksum-valid intervals are retained and new historical boundary windows are added.",
+  "window_strategy": "reuse_checksum_valid_90day_archives_then_coalesce_missing_contiguous_spans"
+}

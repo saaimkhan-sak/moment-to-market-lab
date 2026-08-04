@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 2605,
+  "channel_id": "UCtN4OcxSgiJhDMPXo5A5Gqg",
+  "channel_title": "St. Louis Blues",
+  "club_id": "STL",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-03T17:47:25Z",
+  "oldest_accessible_published_at": "2010-04-26T21:16:10Z",
+  "playlist_pages": 53,
+  "playlist_video_ids": 2605,
+  "retrieved_at": "2026-08-03T19:32:37Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCtN4OcxSgiJhDMPXo5A5Gqg",
+  "uploads_playlist_id": "UUtN4OcxSgiJhDMPXo5A5Gqg",
+  "video_detail_pages": 53
+}

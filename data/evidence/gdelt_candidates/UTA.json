@@ -1,0 +1,41 @@
+{
+  "club_id": "UTA",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.spotrac.com/nhl/player/_/id/99462/yegor-borikov",
+      "club_id": "UTA",
+      "query": "\"Utah Mammoth\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:28:39Z",
+      "title": "Yegor Borikov | NHL Contracts & Salaries"
+    },
+    {
+      "article_url": "https://www.wmur.com/article/bruins-trades-jj-peterka/71750503",
+      "club_id": "UTA",
+      "query": "\"Utah Mammoth\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:28:39Z",
+      "title": "Bruins trade two first - round draft picks for JJ Peterka"
+    },
+    {
+      "article_url": "https://www.bostonherald.com/2026/06/26/reports-bruins-score-top-six-wing-j-j-peterka/",
+      "club_id": "UTA",
+      "query": "\"Utah Mammoth\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:28:39Z",
+      "title": "Reports : Bruins score top - six wing J . J . Peterka"
+    },
+    {
+      "article_url": "https://www.lowellsun.com/2026/06/26/reports-bruins-score-top-six-wing-j-j-peterka/",
+      "club_id": "UTA",
+      "query": "\"Utah Mammoth\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:28:39Z",
+      "title": "Reports : Bruins score top - six wing J . J . Peterka"
+    },
+    {
+      "article_url": "https://www.kynt1450.com/2026/07/21/mammoth-sign-defenseman-john-marino-to-8-year-54-million-extension/",
+      "club_id": "UTA",
+      "query": "\"Utah Mammoth\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:28:39Z",
+      "title": "Mammoth sign defenseman John Marino to 8 - year , $54 million extension"
+    }
+  ]
+}

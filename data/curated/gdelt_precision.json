@@ -1,0 +1,574 @@
+{
+  "club_precision": {
+    "ANA": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Anaheim Ducks\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "BOS": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Boston Bruins\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "BUF": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Buffalo Sabres\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "CAR": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Carolina Hurricanes\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "CBJ": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Columbus Blue Jackets\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "CGY": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Calgary Flames\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "CHI": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Chicago Blackhawks\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "COL": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Colorado Avalanche\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "DAL": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Dallas Stars\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "DET": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Detroit Red Wings\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "EDM": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Edmonton Oilers\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "FLA": {
+      "precision": 0.9,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Florida Panthers\" sourcelang:english": {
+          "precision": 0.9,
+          "quantification_status": "confirmed",
+          "sample_size": 10
+        }
+      },
+      "sample_size": 10
+    },
+    "LAK": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Los Angeles Kings\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "MIN": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Minnesota Wild\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "MTL": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Montreal Canadiens\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "NJD": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"New Jersey Devils\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "NSH": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Nashville Predators\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "NYI": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"New York Islanders\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "NYR": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"New York Rangers\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "OTT": {
+      "precision": 0.9,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Ottawa Senators\" sourcelang:english": {
+          "precision": 0.9,
+          "quantification_status": "confirmed",
+          "sample_size": 10
+        }
+      },
+      "sample_size": 10
+    },
+    "PHI": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Philadelphia Flyers\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "PIT": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Pittsburgh Penguins\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "SEA": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Seattle Kraken\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "SJS": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"San Jose Sharks\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "STL": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"St. Louis Blues\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "TBL": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Tampa Bay Lightning\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "TOR": {
+      "precision": 1.0,
+      "quantification_status": "unavailable",
+      "required_queries": {
+        "\"Toronto Maple Leafs\" sourcelang:english": {
+          "precision": null,
+          "quantification_status": "unavailable",
+          "sample_size": 0
+        }
+      },
+      "sample_size": 5
+    },
+    "UTA": {
+      "precision": 1.0,
+      "quantification_status": "unavailable",
+      "required_queries": {
+        "\"Utah Hockey Club\" sourcelang:english": {
+          "precision": null,
+          "quantification_status": "unavailable",
+          "sample_size": 0
+        },
+        "\"Utah Mammoth\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "VAN": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Vancouver Canucks\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "VGK": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Vegas Golden Knights\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    },
+    "WPG": {
+      "precision": 0.9,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Winnipeg Jets\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 8
+        }
+      },
+      "sample_size": 10
+    },
+    "WSH": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "required_queries": {
+        "\"Washington Capitals\" sourcelang:english": {
+          "precision": 1.0,
+          "quantification_status": "confirmed",
+          "sample_size": 5
+        }
+      },
+      "sample_size": 5
+    }
+  },
+  "clubs_eligible_for_quantification": 30,
+  "minimum_article_audit": 160,
+  "minimum_per_club": 5,
+  "minimum_per_validity_query": 5,
+  "overall_precision": {
+    "precision": 0.9828571428571429,
+    "sample_size": 175,
+    "true_matches": 172
+  },
+  "quantification_threshold": 0.9,
+  "query_precision": {
+    "ANA|\"Anaheim Ducks\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "BOS|\"Boston Bruins\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "BUF|\"Buffalo Sabres\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "CAR|\"Carolina Hurricanes\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "CBJ|\"Columbus Blue Jackets\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "CGY|\"Calgary Flames\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "CHI|\"Chicago Blackhawks\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "COL|\"Colorado Avalanche\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "DAL|\"Dallas Stars\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "DET|\"Detroit Red Wings\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "EDM|\"Edmonton Oilers\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "FLA|\"Florida Panthers\" sourcelang:english": {
+      "precision": 0.9,
+      "quantification_status": "confirmed",
+      "sample_size": 10
+    },
+    "LAK|\"Los Angeles Kings\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "MIN|\"Minnesota Wild\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "MTL|\"Montreal Canadiens\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "NJD|\"New Jersey Devils\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "NSH|\"Nashville Predators\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "NYI|\"New York Islanders\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "NYR|\"New York Rangers\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "OTT|\"Ottawa Senators\" sourcelang:english": {
+      "precision": 0.9,
+      "quantification_status": "confirmed",
+      "sample_size": 10
+    },
+    "PHI|\"Philadelphia Flyers\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "PIT|\"Pittsburgh Penguins\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "SEA|\"Seattle Kraken\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "SJS|\"San Jose Sharks\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "STL|\"St. Louis Blues\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "TBL|\"Tampa Bay Lightning\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "TOR|\"Toronto Maple Leafs\" sourcelang:english": {
+      "precision": null,
+      "quantification_status": "unavailable",
+      "sample_size": 0
+    },
+    "UTA|\"Utah Hockey Club\" sourcelang:english": {
+      "precision": null,
+      "quantification_status": "unavailable",
+      "sample_size": 0
+    },
+    "UTA|\"Utah Mammoth\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "VAN|\"Vancouver Canucks\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "VGK|\"Vegas Golden Knights\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    },
+    "WPG|\"Winnipeg Jets\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 8
+    },
+    "WSH|\"Washington Capitals\" sourcelang:english": {
+      "precision": 1.0,
+      "quantification_status": "confirmed",
+      "sample_size": 5
+    }
+  },
+  "required_validity_queries": 33,
+  "reviewed_articles": 175,
+  "status": "audit_complete",
+  "validity_queries_eligible": 31
+}

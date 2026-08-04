@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 2985,
+  "channel_id": "UCSSc4wVk6telelb58RrLYdg",
+  "channel_title": "Florida Panthers",
+  "club_id": "FLA",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-30T14:33:10Z",
+  "oldest_accessible_published_at": "2020-01-16T14:42:23Z",
+  "playlist_pages": 60,
+  "playlist_video_ids": 2985,
+  "retrieved_at": "2026-08-03T19:19:40Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCSSc4wVk6telelb58RrLYdg",
+  "uploads_playlist_id": "UUSSc4wVk6telelb58RrLYdg",
+  "video_detail_pages": 60
+}

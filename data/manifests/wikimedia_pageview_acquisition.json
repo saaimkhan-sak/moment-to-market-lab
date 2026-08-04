@@ -1,0 +1,320 @@
+{
+  "results": [
+    {
+      "article": "Anaheim Ducks",
+      "club_id": "ANA",
+      "evidence_status": "confirmed",
+      "mapping_id": "ANA-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Anaheim Ducks-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Arizona Coyotes",
+      "club_id": "ARI",
+      "evidence_status": "confirmed",
+      "mapping_id": "ARI-2015-2024",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Arizona Coyotes-20150701-20240630.json",
+      "valid_from": "2015-07-01",
+      "valid_to": "2024-06-30"
+    },
+    {
+      "article": "Boston Bruins",
+      "club_id": "BOS",
+      "evidence_status": "confirmed",
+      "mapping_id": "BOS-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Boston Bruins-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Buffalo Sabres",
+      "club_id": "BUF",
+      "evidence_status": "confirmed",
+      "mapping_id": "BUF-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Buffalo Sabres-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Carolina Hurricanes",
+      "club_id": "CAR",
+      "evidence_status": "confirmed",
+      "mapping_id": "CAR-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Carolina Hurricanes-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Columbus Blue Jackets",
+      "club_id": "CBJ",
+      "evidence_status": "confirmed",
+      "mapping_id": "CBJ-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Columbus Blue Jackets-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Calgary Flames",
+      "club_id": "CGY",
+      "evidence_status": "confirmed",
+      "mapping_id": "CGY-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Calgary Flames-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Chicago Blackhawks",
+      "club_id": "CHI",
+      "evidence_status": "confirmed",
+      "mapping_id": "CHI-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Chicago Blackhawks-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Colorado Avalanche",
+      "club_id": "COL",
+      "evidence_status": "confirmed",
+      "mapping_id": "COL-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Colorado Avalanche-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Dallas Stars",
+      "club_id": "DAL",
+      "evidence_status": "confirmed",
+      "mapping_id": "DAL-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Dallas Stars-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Detroit Red Wings",
+      "club_id": "DET",
+      "evidence_status": "confirmed",
+      "mapping_id": "DET-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Detroit Red Wings-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Edmonton Oilers",
+      "club_id": "EDM",
+      "evidence_status": "confirmed",
+      "mapping_id": "EDM-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Edmonton Oilers-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Florida Panthers",
+      "club_id": "FLA",
+      "evidence_status": "confirmed",
+      "mapping_id": "FLA-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Florida Panthers-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Los Angeles Kings",
+      "club_id": "LAK",
+      "evidence_status": "confirmed",
+      "mapping_id": "LAK-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Los Angeles Kings-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Minnesota Wild",
+      "club_id": "MIN",
+      "evidence_status": "confirmed",
+      "mapping_id": "MIN-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Minnesota Wild-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Montreal Canadiens",
+      "club_id": "MTL",
+      "evidence_status": "confirmed",
+      "mapping_id": "MTL-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Montreal Canadiens-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "New Jersey Devils",
+      "club_id": "NJD",
+      "evidence_status": "confirmed",
+      "mapping_id": "NJD-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/New Jersey Devils-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Nashville Predators",
+      "club_id": "NSH",
+      "evidence_status": "confirmed",
+      "mapping_id": "NSH-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Nashville Predators-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "New York Islanders",
+      "club_id": "NYI",
+      "evidence_status": "confirmed",
+      "mapping_id": "NYI-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/New York Islanders-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "New York Rangers",
+      "club_id": "NYR",
+      "evidence_status": "confirmed",
+      "mapping_id": "NYR-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/New York Rangers-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Ottawa Senators",
+      "club_id": "OTT",
+      "evidence_status": "confirmed",
+      "mapping_id": "OTT-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Ottawa Senators-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Philadelphia Flyers",
+      "club_id": "PHI",
+      "evidence_status": "confirmed",
+      "mapping_id": "PHI-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Philadelphia Flyers-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Pittsburgh Penguins",
+      "club_id": "PIT",
+      "evidence_status": "confirmed",
+      "mapping_id": "PIT-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Pittsburgh Penguins-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Seattle Kraken",
+      "club_id": "SEA",
+      "evidence_status": "confirmed",
+      "mapping_id": "SEA-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Seattle Kraken-20210701-20260731.json",
+      "valid_from": "2021-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "San Jose Sharks",
+      "club_id": "SJS",
+      "evidence_status": "confirmed",
+      "mapping_id": "SJS-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/San Jose Sharks-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "St. Louis Blues",
+      "club_id": "STL",
+      "evidence_status": "confirmed",
+      "mapping_id": "STL-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/St. Louis Blues-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Tampa Bay Lightning",
+      "club_id": "TBL",
+      "evidence_status": "confirmed",
+      "mapping_id": "TBL-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Tampa Bay Lightning-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Toronto Maple Leafs",
+      "club_id": "TOR",
+      "evidence_status": "confirmed",
+      "mapping_id": "TOR-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Toronto Maple Leafs-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Utah Hockey Club",
+      "club_id": "UTA",
+      "evidence_status": "confirmed",
+      "mapping_id": "UTA-hockey-club",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Utah Hockey Club-20240613-20250506.json",
+      "valid_from": "2024-06-13",
+      "valid_to": "2025-05-06"
+    },
+    {
+      "article": "Utah Mammoth",
+      "club_id": "UTA",
+      "evidence_status": "confirmed",
+      "mapping_id": "UTA-mammoth",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Utah Mammoth-20250507-20260731.json",
+      "valid_from": "2025-05-07",
+      "valid_to": ""
+    },
+    {
+      "article": "Vancouver Canucks",
+      "club_id": "VAN",
+      "evidence_status": "confirmed",
+      "mapping_id": "VAN-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Vancouver Canucks-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Vegas Golden Knights",
+      "club_id": "VGK",
+      "evidence_status": "confirmed",
+      "mapping_id": "VGK-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Vegas Golden Knights-20170701-20260731.json",
+      "valid_from": "2017-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Winnipeg Jets",
+      "club_id": "WPG",
+      "evidence_status": "confirmed",
+      "mapping_id": "WPG-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Winnipeg Jets-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    },
+    {
+      "article": "Washington Capitals",
+      "club_id": "WSH",
+      "evidence_status": "confirmed",
+      "mapping_id": "WSH-current",
+      "path": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikimedia/Washington Capitals-20150701-20260731.json",
+      "valid_from": "2015-07-01",
+      "valid_to": ""
+    }
+  ],
+  "source": {
+    "evidence_status": "confirmed",
+    "reason": "Missing records remain missing; no zero imputation.",
+    "retrieved_at": "2026-08-04T02:23:46Z",
+    "source_id": "wikimedia-pageviews"
+  },
+  "window": {
+    "end": "20260731",
+    "start": "20150701"
+  }
+}

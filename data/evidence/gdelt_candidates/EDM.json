@@ -1,0 +1,41 @@
+{
+  "club_id": "EDM",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://montrealgazette.com/press-releases/globe-newswire/edmonton-oilers-community-foundation-and-ymca-team-up-to-deliver-unforgettable-experiences-to-kids-this-august/",
+      "club_id": "EDM",
+      "query": "\"Edmonton Oilers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Edmonton Oilers Community Foundation and YMCA team up to deliver unforgettable experiences to kids this August"
+    },
+    {
+      "article_url": "https://www.manilatimes.net/2026/07/30/tmt-newswire/globenewswire/edmonton-oilers-community-foundation-and-ymca-team-up-to-deliver-unforgettable-experiences-to-kids-this-august/2394479",
+      "club_id": "EDM",
+      "query": "\"Edmonton Oilers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Edmonton Oilers Community Foundation and YMCA team up to deliver unforgettable experiences to kids this August"
+    },
+    {
+      "article_url": "https://www.thebiglead.com/jason-demers-predicts-edmonton-oilers-pacific-division-nhl/",
+      "club_id": "EDM",
+      "query": "\"Edmonton Oilers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Jason Demers predicts Oilers will  run away  with Pacific Division"
+    },
+    {
+      "article_url": "https://www.thebiglead.com/oilers-rumors-edmonton-is-ready-to-trade-74m-d-man-ahead-of-2026-27-nhl-season/",
+      "club_id": "EDM",
+      "query": "\"Edmonton Oilers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Oilers Rumors : Edmonton is  ready  to trade $74M D - man ahead of 2026 - 27 NHL season"
+    },
+    {
+      "article_url": "https://www.ckom.com/2026/06/24/the-green-zone-replay-tuesday-june-23/",
+      "club_id": "EDM",
+      "query": "\"Edmonton Oilers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "The Green Zone Replay \u2013 Tuesday , June 23"
+    }
+  ]
+}

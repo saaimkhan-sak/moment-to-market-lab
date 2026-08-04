@@ -1,0 +1,61 @@
+{
+  "club_id": "NSH",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.blueshirtbanter.com/bantering-points-7-5-26/",
+      "club_id": "NSH",
+      "domain": "blueshirtbanter.com",
+      "language": "English",
+      "query": "\"Nashville Predators\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:31:56Z",
+      "seen_at": "20260705T153000Z",
+      "source_country": "United States",
+      "title": "Bantering Points : 7 / 5 / 26"
+    },
+    {
+      "article_url": "https://www.yardbarker.com/nhl/articles/predators_new_acquisition_mavrik_bourque_gets_6_year_33m_deal/s1_17050_44028604",
+      "club_id": "NSH",
+      "domain": "yardbarker.com",
+      "language": "English",
+      "query": "\"Nashville Predators\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:31:56Z",
+      "seen_at": "20260705T073000Z",
+      "source_country": "United States",
+      "title": "Predator new acquisition Mavrik Bourque gets 6 - year , $33M deal"
+    },
+    {
+      "article_url": "https://www.yardbarker.com/nhl/articles/could_maple_leafs_bring_back_a_familiar_face_in_free_agency/s1_17176_44054449",
+      "club_id": "NSH",
+      "domain": "yardbarker.com",
+      "language": "English",
+      "query": "\"Nashville Predators\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:31:56Z",
+      "seen_at": "20260712T201500Z",
+      "source_country": "United States",
+      "title": "Could Maple Leafs bring back a familiar face in free agency ? "
+    },
+    {
+      "article_url": "https://www.habseyesontheprize.com/montreal-canadiens-nhl-schedule-regular-season-bell-centre-home-opener-habs-september-29-toronto-2026-27/",
+      "club_id": "NSH",
+      "domain": "habseyesontheprize.com",
+      "language": "English",
+      "query": "\"Nashville Predators\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:31:56Z",
+      "seen_at": "20260716T181500Z",
+      "source_country": "Canada",
+      "title": "Montreal Canadiens to open season September 29 in Toronto , full 2026 - 27 schedule revealed"
+    },
+    {
+      "article_url": "https://www.chicagotribune.com/2026/07/06/chicago-blackhawks-nhl-free-agency-tracker/",
+      "club_id": "NSH",
+      "domain": "chicagotribune.com",
+      "language": "English",
+      "query": "\"Nashville Predators\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:31:56Z",
+      "seen_at": "20260706T230000Z",
+      "source_country": "United States",
+      "title": "Chicago Blackhawks in NHL free agency : Follow the latest news"
+    }
+  ]
+}

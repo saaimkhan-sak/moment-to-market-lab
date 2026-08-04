@@ -1,0 +1,22 @@
+{
+  "built_at": "2026-08-04T02:59:43Z",
+  "club_season_rows": 335,
+  "current_clubs": 32,
+  "eligible_club_seasons": 335,
+  "evidence_status": "confirmed_with_visible_source_gaps",
+  "policy": "Expansion identities enter in their first active season. Arizona and Utah records are not silently merged. YouTube publication metadata is descriptive and does not gate the two-channel attention model.",
+  "rows_with_visible_source_gaps": 103,
+  "seasons": [
+    "20152016",
+    "20162017",
+    "20172018",
+    "20182019",
+    "20192020",
+    "20202021",
+    "20212022",
+    "20222023",
+    "20232024",
+    "20242025",
+    "20252026"
+  ]
+}

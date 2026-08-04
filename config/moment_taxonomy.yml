@@ -1,0 +1,14 @@
+version: 1.1.0
+overlap_policy: exclude_primary_estimate_and_record_reason
+moments:
+  rivalry_win: {rule: "final win against opponent in rivalries.csv", evidence: nhl_final}
+  rivalry_loss: {rule: "final loss against opponent in rivalries.csv", evidence: nhl_final}
+  two_goal_third_period_comeback_win: {rule: "trails by >=2 at start of third period and final win", evidence: nhl_pbp_and_final}
+  overtime_win: {rule: "final win with final_state=OT", evidence: nhl_final}
+  shootout_win: {rule: "final win with final_state=SO", evidence: nhl_final}
+  hat_trick: {rule: "player goals >=3 in one game", evidence: nhl_boxscore}
+  four_point_game: {rule: "player points >=4 in one game", evidence: nhl_boxscore}
+  goalie_high_volume_shutout: {rule: "goalie shutout and saves >=40", evidence: nhl_boxscore}
+  playoff_clinch: {rule: "audited dated official NHL or club announcement timestamp", evidence: official_announcement}
+  official_roster_event: {rule: "dated official NHL or club trade/signing/major call-up/coaching change/retirement announcement", evidence: official_announcement}
+  community_or_heritage_event: {rule: "dated official club/NHL announcement; separate from hockey result", evidence: official_announcement}

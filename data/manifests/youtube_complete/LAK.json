@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 5469,
+  "channel_id": "UCP1bDIMe-hTC2nJprRJHtRg",
+  "channel_title": "LA Kings",
+  "club_id": "LAK",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-02T16:00:36Z",
+  "oldest_accessible_published_at": "2009-02-05T23:25:22Z",
+  "playlist_pages": 110,
+  "playlist_video_ids": 5469,
+  "retrieved_at": "2026-08-03T19:20:40Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCP1bDIMe-hTC2nJprRJHtRg",
+  "uploads_playlist_id": "UUP1bDIMe-hTC2nJprRJHtRg",
+  "video_detail_pages": 110
+}

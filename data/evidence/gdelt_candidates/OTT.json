@@ -1,0 +1,41 @@
+{
+  "club_id": "OTT",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.sun-sentinel.com/2026/06/23/excited-for-this-next-chapter-brady-tkachuk-ecstatic-to-join-brother-matthew-with-panthers/",
+      "club_id": "OTT",
+      "query": "\"Ottawa Senators\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:24:19Z",
+      "title": "Brady Tkachuk talks about trade to the Florida Panthers"
+    },
+    {
+      "article_url": "https://www.cbc.ca/news/canada/ottawa/ottawa-charge-to-make-major-announcement-at-canadian-tire-centre-9.7264211",
+      "club_id": "OTT",
+      "query": "\"Ottawa Senators\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:24:19Z",
+      "title": "Ottawa Charge to make  major  announcement at Canadian Tire Centre"
+    },
+    {
+      "article_url": "https://ottawasun.com/news/bidding-chateau-montebello-extended",
+      "club_id": "OTT",
+      "query": "\"Ottawa Senators\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:24:19Z",
+      "title": "Bidding process for the Fairmont Ch\u00e2teau Montebello extended"
+    },
+    {
+      "article_url": "https://ottawacitizen.com/ottawa-senators/host-september-prospect-challenge-gatineau",
+      "club_id": "OTT",
+      "query": "\"Ottawa Senators\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:24:19Z",
+      "title": "Ottawa Senators to host September Prospect Challenge in Gatineau"
+    },
+    {
+      "article_url": "https://ottawacitizen.com:443/ottawa-senators/host-september-prospect-challenge-gatineau",
+      "club_id": "OTT",
+      "query": "\"Ottawa Senators\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:24:19Z",
+      "title": "Ottawa Senators to host September Prospect Challenge in Gatineau"
+    }
+  ]
+}

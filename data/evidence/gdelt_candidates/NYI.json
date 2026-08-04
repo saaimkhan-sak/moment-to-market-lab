@@ -1,0 +1,41 @@
+{
+  "club_id": "NYI",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/hamilton-hammers-name-mckee-first-head-coach/",
+      "club_id": "NYI",
+      "query": "\"New York Islanders\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:23:33Z",
+      "title": "Hamilton Hammers name Jay McKee first head coach"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/07/23/nhlpa-rookie-showcase-cole-hutson-andrew-cristall-gavin-mckenna-chicago/",
+      "club_id": "NYI",
+      "query": "\"New York Islanders\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:23:33Z",
+      "title": "Cole Hutson and Andrew Cristall to represent Capitals at 2026 NHLPA Rookie Showcase"
+    },
+    {
+      "article_url": "https://dailyhive.com/vancouver/worst-nhl-jerseys-ranked",
+      "club_id": "NYI",
+      "query": "\"New York Islanders\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:23:33Z",
+      "title": "14 worst NHL jerseys ever worn ranked from tolerable to downright ugly | Daily Hive"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/05/21/capitals-hire-ray-bennett-assistant-coach-spencer-carbery-staff/",
+      "club_id": "NYI",
+      "query": "\"New York Islanders\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:23:33Z",
+      "title": "Washington Capitals name Ray Bennett to Spencer Carbery staff as an assistant coach"
+    },
+    {
+      "article_url": "https://bleacherreport.com/articles/25437564-comparing-expert-2026-nhl-mock-drafts-rangers-blackhawks-islanders-and-top-teams",
+      "club_id": "NYI",
+      "query": "\"New York Islanders\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:23:33Z",
+      "title": "Comparing Expert 2026 NHL Mock Drafts for Rangers , Blackhawks , Islanders and Top Teams"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "club_id": "NYR",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://nypost.com/2026/07/17/ticket-sales/ny-rangers-announce-2026-27-schedule-get-discounted-msg-tickets/",
+      "club_id": "NYR",
+      "query": "\"New York Rangers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:09:18Z",
+      "title": "NY Rangers announce 2026 - 27 schedule . Get discounted MSG tickets"
+    },
+    {
+      "article_url": "https://www.blueshirtbanter.com/podcast-question-thread-73/",
+      "club_id": "NYR",
+      "query": "\"New York Rangers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:09:18Z",
+      "title": "Podcast Question Thread"
+    },
+    {
+      "article_url": "https://www.blueshirtbanter.com/media-bytes-fox-it-was-time-to-tro-lafreniere-korpisalo-rust-reunion/",
+      "club_id": "NYR",
+      "query": "\"New York Rangers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:09:18Z",
+      "title": "Media Bytes : Fox , It Was Time to Tro , Lafreni\u00e8re , Korpisalo , Rust Reunion ? "
+    },
+    {
+      "article_url": "https://www.yardbarker.com/nhl/articles/five_nhl_teams_that_need_injury_luck_on_their_side_in_2026_27/s1_13132_44062847",
+      "club_id": "NYR",
+      "query": "\"New York Rangers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:09:18Z",
+      "title": "Five NHL teams that need injury luck on their side in 2026 - 27"
+    },
+    {
+      "article_url": "https://www.wfsb.com/2026/06/26/hartford-wolf-pack-peoplesbank-arena-hosting-watch-party-2026-nhl-draft/",
+      "club_id": "NYR",
+      "query": "\"New York Rangers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:09:18Z",
+      "title": "Hartford Wolf Pack , PeoplesBank Arena hosting watch party for 2026 NHL Draft"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.env
+.env.local
+.DS_Store
+.vercel/
+.venv/
+*.egg-info/
+__pycache__/
+*.py[cod]
+data/raw/**
+!data/raw/.gitkeep
+data/interim/**
+!data/interim/.gitkeep
+# Large reproducible local products remain outside a future Git repository.
+# Compact browser summaries, manifests, schemas, and scripts remain publishable.
+data/curated/content_video.json
+data/curated/game.json
+data/curated/game_event.json
+data/curated/attention_daily.json
+data/curated/attention_event_window.json
+data/curated/gdelt_gkg_attention_daily.json
+data/curated/gdelt_attention_daily.json
+data/curated/moneypuck_game_context.json
+data/curated/nhl_moneypuck_reconciliation.json
+data/curated/youtube*.json
+data/curated/gdelt_gkg_attention_daily_excluded.json
+data/evidence/youtube_event_publication_all_matches.json

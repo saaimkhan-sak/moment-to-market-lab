@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 5015,
+  "channel_id": "UCr6jSk2_SLOmjCG-3GeIStw",
+  "channel_title": "Philadelphia Flyers",
+  "club_id": "PHI",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-03T03:55:21Z",
+  "oldest_accessible_published_at": "2017-09-19T20:48:00Z",
+  "playlist_pages": 101,
+  "playlist_video_ids": 5015,
+  "retrieved_at": "2026-08-03T19:29:53Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCr6jSk2_SLOmjCG-3GeIStw",
+  "uploads_playlist_id": "UUr6jSk2_SLOmjCG-3GeIStw",
+  "video_detail_pages": 101
+}

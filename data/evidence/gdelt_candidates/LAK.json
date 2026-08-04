@@ -1,0 +1,41 @@
+{
+  "club_id": "LAK",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/06/27/2026-nhl-draft-live-tracker-day-two-picks-trades/",
+      "club_id": "LAK",
+      "query": "\"Los Angeles Kings\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "2026 NHL Draft live tracker : Following all of day two picks and trades"
+    },
+    {
+      "article_url": "https://www.thebiglead.com/3-burning-questions-los-angeles-kings-must-answer-in-2026-offseason/",
+      "club_id": "LAK",
+      "query": "\"Los Angeles Kings\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "3 urgent questions Los Angeles Kings must answer in 2026 offseason"
+    },
+    {
+      "article_url": "https://www.cp24.com/local/toronto/2026/06/17/toronto-maple-leafs-hire-jim-hiller-as-new-head-coach/",
+      "club_id": "LAK",
+      "query": "\"Los Angeles Kings\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Jim Hiller hired as Toronto Maple Leafs coach"
+    },
+    {
+      "article_url": "https://www.yardbarker.com/nhl/articles/oilers_trade_rumours_kings_penguins_named_as_teams_darnell_nurse_would_accept_trade_to/s1_15245_43943747",
+      "club_id": "LAK",
+      "query": "\"Los Angeles Kings\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Oilers trade rumours : Kings , Penguins named as teams Darnell Nurse would accept trade to"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/06/08/peter-laviolette-los-angeles-kings-hired-new-head-coach-nhl/",
+      "club_id": "LAK",
+      "query": "\"Los Angeles Kings\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Peter Laviolette hired as new head coach of Los Angeles Kings"
+    }
+  ]
+}

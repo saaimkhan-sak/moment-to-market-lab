@@ -1,0 +1,41 @@
+{
+  "club_id": "FLA",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.sun-sentinel.com/2026/06/23/excited-for-this-next-chapter-brady-tkachuk-ecstatic-to-join-brother-matthew-with-panthers/",
+      "club_id": "FLA",
+      "query": "\"Florida Panthers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:49Z",
+      "title": "Brady Tkachuk talks about trade to the Florida Panthers"
+    },
+    {
+      "article_url": "https://www.sun-sentinel.com/2026/06/26/fun-in-july-2026-coco-market-bahamas-celebration-world-cup-watch-parties-with-ac/",
+      "club_id": "FLA",
+      "query": "\"Florida Panthers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:49Z",
+      "title": "July festivals , fairs and family fun"
+    },
+    {
+      "article_url": "https://www.thebiglead.com/vegas-challenging-florida-panthers-for-most-hated-nhl-team-crown/",
+      "club_id": "FLA",
+      "query": "\"Florida Panthers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:49Z",
+      "title": "Vegas challenging Florida Panthers for  most hated  NHL team crown"
+    },
+    {
+      "article_url": "https://www.cbc.ca/news/canada/ottawa/brady-tkachuk-trade-ottawa-senators-florida-panthers-9.7245641",
+      "club_id": "FLA",
+      "query": "\"Florida Panthers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:49Z",
+      "title": "Brady Tkachuk says he asked for a trade to start the  next chapter  of his career"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/panthers-g-schmid-avoid-arbitration-with-two-year-contract/",
+      "club_id": "FLA",
+      "query": "\"Florida Panthers\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:49Z",
+      "title": "Florida Panthers , goaltender Akira Schmid avoid arbitration with two - year contract"
+    }
+  ]
+}

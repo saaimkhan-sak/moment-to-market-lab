@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 2973,
+  "channel_id": "UCeNx7hBcFlZ4OXkd-18hJ-g",
+  "channel_title": "Boston Bruins",
+  "club_id": "BOS",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-03T15:59:17Z",
+  "oldest_accessible_published_at": "2014-06-01T22:11:11Z",
+  "playlist_pages": 60,
+  "playlist_video_ids": 2973,
+  "retrieved_at": "2026-08-03T19:06:15Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCeNx7hBcFlZ4OXkd-18hJ-g",
+  "uploads_playlist_id": "UUeNx7hBcFlZ4OXkd-18hJ-g",
+  "video_detail_pages": 60
+}

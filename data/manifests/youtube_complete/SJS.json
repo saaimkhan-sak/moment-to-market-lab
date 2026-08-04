@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 2845,
+  "channel_id": "UCxQ6TOrK5RtG1Rt3GI02EJA",
+  "channel_title": "San Jose Sharks",
+  "club_id": "SJS",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-02T20:13:18Z",
+  "oldest_accessible_published_at": "2011-09-06T15:56:40Z",
+  "playlist_pages": 57,
+  "playlist_video_ids": 2845,
+  "retrieved_at": "2026-08-03T19:31:11Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCxQ6TOrK5RtG1Rt3GI02EJA",
+  "uploads_playlist_id": "UUxQ6TOrK5RtG1Rt3GI02EJA",
+  "video_detail_pages": 57
+}

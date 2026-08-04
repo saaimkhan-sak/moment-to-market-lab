@@ -1,0 +1,4 @@
+identity_id,club_id,franchise_id,nhl_abbreviation,club_name,valid_from,valid_to,successor_identity_id,notes
+ARI-coyotes,ARI,ARI,ARI,Arizona Coyotes,1979-06-22,2024-06-30,,Historical club and franchise remain separate from Utah; no observations carry into UTA.
+UTA-hockey-club,UTA,UTA,UTA,Utah Hockey Club,2024-06-13,2025-05-06,UTA-mammoth,First Utah identity; Arizona observations are not inherited.
+UTA-mammoth,UTA,UTA,UTA,Utah Mammoth,2025-05-07,,,Current Utah identity; 2024-25 records retain the Utah Hockey Club validity label.

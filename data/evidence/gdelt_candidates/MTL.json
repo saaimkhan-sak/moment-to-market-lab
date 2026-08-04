@@ -1,0 +1,41 @@
+{
+  "club_id": "MTL",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://globalnews.ca/news/11938903/montreal-gallagher-honorary-citizen-canadiens/",
+      "club_id": "MTL",
+      "query": "\"Montreal Canadiens\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:19:18Z",
+      "title": "Montreal names Brendan Gallagher  honorary citizen  as player departs Canadiens"
+    },
+    {
+      "article_url": "https://www.spotrac.com/nhl/player/_/id/84602/bogdan-konyushkov",
+      "club_id": "MTL",
+      "query": "\"Montreal Canadiens\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:19:18Z",
+      "title": "Bogdan Konyushkov Contract , Salary & Cap Hit 2026"
+    },
+    {
+      "article_url": "https://www.habseyesontheprize.com/gleb-pugachyov-2026-nhl-draft-montreal-canadiens-select-with-pick-26-russia-mhl-chl-khl-chaika-nichny-novgorod-right-wing-stats/",
+      "club_id": "MTL",
+      "query": "\"Montreal Canadiens\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:19:18Z",
+      "title": "2026 NHL Draft : Canadiens select Gleb Pugachyov with pick # 26"
+    },
+    {
+      "article_url": "https://globalnews.ca/news/11943107/canadiens-trade-gallagher-canucks/",
+      "club_id": "MTL",
+      "query": "\"Montreal Canadiens\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:19:18Z",
+      "title": "Canadiens trade veteran forward Brendan Gallagher to Canucks"
+    },
+    {
+      "article_url": "https://globalnews.ca/news/11841646/montreal-canadiens-habs-fever-city/",
+      "club_id": "MTL",
+      "query": "\"Montreal Canadiens\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:19:18Z",
+      "title": "  Never felt it like thi : Famous Montreal\u00a0barber\u00a0sees new level of Habs fever"
+    }
+  ]
+}

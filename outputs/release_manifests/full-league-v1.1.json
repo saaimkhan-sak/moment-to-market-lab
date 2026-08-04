@@ -1,0 +1,118 @@
+{
+  "caveat": "Public-attention associations are descriptive, not causal or commercial outcomes. GDELT is earned-media volume, not sentiment. YouTube views, likes, comments, and subscribers are current public snapshots; only upload and surviving top-level comment timestamps enter the historical descriptive layer. QCEW suppression remains visible and ACS fallbacks remain separately labelled.",
+  "club_count": 32,
+  "code_version": "sha256:24a1cc1f7388b407f60dfdd3254dd0d38719019a59713cf295e1399da64e374e",
+  "created_at": "2026-08-04T03:03:04Z",
+  "gate_failures": [],
+  "missing_required_outputs": [],
+  "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+  "quality_gates": {
+    "canonical_game_event_keys_unique": true,
+    "canonical_moment_attention_keys_unique": true,
+    "club_profiles_and_differentiated_playbooks": true,
+    "club_season_source_coverage_is_explicit": true,
+    "cross_channel_stability_rule_enforced": true,
+    "entity_validity_and_archives_are_auditable": true,
+    "final_web_release_assembled": true,
+    "five_slide_memos_for_32_clubs": true,
+    "gdelt_daily_panel_complete_with_visible_source_gaps": true,
+    "gdelt_manual_precision_audit_eligible_32": true,
+    "market_context_32_clubs": true,
+    "moneypuck_full_reconciliation_and_context": true,
+    "official_announcement_classes_and_roster_coverage": true,
+    "preseason_excluded_from_event_and_moment_panels": true,
+    "qcew_suppression_preserved_with_labelled_fallback": true,
+    "registry_exactly_32_current_clubs": true,
+    "small_samples_suppressed": true,
+    "sourced_rivalries_cover_32_clubs": true,
+    "two_channel_hierarchical_model_converged": true,
+    "youtube_all_accessible_uploads_32_clubs": true,
+    "youtube_historical_layer_is_event_time_only": true
+  },
+  "release_id": "moment-to-market-2026-08-03-v1.1-local",
+  "requirement_evidence": {
+    "differentiated_outputs": {
+      "club_profiles": 32,
+      "memos": 32,
+      "playbooks": 96,
+      "unique_action_fingerprints": 94,
+      "unique_club_content_contexts": 32,
+      "unique_memo_analytical_signatures": 32
+    },
+    "entity_validity": {
+      "arizona_valid_through": "2024-06-30",
+      "utah_hockey_club_valid_through": "2025-05-06",
+      "utah_mammoth_valid_from": "2025-05-07",
+      "winnipeg_entity_id": "Q472741"
+    },
+    "gdelt": {
+      "active_extraction_reviewed_articles": 185,
+      "club_identities": 33,
+      "current_clubs_precision_eligible": 32,
+      "daily_rows": 126663,
+      "visible_source_gap_dates": 18
+    },
+    "model": {
+      "channels": [
+        "gdelt_earned_media",
+        "wikimedia_pageviews"
+      ],
+      "cross_channel_cells": 1089,
+      "daily_observations_by_channel": {
+        "gdelt_earned_media": 126088,
+        "wikimedia_pageviews": 126663
+      },
+      "stable_cells": 11
+    },
+    "moneypuck": {
+      "context_rows": 14508,
+      "reconciled_games": 14502,
+      "required_xg_and_game_state_fields": [
+        "away_xg_all",
+        "away_xg_while_leading",
+        "away_xg_while_tied",
+        "away_xg_while_trailing",
+        "home_xg_all",
+        "home_xg_share_all",
+        "home_xg_while_leading",
+        "home_xg_while_tied",
+        "home_xg_while_trailing"
+      ]
+    },
+    "official_announcements": {
+      "current_clubs_with_roster_event": 32,
+      "materialized_moment_records": 61,
+      "records": 61
+    },
+    "preseason_exclusion": {
+      "attention_event_windows": 40584,
+      "game_events": 4584321,
+      "moments": 6764,
+      "preseason_records_in_these_panels": 0
+    },
+    "rivalries": {
+      "covered_current_clubs": 32,
+      "sourced_pairs": 21
+    },
+    "web_release": {
+      "club_route_bundles": 32,
+      "unexpected_top_level_public_data_files": []
+    },
+    "youtube_complete_upload_archives": {
+      "accessible_videos_materialized": 126637,
+      "clubs": 32,
+      "inaccessible_or_deleted_video_ids": 0,
+      "playlist_video_ids": 126637
+    }
+  },
+  "source_contract_version": "1.1.0",
+  "source_dates": {
+    "gdelt": "2026-08-04T02:54:04Z",
+    "market": "2026-08-03T14:59:11Z",
+    "nhl_and_moneypuck": "2026-08-04T03:01:50Z",
+    "wikimedia": "2026-08-04T02:23:46Z",
+    "youtube": "2026-08-03T19:38:12Z"
+  },
+  "status": "pass",
+  "taxonomy_version": "1.1.0"
+}

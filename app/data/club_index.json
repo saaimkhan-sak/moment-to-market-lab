@@ -1,0 +1,258 @@
+[
+  {
+    "club_accent": "#FC4C02",
+    "club_id": "ANA",
+    "club_name": "Anaheim Ducks",
+    "club_slug": "anaheim-ducks",
+    "country": "US",
+    "market_name": "Anaheim-Santa Ana-Irvine CA"
+  },
+  {
+    "club_accent": "#FFB81C",
+    "club_id": "BOS",
+    "club_name": "Boston Bruins",
+    "club_slug": "boston-bruins",
+    "country": "US",
+    "market_name": "Boston-Cambridge-Newton MA-NH"
+  },
+  {
+    "club_accent": "#003087",
+    "club_id": "BUF",
+    "club_name": "Buffalo Sabres",
+    "club_slug": "buffalo-sabres",
+    "country": "US",
+    "market_name": "Buffalo-Cheektowaga NY"
+  },
+  {
+    "club_accent": "#CC0000",
+    "club_id": "CAR",
+    "club_name": "Carolina Hurricanes",
+    "club_slug": "carolina-hurricanes",
+    "country": "US",
+    "market_name": "Raleigh-Cary NC"
+  },
+  {
+    "club_accent": "#002654",
+    "club_id": "CBJ",
+    "club_name": "Columbus Blue Jackets",
+    "club_slug": "columbus-blue-jackets",
+    "country": "US",
+    "market_name": "Columbus OH"
+  },
+  {
+    "club_accent": "#C8102E",
+    "club_id": "CGY",
+    "club_name": "Calgary Flames",
+    "club_slug": "calgary-flames",
+    "country": "CA",
+    "market_name": "Calgary AB"
+  },
+  {
+    "club_accent": "#CF0A2C",
+    "club_id": "CHI",
+    "club_name": "Chicago Blackhawks",
+    "club_slug": "chicago-blackhawks",
+    "country": "US",
+    "market_name": "Chicago-Naperville-Elgin IL-IN-WI"
+  },
+  {
+    "club_accent": "#6F263D",
+    "club_id": "COL",
+    "club_name": "Colorado Avalanche",
+    "club_slug": "colorado-avalanche",
+    "country": "US",
+    "market_name": "Denver-Aurora-Lakewood CO"
+  },
+  {
+    "club_accent": "#006847",
+    "club_id": "DAL",
+    "club_name": "Dallas Stars",
+    "club_slug": "dallas-stars",
+    "country": "US",
+    "market_name": "Dallas-Fort Worth-Arlington TX"
+  },
+  {
+    "club_accent": "#CE1126",
+    "club_id": "DET",
+    "club_name": "Detroit Red Wings",
+    "club_slug": "detroit-red-wings",
+    "country": "US",
+    "market_name": "Detroit-Warren-Dearborn MI"
+  },
+  {
+    "club_accent": "#FF4C00",
+    "club_id": "EDM",
+    "club_name": "Edmonton Oilers",
+    "club_slug": "edmonton-oilers",
+    "country": "CA",
+    "market_name": "Edmonton AB"
+  },
+  {
+    "club_accent": "#C8102E",
+    "club_id": "FLA",
+    "club_name": "Florida Panthers",
+    "club_slug": "florida-panthers",
+    "country": "US",
+    "market_name": "Miami-Fort Lauderdale-West Palm Beach FL"
+  },
+  {
+    "club_accent": "#111111",
+    "club_id": "LAK",
+    "club_name": "Los Angeles Kings",
+    "club_slug": "los-angeles-kings",
+    "country": "US",
+    "market_name": "Los Angeles-Long Beach-Anaheim CA"
+  },
+  {
+    "club_accent": "#154734",
+    "club_id": "MIN",
+    "club_name": "Minnesota Wild",
+    "club_slug": "minnesota-wild",
+    "country": "US",
+    "market_name": "Minneapolis-St. Paul-Bloomington MN-WI"
+  },
+  {
+    "club_accent": "#AF1E2D",
+    "club_id": "MTL",
+    "club_name": "Montreal Canadiens",
+    "club_slug": "montreal-canadiens",
+    "country": "CA",
+    "market_name": "Montr\u00e9al QC"
+  },
+  {
+    "club_accent": "#CE1126",
+    "club_id": "NJD",
+    "club_name": "New Jersey Devils",
+    "club_slug": "new-jersey-devils",
+    "country": "US",
+    "market_name": "New York-Newark-Jersey City NY-NJ-PA"
+  },
+  {
+    "club_accent": "#FFB81C",
+    "club_id": "NSH",
+    "club_name": "Nashville Predators",
+    "club_slug": "nashville-predators",
+    "country": "US",
+    "market_name": "Nashville-Davidson-Murfreesboro-Franklin TN"
+  },
+  {
+    "club_accent": "#00539B",
+    "club_id": "NYI",
+    "club_name": "New York Islanders",
+    "club_slug": "new-york-islanders",
+    "country": "US",
+    "market_name": "New York-Newark-Jersey City NY-NJ-PA"
+  },
+  {
+    "club_accent": "#0038A8",
+    "club_id": "NYR",
+    "club_name": "New York Rangers",
+    "club_slug": "new-york-rangers",
+    "country": "US",
+    "market_name": "New York-Newark-Jersey City NY-NJ-PA"
+  },
+  {
+    "club_accent": "#C52032",
+    "club_id": "OTT",
+    "club_name": "Ottawa Senators",
+    "club_slug": "ottawa-senators",
+    "country": "CA",
+    "market_name": "Ottawa-Gatineau ON-QC"
+  },
+  {
+    "club_accent": "#F74902",
+    "club_id": "PHI",
+    "club_name": "Philadelphia Flyers",
+    "club_slug": "philadelphia-flyers",
+    "country": "US",
+    "market_name": "Philadelphia-Camden-Wilmington PA-NJ-DE-MD"
+  },
+  {
+    "club_accent": "#FCB514",
+    "club_id": "PIT",
+    "club_name": "Pittsburgh Penguins",
+    "club_slug": "pittsburgh-penguins",
+    "country": "US",
+    "market_name": "Pittsburgh PA"
+  },
+  {
+    "club_accent": "#001628",
+    "club_id": "SEA",
+    "club_name": "Seattle Kraken",
+    "club_slug": "seattle-kraken",
+    "country": "US",
+    "market_name": "Seattle-Tacoma-Bellevue WA"
+  },
+  {
+    "club_accent": "#006D75",
+    "club_id": "SJS",
+    "club_name": "San Jose Sharks",
+    "club_slug": "san-jose-sharks",
+    "country": "US",
+    "market_name": "San Jose-Sunnyvale-Santa Clara CA"
+  },
+  {
+    "club_accent": "#002F87",
+    "club_id": "STL",
+    "club_name": "St. Louis Blues",
+    "club_slug": "st-louis-blues",
+    "country": "US",
+    "market_name": "St. Louis MO-IL"
+  },
+  {
+    "club_accent": "#002868",
+    "club_id": "TBL",
+    "club_name": "Tampa Bay Lightning",
+    "club_slug": "tampa-bay-lightning",
+    "country": "US",
+    "market_name": "Tampa-St. Petersburg-Clearwater FL"
+  },
+  {
+    "club_accent": "#003E7E",
+    "club_id": "TOR",
+    "club_name": "Toronto Maple Leafs",
+    "club_slug": "toronto-maple-leafs",
+    "country": "CA",
+    "market_name": "Toronto ON"
+  },
+  {
+    "club_accent": "#6B2C91",
+    "club_id": "UTA",
+    "club_name": "Utah Mammoth",
+    "club_slug": "utah-mammoth",
+    "country": "US",
+    "market_name": "Salt Lake City UT"
+  },
+  {
+    "club_accent": "#00205B",
+    "club_id": "VAN",
+    "club_name": "Vancouver Canucks",
+    "club_slug": "vancouver-canucks",
+    "country": "CA",
+    "market_name": "Vancouver BC"
+  },
+  {
+    "club_accent": "#B4975A",
+    "club_id": "VGK",
+    "club_name": "Vegas Golden Knights",
+    "club_slug": "vegas-golden-knights",
+    "country": "US",
+    "market_name": "Las Vegas-Henderson-Paradise NV"
+  },
+  {
+    "club_accent": "#041E42",
+    "club_id": "WPG",
+    "club_name": "Winnipeg Jets",
+    "club_slug": "winnipeg-jets",
+    "country": "CA",
+    "market_name": "Winnipeg MB"
+  },
+  {
+    "club_accent": "#C8102E",
+    "club_id": "WSH",
+    "club_name": "Washington Capitals",
+    "club_slug": "washington-capitals",
+    "country": "US",
+    "market_name": "Washington-Arlington-Alexandria DC-VA-MD-WV"
+  }
+]

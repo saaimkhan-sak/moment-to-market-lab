@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 589,
+  "channel_id": "UCsjx7L3gOJJYxmaEMiwxvVQ",
+  "channel_title": "Carolina Hurricanes",
+  "club_id": "CAR",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-27T23:24:02Z",
+  "oldest_accessible_published_at": "2024-02-06T21:48:17Z",
+  "playlist_pages": 12,
+  "playlist_video_ids": 589,
+  "retrieved_at": "2026-08-03T19:09:22Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCsjx7L3gOJJYxmaEMiwxvVQ",
+  "uploads_playlist_id": "UUsjx7L3gOJJYxmaEMiwxvVQ",
+  "video_detail_pages": 12
+}

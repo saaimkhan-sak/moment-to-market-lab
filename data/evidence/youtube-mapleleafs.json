@@ -1,0 +1,10 @@
+{
+  "channel_handle": "@MapleLeafs",
+  "channel_id": "UCJSq3JDk6eWfzgjM_JXFKsg",
+  "evidence_status": "confirmed",
+  "limitation": "Current public counts are descriptive snapshots, not historical 24-hour or 72-hour video performance.",
+  "retrieved_at": "2026-08-02T22:58:35Z",
+  "sample_size": 50,
+  "source_url": "https://developers.google.com/youtube/v3/docs",
+  "uploads_playlist_id": "UUJSq3JDk6eWfzgjM_JXFKsg"
+}

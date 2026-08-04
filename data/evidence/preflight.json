@@ -1,0 +1,13 @@
+{
+  "bea": {
+    "key_present": true,
+    "retrieved_at": "2026-08-03T02:24:32Z",
+    "source_url": "https://apps.bea.gov/api/data/",
+    "status": "confirmed"
+  },
+  "checked_at": "2026-08-03T02:24:31Z",
+  "youtube": {
+    "key_present": true,
+    "status": "confirmed_from_pilot"
+  }
+}

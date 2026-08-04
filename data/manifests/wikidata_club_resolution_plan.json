@@ -1,0 +1,266 @@
+{
+  "rows": [
+    {
+      "club_id": "ANA",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Anaheim Ducks",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Anaheim+Ducks&language=en&format=json"
+    },
+    {
+      "club_id": "BOS",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Boston Bruins",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Boston+Bruins&language=en&format=json"
+    },
+    {
+      "club_id": "BUF",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Buffalo Sabres",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Buffalo+Sabres&language=en&format=json"
+    },
+    {
+      "club_id": "CGY",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Calgary Flames",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Calgary+Flames&language=en&format=json"
+    },
+    {
+      "club_id": "CAR",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Carolina Hurricanes",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Carolina+Hurricanes&language=en&format=json"
+    },
+    {
+      "club_id": "CHI",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Chicago Blackhawks",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Chicago+Blackhawks&language=en&format=json"
+    },
+    {
+      "club_id": "COL",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Colorado Avalanche",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Colorado+Avalanche&language=en&format=json"
+    },
+    {
+      "club_id": "CBJ",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Columbus Blue Jackets",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Columbus+Blue+Jackets&language=en&format=json"
+    },
+    {
+      "club_id": "DAL",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Dallas Stars",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Dallas+Stars&language=en&format=json"
+    },
+    {
+      "club_id": "DET",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Detroit Red Wings",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Detroit+Red+Wings&language=en&format=json"
+    },
+    {
+      "club_id": "EDM",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Edmonton Oilers",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Edmonton+Oilers&language=en&format=json"
+    },
+    {
+      "club_id": "FLA",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Florida Panthers",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Florida+Panthers&language=en&format=json"
+    },
+    {
+      "club_id": "LAK",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Los Angeles Kings",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Los+Angeles+Kings&language=en&format=json"
+    },
+    {
+      "club_id": "MIN",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Minnesota Wild",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Minnesota+Wild&language=en&format=json"
+    },
+    {
+      "club_id": "MTL",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Montreal Canadiens",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Montreal+Canadiens&language=en&format=json"
+    },
+    {
+      "club_id": "NSH",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Nashville Predators",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Nashville+Predators&language=en&format=json"
+    },
+    {
+      "club_id": "NJD",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "New Jersey Devils",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=New+Jersey+Devils&language=en&format=json"
+    },
+    {
+      "club_id": "NYI",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "New York Islanders",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=New+York+Islanders&language=en&format=json"
+    },
+    {
+      "club_id": "NYR",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "New York Rangers",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=New+York+Rangers&language=en&format=json"
+    },
+    {
+      "club_id": "OTT",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Ottawa Senators",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Ottawa+Senators&language=en&format=json"
+    },
+    {
+      "club_id": "PHI",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Philadelphia Flyers",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Philadelphia+Flyers&language=en&format=json"
+    },
+    {
+      "club_id": "PIT",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Pittsburgh Penguins",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Pittsburgh+Penguins&language=en&format=json"
+    },
+    {
+      "club_id": "SJS",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "San Jose Sharks",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=San+Jose+Sharks&language=en&format=json"
+    },
+    {
+      "club_id": "SEA",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Seattle Kraken",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Seattle+Kraken&language=en&format=json"
+    },
+    {
+      "club_id": "STL",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "St. Louis Blues",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=St.+Louis+Blues&language=en&format=json"
+    },
+    {
+      "club_id": "TBL",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Tampa Bay Lightning",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Tampa+Bay+Lightning&language=en&format=json"
+    },
+    {
+      "club_id": "TOR",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Toronto Maple Leafs",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Toronto+Maple+Leafs&language=en&format=json"
+    },
+    {
+      "club_id": "UTA",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Utah Mammoth",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Utah+Mammoth&language=en&format=json"
+    },
+    {
+      "club_id": "VAN",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Vancouver Canucks",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Vancouver+Canucks&language=en&format=json"
+    },
+    {
+      "club_id": "VGK",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Vegas Golden Knights",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Vegas+Golden+Knights&language=en&format=json"
+    },
+    {
+      "club_id": "WSH",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Washington Capitals",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Washington+Capitals&language=en&format=json"
+    },
+    {
+      "club_id": "WPG",
+      "entity_type": "club",
+      "evidence_status": "planned",
+      "review_requirement": "Confirm exact club entity, English Wikipedia sitelink, redirects, franchise validity period.",
+      "search_term": "Winnipeg Jets",
+      "wikidata_query_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Winnipeg+Jets&language=en&format=json"
+    }
+  ],
+  "source": {
+    "evidence_status": "planned",
+    "reason": null,
+    "retrieved_at": "2026-08-03T02:23:19Z",
+    "source_id": "wikidata"
+  }
+}

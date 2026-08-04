@@ -1,0 +1,61 @@
+{
+  "club_id": "PIT",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.wpxi.com/news/local/pittsburgh-penguins-end-agreement-with-wheeling-nailers/7PGEE5NZN5CATHZVQ7FJBCBGSA/",
+      "club_id": "PIT",
+      "domain": "wpxi.com",
+      "language": "English",
+      "query": "\"Pittsburgh Penguins\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:32:54Z",
+      "seen_at": "20260716T220000Z",
+      "source_country": "United States",
+      "title": "Pittsburgh Penguins end agreement with Wheeling Nailers"
+    },
+    {
+      "article_url": "https://www.tsn.ca/radio/ottawa-1200/article/tsn-mornings-penguins-strength-and-conditioning-coach-sean-young/",
+      "club_id": "PIT",
+      "domain": "tsn.ca",
+      "language": "English",
+      "query": "\"Pittsburgh Penguins\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:32:54Z",
+      "seen_at": "20260731T151500Z",
+      "source_country": "Canada",
+      "title": "TSN Mornings Penguins Strength and Conditioning coach Sean Young"
+    },
+    {
+      "article_url": "https://www.yardbarker.com/nhl/articles/nhl_notebook_sharks_re_sign_collin_graf_to_three_year_deal/s1_15227_44123422",
+      "club_id": "PIT",
+      "domain": "yardbarker.com",
+      "language": "English",
+      "query": "\"Pittsburgh Penguins\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:32:54Z",
+      "seen_at": "20260801T033000Z",
+      "source_country": "United States",
+      "title": "NHL Notebook : Sharks re - sign Collin Graf to three - year deal"
+    },
+    {
+      "article_url": "https://www.wpxi.com/news/local/penguins-sign-nick-robertson-2-year-contract/T4464HOWRVEFDLB3USL5MKPTBQ/",
+      "club_id": "PIT",
+      "domain": "wpxi.com",
+      "language": "English",
+      "query": "\"Pittsburgh Penguins\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:32:54Z",
+      "seen_at": "20260714T211500Z",
+      "source_country": "United States",
+      "title": "Penguins sign Nick Robertson to 2 - year contract"
+    },
+    {
+      "article_url": "https://www.allaboutthejersey.com/devils-in-the-details-news-and-links/71245/devils-in-the-details-7-17-26-scheduling-edition",
+      "club_id": "PIT",
+      "domain": "allaboutthejersey.com",
+      "language": "English",
+      "query": "\"Pittsburgh Penguins\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:32:54Z",
+      "seen_at": "20260717T140000Z",
+      "source_country": "United States",
+      "title": "DitD & Open Post - 7 / 17 / 26 : Scheduling Edition"
+    }
+  ]
+}

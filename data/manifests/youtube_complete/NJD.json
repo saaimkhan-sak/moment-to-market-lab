@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 5230,
+  "channel_id": "UCTB0WLJJBDRFxtqPLndvw6g",
+  "channel_title": "New Jersey Devils",
+  "club_id": "NJD",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-03T14:08:13Z",
+  "oldest_accessible_published_at": "2019-06-19T14:17:42Z",
+  "playlist_pages": 105,
+  "playlist_video_ids": 5230,
+  "retrieved_at": "2026-08-03T19:25:57Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCTB0WLJJBDRFxtqPLndvw6g",
+  "uploads_playlist_id": "UUTB0WLJJBDRFxtqPLndvw6g",
+  "video_detail_pages": 105
+}

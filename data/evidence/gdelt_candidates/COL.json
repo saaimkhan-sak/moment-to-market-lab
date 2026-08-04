@@ -1,0 +1,41 @@
+{
+  "club_id": "COL",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.durangoherald.com/articles/golden-knights-roll-to-early-lead-hold-off-avs-4-2-to-open-western-conference-final/",
+      "club_id": "COL",
+      "query": "\"Colorado Avalanche\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:34Z",
+      "title": "Golden Knights roll to early lead , hold off Avs 4 - 2 to open Western Conference Final"
+    },
+    {
+      "article_url": "https://nypost.com/2026/05/09/betting/avalanche-vs-wild-game-3-prediction-nhl-odds-picks-best-bets-for-stanley-cup-playoffs/",
+      "club_id": "COL",
+      "query": "\"Colorado Avalanche\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:34Z",
+      "title": "Avalanche vs . Wild Game 3 prediction : NHL odds , picks , best bets for Stanley Cup playoffs"
+    },
+    {
+      "article_url": "https://bleacherreport.com/articles/25430759-avalanche-hc-jared-bednar-drops-honest-quote-after-blowing-3-goal-lead-and-now-facing-elimination",
+      "club_id": "COL",
+      "query": "\"Colorado Avalanche\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:34Z",
+      "title": "Avalanche HC Jared Bednar Drops Honest Quote After Blowing 3 - Goal Lead and Now Facing Elimination"
+    },
+    {
+      "article_url": "https://bleacherreport.com/articles/25432358-br-2026-nhl-stanley-cup-final-predictions",
+      "club_id": "COL",
+      "query": "\"Colorado Avalanche\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:34Z",
+      "title": "B / R 2026 NHL Stanley Cup Final Predictions"
+    },
+    {
+      "article_url": "https://www.durangoherald.com/articles/hoping-to-stave-off-elimination-avalanche-turn-to-goalie-mackenzie-blackwood-in-game-4/",
+      "club_id": "COL",
+      "query": "\"Colorado Avalanche\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:34Z",
+      "title": "Hoping to stave off elimination , Avalanche turn to goalie Mackenzie Blackwood in Game 4"
+    }
+  ]
+}

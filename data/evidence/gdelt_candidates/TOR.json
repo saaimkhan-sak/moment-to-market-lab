@@ -1,0 +1,61 @@
+{
+  "club_id": "TOR",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/maple-leafs-name-crowe-as-director-of-player-personnel/",
+      "club_id": "TOR",
+      "domain": "tsn.ca",
+      "language": "English",
+      "query": "\"Toronto Maple Leafs\" sourcelang:english domain:tsn.ca",
+      "retrieved_at": "2026-08-03T15:35:23Z",
+      "seen_at": "20260715T174500Z",
+      "source_country": "Canada",
+      "title": "Maple Leafs name Jeremiah Crowe as Director of Player Personnel"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/robertson-penguins-avoid-arbitration-with-two-year-deal/",
+      "club_id": "TOR",
+      "domain": "tsn.ca",
+      "language": "English",
+      "query": "\"Toronto Maple Leafs\" sourcelang:english domain:tsn.ca",
+      "retrieved_at": "2026-08-03T15:35:23Z",
+      "seen_at": "20260714T184500Z",
+      "source_country": "Canada",
+      "title": "Forward Nick Robertson , Pittsburgh Penguins avoid arbitration with two - year deal"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/nhl-announces-home-openers-for-2026-27-leafs-host-habs-on-sept-29-opening-night/",
+      "club_id": "TOR",
+      "domain": "tsn.ca",
+      "language": "English",
+      "query": "\"Toronto Maple Leafs\" sourcelang:english domain:tsn.ca",
+      "retrieved_at": "2026-08-03T15:35:23Z",
+      "seen_at": "20260715T173000Z",
+      "source_country": "Canada",
+      "title": "NHL schedule : Home openers for 2026 - 27 ; Leafs host Habs on Sept . 29 opening night"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/hurricanes-to-open-nhl-season-vs-panthers-raise-their-stanley-cup-banner-on-sept-29/",
+      "club_id": "TOR",
+      "domain": "tsn.ca",
+      "language": "English",
+      "query": "\"Toronto Maple Leafs\" sourcelang:english domain:tsn.ca",
+      "retrieved_at": "2026-08-03T15:35:23Z",
+      "seen_at": "20260716T120000Z",
+      "source_country": "Canada",
+      "title": "Hurricanes to open the NHL season against the Panthers , raise their Stanley Cup banner on Sept . 29"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/maple-leafs-sign-quillan-villeneuve-and-tverberg-to-new-deals/",
+      "club_id": "TOR",
+      "domain": "tsn.ca",
+      "language": "English",
+      "query": "\"Toronto Maple Leafs\" sourcelang:english domain:tsn.ca",
+      "retrieved_at": "2026-08-03T15:35:23Z",
+      "seen_at": "20260709T001500Z",
+      "source_country": "Canada",
+      "title": "Toronto Maple Leafs sign Jacob Quillan , William Villeneuve , and Ryan Tverberg to new deals"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+taxonomy_version: 1.1.0
+attention_model_version: 2.0.0-unbalanced-multichannel-hierarchical
+source_contract_version: 1.1.0
+analysis_seasons: ['20152016', '20162017', '20172018', '20182019', '20192020', '20202021', '20212022', '20222023', '20232024', '20242025', '20252026']
+analysis_window_version: 2.0.0-unbalanced-club-season
+baseline_days: 14
+post_windows: {immediate: '0-1', short_persistence: '2-3', sustained_attention: '4-7'}

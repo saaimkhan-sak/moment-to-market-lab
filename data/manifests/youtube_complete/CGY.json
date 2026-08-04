@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 6278,
+  "channel_id": "UCFQqBMe3HSg6ltl09MlLHcQ",
+  "channel_title": "Calgary Flames",
+  "club_id": "CGY",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-16T17:07:37Z",
+  "oldest_accessible_published_at": "2020-07-14T23:20:09Z",
+  "playlist_pages": 126,
+  "playlist_video_ids": 6278,
+  "retrieved_at": "2026-08-03T19:07:59Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCFQqBMe3HSg6ltl09MlLHcQ",
+  "uploads_playlist_id": "UUFQqBMe3HSg6ltl09MlLHcQ",
+  "video_detail_pages": 126
+}

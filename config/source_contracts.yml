@@ -1,0 +1,32 @@
+version: 1.1.0
+contracts:
+  nhl-public:
+    raw_archive: true
+    required: [source_url, retrieved_at, schema_hash, game_id]
+    reconciliation: moneypuck_audit_sample
+  moneypuck:
+    raw_archive: true
+    required: [source_url, retrieved_at, season, checksum, variables_used]
+  wikimedia:
+    required: [project, access, agent, article, granularity, start, end, retrieved_at]
+    missing_policy: preserve_missing_never_zero
+  gdelt:
+    audit_required: [mapping_id, article_url, retrieved_at, reviewer, is_true_club_match, review_basis]
+    daily_required: [mapping_id, date_utc, article_count, daily_gkg_web_article_count, normalized_articles_per_100k, retrieved_at, query_checksum]
+    historical_source: gdelt_gkg_2_1_partitioned_public_dataset
+    matching_method: exact_allnames_with_audited_url_subject_recovery_for_bos_chi_nsh_wpg
+    quantification_gate: club_precision_gte_0_90
+    doc_api_role: recent_article_context_only_not_eleven_season_history
+    missing_policy: preserve_missing_never_zero
+  youtube:
+    required: [video_id, channel_id, published_at, title, description, duration, view_count, like_count, comment_count, retrieved_at]
+    partial_mode_without_key: true
+    historical_publication_metric: official_upload_count_by_event_window
+    historical_comment_metric: surviving_top_level_public_comments_by_original_publish_time
+    historical_comment_selection: first_official_upload_in_days_0_1_selected_without_engagement_inputs
+    historical_limitations: deleted_moderated_replies_and_disabled_comments_not_reconstructed
+    historical_stats_policy: never_assign_retrieval_time_views_likes_comments_or_subscribers_to_past_events
+    prospective_daily_trajectory_collection: deferred_by_user
+  market:
+    required: [source_url, geography_id, period, retrieved_at]
+    usage: descriptive_context_only

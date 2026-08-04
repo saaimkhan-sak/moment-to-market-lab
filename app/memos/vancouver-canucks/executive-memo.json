@@ -1,0 +1,410 @@
+{
+  "as_of": "2026-08-03",
+  "club_id": "VAN",
+  "club_slug": "vancouver-canucks",
+  "feedback_question": "Which public-attention signal would be useful in your team’s workflow, and which internal data would you need before acting on it?",
+  "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+  "slides": [
+    {
+      "as_of": "2026-08-03",
+      "body": "Wikimedia information demand and audited GDELT earned-media volume agree in modeled and club-local raw direction, with at least ten modeled and isolated observations per channel and every modeled and raw interval excluding zero.",
+      "club_name": "Vancouver Canucks",
+      "evidence": [
+        "Moment: four point game",
+        "Window: immediate",
+        "Minimum modeled sample: 48",
+        "Cross-channel status: stable_positive"
+      ],
+      "kicker": "DECISION AND EVIDENCE COVERAGE",
+      "limitation": "This is a reproducible public-signal association, not causal evidence, ticket demand, sponsor value, conversion, or fan identity.",
+      "slide": 1,
+      "title": "Four point game showed a stable positive public-attention association in the immediate window."
+    },
+    {
+      "as_of": "2026-08-03",
+      "body": "The profile keeps immediate, short-persistence, and sustained windows separate and suppresses club–moment cells with fewer than ten observations.",
+      "club_name": "Vancouver Canucks",
+      "evidence": [
+        "Wikimedia observations: 4,049",
+        "GDELT observations: 4,031",
+        "Official YouTube videos: 1,442",
+        "GDELT audit precision: 100.0%"
+      ],
+      "kicker": "CLUB MOMENT-RESPONSE PROFILE",
+      "limitation": "Public statistics are current at retrieval time; historical 24-hour and 72-hour video trajectories were not reconstructed.",
+      "slide": 2,
+      "title": "210 registered moments across the eligible 2015–16 through 2025–26 archive."
+    },
+    {
+      "as_of": "2026-08-03",
+      "benchmark": [
+        {
+          "leading_window": "immediate",
+          "moment_type": "four_point_game",
+          "stable_club_window_cells": 5
+        },
+        {
+          "leading_window": "immediate",
+          "moment_type": "hat_trick",
+          "stable_club_window_cells": 3
+        },
+        {
+          "leading_window": "immediate",
+          "moment_type": "overtime_win",
+          "stable_club_window_cells": 3
+        }
+      ],
+      "body": "The benchmark counts only club–moment–window cells that meet both sample and precision rules. A high single-channel estimate is not promoted to a stable finding.",
+      "club_name": "Vancouver Canucks",
+      "kicker": "LEAGUE BENCHMARK",
+      "limitation": "League comparisons describe public-signal associations and do not rank club business performance.",
+      "slide": 3,
+      "title": "Cross-channel agreement is uncommon by design."
+    },
+    {
+      "as_of": "2026-08-03",
+      "club_name": "Vancouver Canucks",
+      "kicker": "THREE ACTIVATION TEST NOTES",
+      "limitation": "Every action is a test protocol. Any internal KPI or commercial use requires club validation.",
+      "playbooks": [
+        {
+          "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 102 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
+          "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
+          "club_id": "VAN",
+          "club_name": "Vancouver Canucks",
+          "confidence_label": "stable_cross_channel_public_signal",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "VAN",
+                "confidence_interval_high": 0.1169871515364509,
+                "confidence_interval_low": 0.066019115828853,
+                "estimate": 0.09120559734317557,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 24,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "four_point_game",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.7453145874711472,
+                "raw_confidence_interval_low": 0.0004184419283412479,
+                "raw_median_lift": 0.25852654941075387,
+                "sample_size": 48
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "VAN",
+                "confidence_interval_high": 0.07141096193884255,
+                "confidence_interval_low": 0.043176025623230085,
+                "estimate": 0.05719923812142591,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 24,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "four_point_game",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.2523866023118258,
+                "raw_confidence_interval_low": 0.038299253489126876,
+                "raw_median_lift": 0.12963095054753548,
+                "sample_size": 48
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 24,
+                "modeled_confidence_interval_high": 0.1169871515364509,
+                "modeled_confidence_interval_low": 0.066019115828853,
+                "modeled_estimate": 0.09120559734317557,
+                "modeled_sample_size": 48,
+                "raw_confidence_interval_high": 0.7453145874711472,
+                "raw_confidence_interval_low": 0.0004184419283412479,
+                "raw_median_lift": 0.25852654941075387
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 24,
+                "modeled_confidence_interval_high": 0.07141096193884255,
+                "modeled_confidence_interval_low": 0.043176025623230085,
+                "modeled_estimate": 0.05719923812142591,
+                "modeled_sample_size": 48,
+                "raw_confidence_interval_high": 0.2523866023118258,
+                "raw_confidence_interval_low": 0.038299253489126876,
+                "raw_median_lift": 0.12963095054753548
+              }
+            ],
+            "cross_channel_status": "stable_positive",
+            "minimum_isolated_sample_size": 24,
+            "minimum_sample_size": 48,
+            "post_window": "immediate",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "four_point_game",
+          "official_content_context": {
+            "accessible_video_count": 1442,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 21,
+              "game_highlight_or_recap": 102,
+              "press_conference_or_media": 56,
+              "roster_announcement": 43
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "game_highlight_or_recap",
+            "leading_observed_title_format_count": 102,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "timed_activation_test",
+          "owner_function": "content",
+          "playbook_id": "vancouver-canucks--1--four_point_game",
+          "priority_within_club": 1,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
+        },
+        {
+          "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 102 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
+          "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
+          "club_id": "VAN",
+          "club_name": "Vancouver Canucks",
+          "confidence_label": "directional_hypothesis_not_stable",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "VAN",
+                "confidence_interval_high": 0.22567129134493102,
+                "confidence_interval_low": 0.17403142336142619,
+                "estimate": 0.19957351202455564,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 18,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "overtime_win",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.40204061433674104,
+                "raw_confidence_interval_low": -0.2072735613042609,
+                "raw_median_lift": -0.012861279670072384,
+                "sample_size": 65
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "VAN",
+                "confidence_interval_high": 0.1683215613440816,
+                "confidence_interval_low": 0.1398988963751462,
+                "estimate": 0.1540227287135234,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 18,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "overtime_win",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.18956172878851488,
+                "raw_confidence_interval_low": -0.10940330523561322,
+                "raw_median_lift": 0.0023941264820228486,
+                "sample_size": 65
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 18,
+                "modeled_confidence_interval_high": 0.22567129134493102,
+                "modeled_confidence_interval_low": 0.17403142336142619,
+                "modeled_estimate": 0.19957351202455564,
+                "modeled_sample_size": 65,
+                "raw_confidence_interval_high": 0.40204061433674104,
+                "raw_confidence_interval_low": -0.2072735613042609,
+                "raw_median_lift": -0.012861279670072384
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 18,
+                "modeled_confidence_interval_high": 0.1683215613440816,
+                "modeled_confidence_interval_low": 0.1398988963751462,
+                "modeled_estimate": 0.1540227287135234,
+                "modeled_sample_size": 65,
+                "raw_confidence_interval_high": 0.18956172878851488,
+                "raw_confidence_interval_low": -0.10940330523561322,
+                "raw_median_lift": 0.0023941264820228486
+              }
+            ],
+            "cross_channel_status": "mixed_direction",
+            "minimum_isolated_sample_size": 18,
+            "minimum_sample_size": 65,
+            "post_window": "immediate",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "overtime_win",
+          "official_content_context": {
+            "accessible_video_count": 1442,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 21,
+              "game_highlight_or_recap": 102,
+              "press_conference_or_media": 56,
+              "roster_announcement": 43
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "game_highlight_or_recap",
+            "leading_observed_title_format_count": 102,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "measurement_rehearsal",
+          "owner_function": "content",
+          "playbook_id": "vancouver-canucks--2--overtime_win",
+          "priority_within_club": 2,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
+        },
+        {
+          "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 102 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+          "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
+          "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
+          "club_id": "VAN",
+          "club_name": "Vancouver Canucks",
+          "confidence_label": "directional_hypothesis_not_stable",
+          "driver_metrics": "official publish time; source coverage; comparable-event count; overlap status; format and distribution timestamps",
+          "evidence": {
+            "channel_estimates": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "calculated_at": "2026-08-03",
+                "club_id": "VAN",
+                "confidence_interval_high": 0.12965986885954273,
+                "confidence_interval_low": 0.062048749577092055,
+                "estimate": 0.09533275819254983,
+                "estimate_interpretation": "partially pooled association in normalized earned-media article observations; not readership, sentiment, or causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 11,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "shootout_win",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.9115773367978647,
+                "raw_confidence_interval_low": 0.04202027921744234,
+                "raw_median_lift": 0.09406111361465233,
+                "sample_size": 40
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "calculated_at": "2026-08-03",
+                "club_id": "VAN",
+                "confidence_interval_high": 0.0408717509493608,
+                "confidence_interval_low": 0.004769755546764953,
+                "estimate": 0.022661456571490435,
+                "estimate_interpretation": "partially pooled association in expected public pageviews; not causal lift",
+                "evidence_grade": "confirmed_partial_pooling",
+                "isolated_sample_size": 11,
+                "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+                "moment_type": "shootout_win",
+                "post_window": "immediate",
+                "ranking_eligible": true,
+                "raw_confidence_interval_high": 0.5203824536468764,
+                "raw_confidence_interval_low": -0.11502452073116362,
+                "raw_median_lift": 0.009279406118008477,
+                "sample_size": 40
+              }
+            ],
+            "club_local_channel_evidence": [
+              {
+                "attention_channel": "gdelt_earned_media",
+                "isolated_sample_size": 11,
+                "modeled_confidence_interval_high": 0.12965986885954273,
+                "modeled_confidence_interval_low": 0.062048749577092055,
+                "modeled_estimate": 0.09533275819254983,
+                "modeled_sample_size": 40,
+                "raw_confidence_interval_high": 0.9115773367978647,
+                "raw_confidence_interval_low": 0.04202027921744234,
+                "raw_median_lift": 0.09406111361465233
+              },
+              {
+                "attention_channel": "wikimedia_pageviews",
+                "isolated_sample_size": 11,
+                "modeled_confidence_interval_high": 0.0408717509493608,
+                "modeled_confidence_interval_low": 0.004769755546764953,
+                "modeled_estimate": 0.022661456571490435,
+                "modeled_sample_size": 40,
+                "raw_confidence_interval_high": 0.5203824536468764,
+                "raw_confidence_interval_low": -0.11502452073116362,
+                "raw_median_lift": 0.009279406118008477
+              }
+            ],
+            "cross_channel_status": "insufficient_evidence",
+            "minimum_isolated_sample_size": 11,
+            "minimum_sample_size": 40,
+            "post_window": "immediate",
+            "stability_rule": "both channels have at least 10 modeled and 10 isolated observations; modeled and club-local raw medians share direction across channels; every modeled and raw 95% interval excludes zero"
+          },
+          "guardrails": "Public attention is not sentiment, attendance, revenue, sponsor value, conversion, or fan identity. Pause if either public channel is unavailable or matching precision falls below threshold.",
+          "internal_data_required": "Owned-channel publication and distribution timestamps plus the club-approved content outcome definition",
+          "internal_kpi": "Club-owned completion rate and publish-to-consumption curve for the registered package",
+          "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
+          "moment_type": "shootout_win",
+          "official_content_context": {
+            "accessible_video_count": 1442,
+            "all_observed_title_format_counts": {
+              "community_or_heritage": 21,
+              "game_highlight_or_recap": 102,
+              "press_conference_or_media": 56,
+              "roster_announcement": 43
+            },
+            "classification_rule": "case-insensitive title keyword rules in src/content_formats.py; categories may overlap and counts are descriptive",
+            "leading_observed_title_format": "game_highlight_or_recap",
+            "leading_observed_title_format_count": 102,
+            "limitation": "Current public statistics and title formats do not establish historical 24-hour performance or format effectiveness."
+          },
+          "operating_mode": "measurement_rehearsal",
+          "owner_function": "content",
+          "playbook_id": "vancouver-canucks--3--shootout_win",
+          "priority_within_club": 3,
+          "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
+          "requires_internal_validation": true,
+          "taxonomy_version": "1.1.0",
+          "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
+        }
+      ],
+      "slide": 4,
+      "title": "A 0–24 hour, 24–72 hour, and Day 4–7 sequence—with the evidence gate attached."
+    },
+    {
+      "as_of": "2026-08-03",
+      "body": "Retain exact publication and distribution timestamps, predeclare one internal outcome, preserve no-signal cases, and compare the same moment definition over time.",
+      "club_name": "Vancouver Canucks",
+      "evidence": [
+        "Internal request: owned-channel publication and distribution timestamps",
+        "Internal request: approved outcome definition and attribution window",
+        "Guardrail: no revenue, attendance, sponsor, CRM, or conversion inference from public signals",
+        "Feedback question: Which public-attention signal would be useful in your team’s workflow, and which internal data would you need before acting on it?"
+      ],
+      "kicker": "MEASUREMENT PLAN AND INTERNAL-DATA REQUEST",
+      "limitation": "Public attention can identify a timing hypothesis; it cannot establish downstream business value.",
+      "slide": 5,
+      "title": "Connect public attention to an approved internal outcome before acting."
+    }
+  ],
+  "taxonomy_version": "1.1.0",
+  "title": "Vancouver Canucks Moment-to-Market Intelligence Brief"
+}

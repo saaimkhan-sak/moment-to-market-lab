@@ -1,0 +1,27 @@
+{
+  "adaptive_429_cooldown": "120 seconds, doubling to a 600-second cap after consecutive 429 responses; reset after success",
+  "confirmed_or_cached_intervals": 0,
+  "created_at": "2026-08-04T02:31:47Z",
+  "failed_intervals": [
+    {
+      "interval_id": "ANA-current-history-000",
+      "reason": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "status": "unavailable"
+    }
+  ],
+  "initial_cooldown_seconds": 0.0,
+  "only_interval": null,
+  "planned_intervals": 1441,
+  "processed_intervals": 1,
+  "rate_limit_events": 0,
+  "results": [
+    {
+      "interval_id": "ANA-current-history-000",
+      "reason": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "status": "unavailable"
+    }
+  ],
+  "source_id": "gdelt-doc-api-timelinevolraw",
+  "spacing_seconds": 6.0,
+  "workers": 1
+}

@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 2290,
+  "channel_id": "UCRaSe1OUiCAsgFJy8tWAPBw",
+  "channel_title": "Winnipeg Jets",
+  "club_id": "WPG",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-29T22:20:48Z",
+  "oldest_accessible_published_at": "2017-01-22T19:11:49Z",
+  "playlist_pages": 46,
+  "playlist_video_ids": 2290,
+  "retrieved_at": "2026-08-03T19:38:12Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCRaSe1OUiCAsgFJy8tWAPBw",
+  "uploads_playlist_id": "UURaSe1OUiCAsgFJy8tWAPBw",
+  "video_detail_pages": 46
+}

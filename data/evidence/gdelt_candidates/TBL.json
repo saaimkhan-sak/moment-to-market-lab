@@ -1,0 +1,41 @@
+{
+  "club_id": "TBL",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.blueshirtbanter.com/bantering-points-5-6-26/",
+      "club_id": "TBL",
+      "query": "\"Tampa Bay Lightning\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:27:28Z",
+      "title": "Bantering Points : 5 / 6 / 26"
+    },
+    {
+      "article_url": "https://www.yardbarker.com/nhl/articles/jon_cooper_had_the_classiest_quote_after_game_7_loss_to_the_canadiens/s1_127_43804023",
+      "club_id": "TBL",
+      "query": "\"Tampa Bay Lightning\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:27:28Z",
+      "title": "Jon Cooper had the classiest quote after Game 7 loss to the Canadiens"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/06/12/logan-thompson-nhl-second-all-star-team-capitals/",
+      "club_id": "TBL",
+      "query": "\"Tampa Bay Lightning\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:27:28Z",
+      "title": "Logan Thompson named to the 2025 - 26 NHL Second All - Star Team after not finishing in top three for Vezina Trophy"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/06/03/jon-cooper-jack-adams-award-first-nhl-coach-of-the-year-lightning/",
+      "club_id": "TBL",
+      "query": "\"Tampa Bay Lightning\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:27:28Z",
+      "title": "Jon Cooper finally wins first Jack Adams Award as NHL Coach of the Year"
+    },
+    {
+      "article_url": "https://www.orlandosentinel.com/2026/06/03/lightnings-jon-cooper-wins-the-jack-adams-award-as-nhl-coach-of-the-year/",
+      "club_id": "TBL",
+      "query": "\"Tampa Bay Lightning\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:27:28Z",
+      "title": "Lightning Jon Cooper wins the Jack Adams Award as NHL coach of the year \u2013 Orlando Sentinel"
+    }
+  ]
+}

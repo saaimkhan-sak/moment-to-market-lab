@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 720,
+  "channel_id": "UCQRr7SxnnndFYuuRUtOIEnA",
+  "channel_title": "Minnesota Wild",
+  "club_id": "MIN",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-21T14:45:04Z",
+  "oldest_accessible_published_at": "2017-10-18T14:30:01Z",
+  "playlist_pages": 15,
+  "playlist_video_ids": 720,
+  "retrieved_at": "2026-08-03T19:23:22Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCQRr7SxnnndFYuuRUtOIEnA",
+  "uploads_playlist_id": "UUQRr7SxnnndFYuuRUtOIEnA",
+  "video_detail_pages": 15
+}

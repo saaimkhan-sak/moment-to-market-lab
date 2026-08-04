@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 1452,
+  "channel_id": "UCAX21FrzWy76WBRtOX1LgbA",
+  "channel_title": "Washington Capitals",
+  "club_id": "WSH",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-31T15:11:40Z",
+  "oldest_accessible_published_at": "2007-01-25T15:39:42Z",
+  "playlist_pages": 30,
+  "playlist_video_ids": 1452,
+  "retrieved_at": "2026-08-03T19:37:51Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCAX21FrzWy76WBRtOX1LgbA",
+  "uploads_playlist_id": "UUAX21FrzWy76WBRtOX1LgbA",
+  "video_detail_pages": 30
+}

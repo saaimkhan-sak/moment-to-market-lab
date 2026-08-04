@@ -1,0 +1,41 @@
+{
+  "club_id": "CHI",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.wbez.org/in-the-loop-with-sasha-ann-simons/2026/06/10/blackhawks-chairman-danny-wirtz-on-bringing-historic-investment-to-chicagos-west-side",
+      "club_id": "CHI",
+      "query": "\"Chicago Blackhawks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:42Z",
+      "title": "Blackhawks Chairman Danny Wirtz on bringing historic investment to Chicago West Side"
+    },
+    {
+      "article_url": "https://www.fox32chicago.com/news/blackhawks-legend-dennis-hull-dies-81",
+      "club_id": "CHI",
+      "query": "\"Chicago Blackhawks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:42Z",
+      "title": "Blackhawks legend Dennis Hull dies at 81"
+    },
+    {
+      "article_url": "https://www.spotrac.com/nhl/player/_/id/84536/roman-kantserov",
+      "club_id": "CHI",
+      "query": "\"Chicago Blackhawks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:42Z",
+      "title": "Roman Kantserov | NHL Contracts & Salaries"
+    },
+    {
+      "article_url": "https://www.thenews.com.pk/latest/1410003-patrick-kane-returns-to-chicago-blackhawks-on-two-year-deal",
+      "club_id": "CHI",
+      "query": "\"Chicago Blackhawks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:42Z",
+      "title": "Patrick Kane returns to Chicago Blackhawks on two - year deal"
+    },
+    {
+      "article_url": "https://bleacherreport.com/articles/25455389-nhl-schedule-2026-27-released-opening-day-all-star-weekend-and-key-dates",
+      "club_id": "CHI",
+      "query": "\"Chicago Blackhawks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:42Z",
+      "title": "NHL Schedule 2026 - 27 Released for Opening Day , All - Star Weekend and Key Dates"
+    }
+  ]
+}

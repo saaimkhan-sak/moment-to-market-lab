@@ -1,0 +1,10 @@
+{
+  "channel_handle": "@canadiensmtl",
+  "channel_id": "UCy8mtXf-Lxkyl6I6HMAq6-g",
+  "evidence_status": "confirmed",
+  "limitation": "Current public counts are descriptive snapshots, not historical 24-hour or 72-hour video performance.",
+  "retrieved_at": "2026-08-03T14:49:58Z",
+  "sample_size": 50,
+  "source_url": "https://developers.google.com/youtube/v3/docs",
+  "uploads_playlist_id": "UUy8mtXf-Lxkyl6I6HMAq6-g"
+}

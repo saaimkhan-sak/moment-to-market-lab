@@ -1,0 +1,41 @@
+{
+  "club_id": "SEA",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://kesq.com/news/2026/06/29/firebirds-re-sign-two-forwards-assistant-coach-stu-bickel-leaving-for-iowa-wild/",
+      "club_id": "SEA",
+      "query": "\"Seattle Kraken\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:11:14Z",
+      "title": "Firebirds re - sign two forwards , assistant coach Stu Bickel leaving for Iowa Wild"
+    },
+    {
+      "article_url": "https://www.spotrac.com/nhl/player/_/id/74464/jon-randall-avon",
+      "club_id": "SEA",
+      "query": "\"Seattle Kraken\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:11:14Z",
+      "title": "Jon - Randall Avon Contract , Salary & Cap Hit 2026"
+    },
+    {
+      "article_url": "https://www.krem.com/article/syndication/associatedpress/melinda-french-gates-ex-wife-of-bill-gates-to-join-seattle-kraken-as-minority-investor/616-d63f1d96-a756-404c-a44f-981eaa125b50",
+      "club_id": "SEA",
+      "query": "\"Seattle Kraken\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:11:14Z",
+      "title": "Melinda French Gates , ex - wife of Bill Gates , to join Seattle Kraken as minority investor"
+    },
+    {
+      "article_url": "https://www.wpxi.com/news/local/penguins-bring-back-ron-francis-front-office-role/CK6FKAPJNFATJPRV5VNULNXJVY/",
+      "club_id": "SEA",
+      "query": "\"Seattle Kraken\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:11:14Z",
+      "title": "Penguins bring back Ron Francis for front office role"
+    },
+    {
+      "article_url": "https://www.djc.com/news/bu/12176152.html",
+      "club_id": "SEA",
+      "query": "\"Seattle Kraken\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:11:14Z",
+      "title": "Seattle DJC . com local business news and data - Business - French Gates joins One Roof owners"
+    }
+  ]
+}

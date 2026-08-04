@@ -1,0 +1,41 @@
+{
+  "club_id": "DAL",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.prnewswire.com/news-releases/dallas-stars-and-delta-dental-of-california-partner-to-promote-oral-health-and-overall-health-302769978.html",
+      "club_id": "DAL",
+      "query": "\"Dallas Stars\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:34Z",
+      "title": "Dallas Stars and Delta Dental of California Partner to Promote Oral Health and Overall Health"
+    },
+    {
+      "article_url": "https://www.fox4news.com/news/plano-city-council-approve-using-tax-dollars-build-new-dallas-stars-arena",
+      "club_id": "DAL",
+      "query": "\"Dallas Stars\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:34Z",
+      "title": "Plano City Council approves using $700 million in taxpayer funds to build new Dallas Stars arena"
+    },
+    {
+      "article_url": "https://www.nbcdfw.com/news/local/dallas-stars-chose-planos-willow-bend-area-for-new-arena/4031357/",
+      "club_id": "DAL",
+      "query": "\"Dallas Stars\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:34Z",
+      "title": "Dallas Stars chose Plano for new arena , entertainment district"
+    },
+    {
+      "article_url": "https://lonestar925.iheart.com/featured/jeff-k/content/2026-06-20-happy-dallas-stars-championship-anniversary/",
+      "club_id": "DAL",
+      "query": "\"Dallas Stars\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:34Z",
+      "title": "Happy Dallas Stars Championship Anniversary ! | Lone Star 92 . 5"
+    },
+    {
+      "article_url": "https://www.wmur.com/article/nh-mountain-kings-nhl-draft/71776103",
+      "club_id": "DAL",
+      "query": "\"Dallas Stars\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:34Z",
+      "title": "NH Mountain Kings player drafted into NHL"
+    }
+  ]
+}

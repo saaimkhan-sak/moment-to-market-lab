@@ -1,0 +1,41 @@
+{
+  "club_id": "CBJ",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://abc6onyourside.com/news/local/columbus-blue-jackets-kick-off-recyle-the-game-initiative",
+      "club_id": "CBJ",
+      "query": "\"Columbus Blue Jackets\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:37Z",
+      "title": "Columbus Blue Jackets kick off  Recycle the Game  initiative"
+    },
+    {
+      "article_url": "https://www.spotrac.com/nhl/player/_/id/1944/cody-bass",
+      "club_id": "CBJ",
+      "query": "\"Columbus Blue Jackets\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:37Z",
+      "title": "Cody Bass | NHL Contracts & Salaries"
+    },
+    {
+      "article_url": "https://www.spotrac.com/nhl/player/_/id/82041/hunter-mckown",
+      "club_id": "CBJ",
+      "query": "\"Columbus Blue Jackets\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:37Z",
+      "title": "Hunter McKown Contract , Salary & Cap Hit 2026"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/blue-jackets-nearing-deal-with-pending-free-agent-coyle/",
+      "club_id": "CBJ",
+      "query": "\"Columbus Blue Jackets\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:37Z",
+      "title": "Columbus Blue Jackets sign pending free - agent centre Charlie Coyle to six - year , $36 million deal"
+    },
+    {
+      "article_url": "https://www.thebiglead.com/maple-leafs-may-need-matthew-knies-package-to-land-zach-werenski/",
+      "club_id": "CBJ",
+      "query": "\"Columbus Blue Jackets\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:37Z",
+      "title": "Maple Leafs may need Matthew Knies package to land Zach Werenski"
+    }
+  ]
+}

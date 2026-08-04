@@ -1,0 +1,41 @@
+{
+  "club_id": "CAR",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/05/09/hurricanes-taunt-flyers-sweep-gritty-its-always-sunny-memes/",
+      "club_id": "CAR",
+      "query": "\"Carolina Hurricanes\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:05:14Z",
+      "title": "Hurricanes taunt Flyers with  It Always Sunny in Philadelphia  memes , disrespect Gritty after sweeping them in second - round playoff series"
+    },
+    {
+      "article_url": "https://www.wwaytv3.com/hurricanes-foundation-donates-50000-to-fight-summer-hunger-150000-meals-supported/",
+      "club_id": "CAR",
+      "query": "\"Carolina Hurricanes\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:05:14Z",
+      "title": "Hurricanes Foundation donates $50 , 000 to Fight Summer Hunger , 150 , 000 meals supported"
+    },
+    {
+      "article_url": "https://www.ocregister.com/2026/06/14/carolina-hurricanes-shut-down-vegas-golden-knights-to-win-stanley-cup/",
+      "club_id": "CAR",
+      "query": "\"Carolina Hurricanes\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:05:14Z",
+      "title": "Carolina Hurricanes shut down Vegas Golden Knights to win Stanley Cup"
+    },
+    {
+      "article_url": "https://www.wxii12.com/article/viral-carolina-hurricanes-fan-bryson-karbley-stanley-cup-tickets/71538002",
+      "club_id": "CAR",
+      "query": "\"Carolina Hurricanes\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:05:14Z",
+      "title": "Viral  Caniac  fan scores tickets Stanley Cup Final game 5 thanks to Hurricanes"
+    },
+    {
+      "article_url": "https://www.wral.com/carolina-hurricanes-arrive-at-rdu-with-stanley-cup-trophy/22367462/",
+      "club_id": "CAR",
+      "query": "\"Carolina Hurricanes\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:05:14Z",
+      "title": "Carolina Hurricanes arrive at RDU with Stanley Cup trophy"
+    }
+  ]
+}

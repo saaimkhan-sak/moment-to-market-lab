@@ -1,0 +1,41 @@
+{
+  "club_id": "BUF",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://wbuf.com/buffalo-sabres-jerseys/",
+      "club_id": "BUF",
+      "query": "\"Buffalo Sabres\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:04:26Z",
+      "title": "Buffalo Sabres make change to jersey for next season . "
+    },
+    {
+      "article_url": "https://wyrk.com/ixp/17/p/buffalo-sabres-jerseys/",
+      "club_id": "BUF",
+      "query": "\"Buffalo Sabres\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:04:26Z",
+      "title": "Buffalo Sabres make change to jersey for next season . "
+    },
+    {
+      "article_url": "https://wblk.com/ixp/17/p/buffalo-sabres-jerseys/",
+      "club_id": "BUF",
+      "query": "\"Buffalo Sabres\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:04:26Z",
+      "title": "Buffalo Sabres make change to jersey for next season . "
+    },
+    {
+      "article_url": "https://www.oleantimesherald.com/2026/06/17/san-jose-sharks-acquire-defenseman-michael-kesselring-buffalo-sabres-amid-pick-swap/",
+      "club_id": "BUF",
+      "query": "\"Buffalo Sabres\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:04:26Z",
+      "title": "San Jose Sharks acquire defenseman Michael Kesselring from Buffalo Sabres amid pick swap"
+    },
+    {
+      "article_url": "https://www.habseyesontheprize.com/montreal-canadiens-news-rickard-rakell-trade-spaculation-analysis-olivia-cook-coaching-style-martin-st-louis-buffalo-sabres-preview-top-prospects/",
+      "club_id": "BUF",
+      "query": "\"Buffalo Sabres\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:04:26Z",
+      "title": "Habs Headlines : Could Rickard Rakell be a short - term fit ? "
+    }
+  ]
+}

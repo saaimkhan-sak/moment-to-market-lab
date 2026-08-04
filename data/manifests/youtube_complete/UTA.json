@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 1336,
+  "channel_id": "UCT0uj5F-RnIAqkp0XLSMaqg",
+  "channel_title": "Utah Mammoth",
+  "club_id": "UTA",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-31T10:45:13Z",
+  "oldest_accessible_published_at": "2024-06-13T21:01:00Z",
+  "playlist_pages": 27,
+  "playlist_video_ids": 1336,
+  "retrieved_at": "2026-08-03T19:36:40Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCT0uj5F-RnIAqkp0XLSMaqg",
+  "uploads_playlist_id": "UUT0uj5F-RnIAqkp0XLSMaqg",
+  "video_detail_pages": 27
+}

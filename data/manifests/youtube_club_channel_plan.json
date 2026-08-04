@@ -1,0 +1,234 @@
+{
+  "rows": [
+    {
+      "club_id": "ANA",
+      "club_name": "Anaheim Ducks",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "BOS",
+      "club_name": "Boston Bruins",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "BUF",
+      "club_name": "Buffalo Sabres",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "CGY",
+      "club_name": "Calgary Flames",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "CAR",
+      "club_name": "Carolina Hurricanes",
+      "evidence_status": "confirmed",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": "@CarolinaHurricanes"
+    },
+    {
+      "club_id": "CHI",
+      "club_name": "Chicago Blackhawks",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "COL",
+      "club_name": "Colorado Avalanche",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "CBJ",
+      "club_name": "Columbus Blue Jackets",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "DAL",
+      "club_name": "Dallas Stars",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "DET",
+      "club_name": "Detroit Red Wings",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "EDM",
+      "club_name": "Edmonton Oilers",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "FLA",
+      "club_name": "Florida Panthers",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "LAK",
+      "club_name": "Los Angeles Kings",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "MIN",
+      "club_name": "Minnesota Wild",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "MTL",
+      "club_name": "Montreal Canadiens",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "NSH",
+      "club_name": "Nashville Predators",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "NJD",
+      "club_name": "New Jersey Devils",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "NYI",
+      "club_name": "New York Islanders",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "NYR",
+      "club_name": "New York Rangers",
+      "evidence_status": "confirmed",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": "@NYRangers"
+    },
+    {
+      "club_id": "OTT",
+      "club_name": "Ottawa Senators",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "PHI",
+      "club_name": "Philadelphia Flyers",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "PIT",
+      "club_name": "Pittsburgh Penguins",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "SJS",
+      "club_name": "San Jose Sharks",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "SEA",
+      "club_name": "Seattle Kraken",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "STL",
+      "club_name": "St. Louis Blues",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "TBL",
+      "club_name": "Tampa Bay Lightning",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "TOR",
+      "club_name": "Toronto Maple Leafs",
+      "evidence_status": "confirmed",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": "@MapleLeafs"
+    },
+    {
+      "club_id": "UTA",
+      "club_name": "Utah Mammoth",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "VAN",
+      "club_name": "Vancouver Canucks",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "VGK",
+      "club_name": "Vegas Golden Knights",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "WSH",
+      "club_name": "Washington Capitals",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    },
+    {
+      "club_id": "WPG",
+      "club_name": "Winnipeg Jets",
+      "evidence_status": "unknown",
+      "next_step": "Use a dated official club/NHL page to verify the channel before API acquisition; never infer a handle from naming convention.",
+      "official_handle": null
+    }
+  ],
+  "source": {
+    "evidence_status": "planned",
+    "reason": null,
+    "retrieved_at": "2026-08-03T02:23:40Z",
+    "source_id": "youtube"
+  }
+}

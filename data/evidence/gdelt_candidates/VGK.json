@@ -1,0 +1,41 @@
+{
+  "club_id": "VGK",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.dailynews.com/2026/05/12/ducks-pushed-to-brink-of-elimination-with-ot-loss-in-game-5/",
+      "club_id": "VGK",
+      "query": "\"Vegas Golden Knights\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:13:35Z",
+      "title": "Ducks pushed to brink of elimination with OT loss in Game 5"
+    },
+    {
+      "article_url": "https://www.dailybreeze.com/2026/05/12/ducks-pushed-to-brink-of-elimination-with-ot-loss-in-game-5/",
+      "club_id": "VGK",
+      "query": "\"Vegas Golden Knights\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:13:35Z",
+      "title": "Ducks pushed to brink of elimination with OT loss in Game 5"
+    },
+    {
+      "article_url": "https://www.fox5vegas.com/2026/07/21/vegas-golden-knights-hosting-player-used-equipment-sale-city-national-arena/",
+      "club_id": "VGK",
+      "query": "\"Vegas Golden Knights\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:13:35Z",
+      "title": "Vegas Golden Knights hosting player - used equipment sale at City National Arena"
+    },
+    {
+      "article_url": "https://www.presstelegram.com/2026/05/06/ducks-return-to-basics-top-golden-knights-in-game-2-to-even-series/",
+      "club_id": "VGK",
+      "query": "\"Vegas Golden Knights\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:13:35Z",
+      "title": "Ducks stick to basics , top Golden\u00a0Knights in Game\u00a02 to even series"
+    },
+    {
+      "article_url": "https://variety.com/2026/shopping/news/how-to-watch-nhl-stanley-cup-final-online-livestream-free-1236417954/",
+      "club_id": "VGK",
+      "query": "\"Vegas Golden Knights\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:13:35Z",
+      "title": "How to Watch 2026 HNL Stanley Cup Final Live Online Without Cable Free"
+    }
+  ]
+}

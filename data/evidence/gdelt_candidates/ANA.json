@@ -1,0 +1,41 @@
+{
+  "club_id": "ANA",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://bleacherreport.com/articles/25431449-1-trade-or-signing-every-nhl-team-must-make-during-2026-offseason",
+      "club_id": "ANA",
+      "query": "\"Anaheim Ducks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:02:20Z",
+      "title": "1 Trade or Signing Every NHL Team Must Make During the 2026 Offseason"
+    },
+    {
+      "article_url": "https://www.kpbs.org/news/living/2026/06/03/san-diego-gulls-owners-foundation-proposes-massive-new-ice-rink-in-escondido",
+      "club_id": "ANA",
+      "query": "\"Anaheim Ducks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:02:20Z",
+      "title": "San Diego Gull owner foundation proposes massive new ice rink in Escondido"
+    },
+    {
+      "article_url": "https://bleacherreport.com/articles/25447531-nhl-free-agent-tracker-2026-and-updates-all-latest-contract-signings-trades",
+      "club_id": "ANA",
+      "query": "\"Anaheim Ducks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:02:20Z",
+      "title": "NHL Free - Agent Tracker 2026 and Updates on All the Latest Contract Signings , Trades"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/06/27/2026-nhl-draft-live-tracker-day-two-picks-trades/",
+      "club_id": "ANA",
+      "query": "\"Anaheim Ducks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:02:20Z",
+      "title": "2026 NHL Draft live tracker : Following all of day two picks and trades"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/05/08/john-carlson-anaheim-ducks-exploratory-talks-contract-extension/",
+      "club_id": "ANA",
+      "query": "\"Anaheim Ducks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:02:20Z",
+      "title": "John Carlson and Anaheim Ducks have reportedly held  exploratory talk about a contract extension"
+    }
+  ]
+}

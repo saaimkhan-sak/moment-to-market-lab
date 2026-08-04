@@ -1,0 +1,41 @@
+{
+  "club_id": "DET",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.theoaklandpress.com/2026/06/28/steve-yzerman-no-guarantees-dylan-larkins-trade-request-will-be-met/",
+      "club_id": "DET",
+      "query": "\"Detroit Red Wings\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Steve Yzerman : No guarantees Dylan Larkin trade request will be met \u2013 The Oakland Press"
+    },
+    {
+      "article_url": "https://www.wnem.com/2026/07/15/watch-wnem-afternoon-extra-wednesday-july-15/",
+      "club_id": "DET",
+      "query": "\"Detroit Red Wings\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "WNEM Afternoon Extra : Yzerman no longer Red Wings GM"
+    },
+    {
+      "article_url": "https://www.tsn.ca/nhl/article/report-larkin-adds-stars-to-trade-list/",
+      "club_id": "DET",
+      "query": "\"Detroit Red Wings\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Detroit Red Wings captain Dylan Larkin adds Dallas Stars to trade list"
+    },
+    {
+      "article_url": "https://www.fox2detroit.com/news/steve-yzerman-out-red-wings-gm-amid-leadership-transition",
+      "club_id": "DET",
+      "query": "\"Detroit Red Wings\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Steve Yzerman out as Red Wings GM , amid  leadership transition  "
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/07/23/nhlpa-rookie-showcase-cole-hutson-andrew-cristall-gavin-mckenna-chicago/",
+      "club_id": "DET",
+      "query": "\"Detroit Red Wings\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:06:33Z",
+      "title": "Cole Hutson and Andrew Cristall to represent Capitals at 2026 NHLPA Rookie Showcase"
+    }
+  ]
+}

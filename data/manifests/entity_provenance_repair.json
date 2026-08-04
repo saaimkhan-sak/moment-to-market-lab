@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-08-03T21:22:47Z",
+  "evidence_status": "confirmed",
+  "repairs": {
+    "ARI": {
+      "entity_archive": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikidata/ari-Q206312.json",
+      "entity_id": "Q206312",
+      "retrieved_at": "2026-08-03T21:22:47Z",
+      "search_archive": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikidata/search-ari.json",
+      "search_source_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&limit=10&search=Arizona%20Coyotes",
+      "wikipedia_article": "Arizona Coyotes"
+    },
+    "WPG": {
+      "entity_archive": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikidata/wpg-Q472741.json",
+      "entity_id": "Q472741",
+      "retrieved_at": "2026-08-03T21:22:47Z",
+      "search_archive": "/Users/saaimkhan/Documents/personal-projects/nhl-analytics/moment-to-market-lab/data/raw/wikidata/search-wpg.json",
+      "search_source_url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&limit=10&search=Winnipeg%20Jets",
+      "wikipedia_article": "Winnipeg Jets"
+    }
+  }
+}

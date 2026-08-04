@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-08-04T02:54:25Z",
+  "current_clubs_with_roster_event": 32,
+  "evidence_status": "confirmed",
+  "moment_type_counts": {
+    "community_or_heritage_event": 20,
+    "official_roster_event": 32,
+    "playoff_clinch": 9
+  },
+  "record_count": 61,
+  "source_id": "official-club-youtube-manual-announcement-audit",
+  "source_table": "config/official_announcement_sources.csv",
+  "source_video_archive": "data/curated/content_video.json",
+  "timestamp_semantics": "official_publication_time_not_inferred_transaction_time"
+}

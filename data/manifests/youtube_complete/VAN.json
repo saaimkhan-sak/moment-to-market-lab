@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 1442,
+  "channel_id": "UCr-FENk9ztCt4cBLbL5pI-w",
+  "channel_title": "Vancouver Canucks",
+  "club_id": "VAN",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-08-03T17:00:32Z",
+  "oldest_accessible_published_at": "2012-11-12T01:00:26Z",
+  "playlist_pages": 29,
+  "playlist_video_ids": 1442,
+  "retrieved_at": "2026-08-03T19:36:57Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCr-FENk9ztCt4cBLbL5pI-w",
+  "uploads_playlist_id": "UUr-FENk9ztCt4cBLbL5pI-w",
+  "video_detail_pages": 29
+}

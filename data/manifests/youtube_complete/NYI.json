@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 1203,
+  "channel_id": "UC33CtnOXm7fyNVGmT_3UcMA",
+  "channel_title": "New York Islanders",
+  "club_id": "NYI",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-20T15:00:01Z",
+  "oldest_accessible_published_at": "2007-01-08T19:54:45Z",
+  "playlist_pages": 25,
+  "playlist_video_ids": 1203,
+  "retrieved_at": "2026-08-03T19:27:18Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UC33CtnOXm7fyNVGmT_3UcMA",
+  "uploads_playlist_id": "UU33CtnOXm7fyNVGmT_3UcMA",
+  "video_detail_pages": 25
+}

@@ -1,0 +1,41 @@
+{
+  "club_id": "WSH",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.bostonherald.com/2026/06/22/bruins-release-preseason-schedule-4/",
+      "club_id": "WSH",
+      "query": "\"Washington Capitals\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:29:13Z",
+      "title": "Bruins release preseason schedule ahead of expanded 2026 - 27 season"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/06/25/declan-chisholm-trade-devils-capitals-draft-pick/",
+      "club_id": "WSH",
+      "query": "\"Washington Capitals\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:29:13Z",
+      "title": "Capitals trade defenseman Declan Chisholm to Devils for draft pick"
+    },
+    {
+      "article_url": "https://russianmachineneverbreaks.com/2026/05/07/theodor-niederbach-washington-capitals-contract-two-way-shl/",
+      "club_id": "WSH",
+      "query": "\"Washington Capitals\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:29:13Z",
+      "title": "Washington Capitals sign Swedish forward Theodor Niederbach to a one - year , two - way contract"
+    },
+    {
+      "article_url": "https://whp580.iheart.com/content/2026-07-14-capitals-to-return-to-hershey-for-preseason/",
+      "club_id": "WSH",
+      "query": "\"Washington Capitals\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:29:13Z",
+      "title": "Capitals To Return To Hershey For Preseason"
+    },
+    {
+      "article_url": "https://wtop.com/washington-capitals/2026/06/capitals-sign-coach-spencer-carbery-to-a-multiyear-contract-extension/",
+      "club_id": "WSH",
+      "query": "\"Washington Capitals\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:29:13Z",
+      "title": "Capitals sign coach Spencer Carbery to a multiyear contract extension"
+    }
+  ]
+}

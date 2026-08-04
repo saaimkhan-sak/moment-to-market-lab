@@ -1,0 +1,17 @@
+{
+  "accessible_videos": 17173,
+  "channel_id": "UCyfbxrAcT9w7pHvDeYCtc0Q",
+  "channel_title": "Edmonton Oilers",
+  "club_id": "EDM",
+  "evidence_status": "confirmed",
+  "inaccessible_or_deleted_videos": 0,
+  "inaccessible_video_ids": [],
+  "newest_accessible_published_at": "2026-07-31T20:11:31Z",
+  "oldest_accessible_published_at": "2010-09-22T21:28:41Z",
+  "playlist_pages": 344,
+  "playlist_video_ids": 17173,
+  "retrieved_at": "2026-08-03T19:14:17Z",
+  "source_url": "https://www.googleapis.com/youtube/v3/channels?part=id%2CcontentDetails%2Csnippet%2Cstatistics&id=UCyfbxrAcT9w7pHvDeYCtc0Q",
+  "uploads_playlist_id": "UUyfbxrAcT9w7pHvDeYCtc0Q",
+  "video_detail_pages": 344
+}

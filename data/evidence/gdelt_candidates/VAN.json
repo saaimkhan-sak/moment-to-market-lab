@@ -1,0 +1,41 @@
+{
+  "club_id": "VAN",
+  "evidence_status": "confirmed",
+  "rows": [
+    {
+      "article_url": "https://www.cbc.ca/news/canada/british-columbia/manny-malhotra-new-vancouver-canucks-head-coach-9.7220119",
+      "club_id": "VAN",
+      "query": "\"Vancouver Canucks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:13:12Z",
+      "title": "Manny Malhotra named new Vancouver Canucks head coach"
+    },
+    {
+      "article_url": "https://dailyhive.com/vancouver/four-canucks-switch-jersey-numbers-wore-last-season",
+      "club_id": "VAN",
+      "query": "\"Vancouver Canucks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:13:12Z",
+      "title": "Four Canucks players switch jersey numbers from what they wore last season | Daily Hive"
+    },
+    {
+      "article_url": "https://bleacherreport.com/articles/25452140-8-nhl-stars-who-could-request-trade-during-2026-27-season",
+      "club_id": "VAN",
+      "query": "\"Vancouver Canucks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:13:12Z",
+      "title": "The 8 NHL Stars Who Could Request a Trade During the 2026 - 27 Season"
+    },
+    {
+      "article_url": "https://www.blueshirtbanter.com/bantering-points-6-12-26/",
+      "club_id": "VAN",
+      "query": "\"Vancouver Canucks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:13:12Z",
+      "title": "Bantering Points : 6 / 12 / 26"
+    },
+    {
+      "article_url": "https://voiceonline.com/city-of-vancouver-vancouver-canucks-explore-partnership-to-create-practice-facility-at-britannia/",
+      "club_id": "VAN",
+      "query": "\"Vancouver Canucks\" sourcelang:english",
+      "retrieved_at": "2026-08-03T15:13:12Z",
+      "title": "City of Vancouver , Vancouver Canucks explore partnership to create practice facility at Britannia"
+    }
+  ]
+}
