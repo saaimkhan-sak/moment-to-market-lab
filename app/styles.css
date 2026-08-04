@@ -94,11 +94,11 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .text-link { display: inline-flex; gap: 10px; align-items: center; padding-bottom: 5px; border-bottom: 1px solid var(--ink); text-decoration: none; font-weight: 500; }
 .text-link--primary { border-bottom: 3px solid var(--club-accent); }
 .release-ledger { align-self: end; padding: 15px 0; border-top: 2px solid var(--ink); border-bottom: 1px solid var(--rule); }
-.release-ledger > p { margin: 0 0 12px; font: 500 10px/1.4 "IBM Plex Mono", monospace; letter-spacing: .08em; }
+.release-ledger > p { margin: 0 0 12px; font: 500 12px/1.4 "IBM Plex Mono", monospace; letter-spacing: .08em; }
 .release-ledger dl { display: grid; grid-template-columns: 1fr auto; margin: 0; }
-.release-ledger dt, .release-ledger dd { margin: 0; padding: 8px 0; border-top: 1px solid var(--rule); }
+.release-ledger dt, .release-ledger dd { margin: 0; padding: 9px 0; border-top: 1px solid var(--rule); font-size: 15px; line-height: 1.35; }
 .release-ledger dt { color: var(--slate); letter-spacing: 0; text-transform: none; }
-.release-ledger dd { text-align: right; font: 500 11px "IBM Plex Mono", monospace; }
+.release-ledger dd { text-align: right; font: 500 15px/1.35 "IBM Plex Mono", monospace; }
 .release-ledger .release-ledger__note { margin: 14px 0 0; color: var(--red); line-height: 1.5; }
 
 .genesis, .question-chain, .method-intro, .translation-section {
