@@ -89,7 +89,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .story-opener__copy { align-self: center; max-width: 870px; }
 .story-opener__copy h1 { max-width: 850px; }
 .dek { max-width: 720px; margin: 30px 0 0; color: #33423f; font-size: 19px; line-height: 1.58; }
-.question-highlight { background: var(--ice); box-decoration-break: clone; -webkit-box-decoration-break: clone; padding: 0 .16em .06em; }
+.question-cutaway { display: block; margin-top: 18px; padding: 16px 20px 17px; background: var(--ice); border-top: 1px solid var(--rule); border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); border-left: 4px solid var(--amber); box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 .story-actions { display: flex; flex-wrap: wrap; gap: 24px; margin-top: 40px; }
 .text-link { display: inline-flex; gap: 10px; align-items: center; padding-bottom: 5px; border-bottom: 1px solid var(--ink); text-decoration: none; font-weight: 500; }
 .text-link--primary { border-bottom: 3px solid var(--club-accent); }
