@@ -1,8 +1,8 @@
 {
   "caveat": "Public-attention associations are descriptive, not causal or commercial outcomes. GDELT is earned-media volume, not sentiment. YouTube views, likes, comments, and subscribers are current public snapshots; only upload and surviving top-level comment timestamps enter the historical descriptive layer. QCEW suppression remains visible and ACS fallbacks remain separately labelled.",
   "club_count": 32,
-  "code_version": "sha256:987c7a3188d0566a91371cd5c1a4827b6055d96bcd3a5392e831b4114193bd58",
-  "created_at": "2026-08-04T18:54:47Z",
+  "code_version": "sha256:0a3e0df4abaa6b7ae91fd218f429598c7d299c8a06de6d01451178b245588d94",
+  "created_at": "2026-08-04T18:59:20Z",
   "gate_failures": [],
   "missing_required_outputs": [],
   "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
@@ -109,7 +109,7 @@
   "source_dates": {
     "gdelt": "2026-08-04T02:54:04Z",
     "market": "2026-08-03T14:59:11Z",
-    "nhl_and_moneypuck": "2026-08-04T18:53:12Z",
+    "nhl_and_moneypuck": "2026-08-04T18:58:24Z",
     "wikimedia": "2026-08-04T02:23:46Z",
     "youtube": "2026-08-03T19:38:12Z"
   },
