@@ -289,7 +289,7 @@ def build():
         },
         "static_checksums": {
             name: checksum(ROOT / "app" / name)
-            for name in ("index.html", "app.js", "styles.css", "historical.css", "accessibility.css")
+            for name in ("index.html", "explore/index.html", "app.js", "styles.css", "historical.css", "accessibility.css", "favicon.svg")
         },
         "signal_trace_count": len(traces),
         "youtube_club_count": 32,

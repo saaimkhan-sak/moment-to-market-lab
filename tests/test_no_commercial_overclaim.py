@@ -8,6 +8,17 @@ class CommercialClaims(unittest.TestCase):
  def test_app_has_no_banned_growth_claims(self):
   text=(ROOT/'app/index.html').read_text().lower()
   for term in ['unlock','supercharge','ai-powered','revenue forecast']: self.assertNotIn(term,text)
+ def test_story_home_explains_the_reasoning_and_registered_math(self):
+  text=(ROOT/'app/index.html').read_text().lower()
+  for term in ['the genesis','public-attention difference','prior 14 days','log(attention + 1)','overlap rule','two signals must agree']:
+   self.assertIn(term,text)
+ def test_club_explorer_uses_plain_public_language(self):
+  text=(ROOT/'app/explore/index.html').read_text().lower()
+  for term in ['what we saw','what it means','the honest limit','did the attention last?']:
+   self.assertIn(term,text)
+  self.assertIn('what only the club can check',(ROOT/'app/app.js').read_text().lower())
+  for term in ['hierarchical','confidence interval','taxonomy','algorithm']:
+   self.assertNotIn(term,text)
  def test_playbooks_require_internal_validation_and_deny_public_commercial_inference(self):
   rows=json.loads((ROOT/'data/curated/activation_playbook.json').read_text())
   if len(rows)==96:

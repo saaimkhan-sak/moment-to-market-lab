@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Explore what recurring hockey moments meant for public attention around every NHL club, explained in plain language with the evidence attached.">
+  <title>Explore NHL club findings · Moment-to-Market Lab</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/historical.css">
+  <link rel="stylesheet" href="/accessibility.css">
+</head>
+<body class="explorer-page">
+  <a class="skip" href="#main">Skip to the club finding</a>
+  <header class="masthead">
+    <a class="wordmark" href="/" aria-label="Moment-to-Market Intelligence Lab home"><span>MOMENT-TO-MARKET</span><span>INTELLIGENCE LAB</span></a>
+    <p class="masthead__descriptor">THE CLUB DESK · PUBLIC SIGNALS ONLY</p>
+    <nav aria-label="Primary navigation">
+      <a href="/">The story</a>
+      <a class="is-active" href="/explore/">Explore clubs</a>
+      <a href="/#method-walkthrough">How it works</a>
+      <a id="memo-link" href="#">Club memo</a>
+    </nav>
+  </header>
+
+  <div class="control-deck" aria-label="Choose what to explore">
+    <label><span>Club</span><select id="club-select" aria-label="Club"></select></label>
+    <label><span>Hockey moment</span><select id="moment-select" aria-label="Hockey moment"></select></label>
+    <label><span>When to look</span><select id="window-select" aria-label="Time after the moment"><option value="immediate">First 48 hours</option><option value="short_persistence">Next two days</option><option value="sustained_attention">Rest of the week</option></select></label>
+    <label><span>Part of the public trail</span><select id="source-select" aria-label="Public signal"><option value="both">The full public trail</option><option value="wikimedia_pageviews">Wikipedia interest</option><option value="gdelt_earned_media">News coverage</option></select></label>
+    <p id="active-filter" aria-live="polite"></p>
+  </div>
+
+  <main id="main">
+    <section class="club-opener" id="club-brief">
+      <aside class="club-rail">
+        <p class="eyebrow">CLUB READ</p>
+        <strong id="club-name">—</strong>
+        <span id="club-market">—</span>
+        <span id="club-coverage">—</span>
+        <span>PUBLIC RECORD THROUGH 2026-07-31</span>
+      </aside>
+      <article class="finding-block">
+        <p class="kicker" id="finding-context">THE HONEST READ</p>
+        <h1 id="finding-title">Opening the public record…</h1>
+        <p class="finding-dek" id="finding-dek"></p>
+        <div class="finding-copy">
+          <div><b>WHAT WE SAW</b><p id="finding-what"></p></div>
+          <div><b>WHAT IT MEANS</b><p id="finding-why"></p></div>
+          <div><b>THE HONEST LIMIT</b><p id="finding-falsify"></p></div>
+        </div>
+      </article>
+      <aside class="evidence-stamp" aria-label="Strength of the public evidence">
+        <b id="stamp-status">CHECKING THE RECORD</b>
+        <span id="stamp-sources">WIKIPEDIA + NEWS</span>
+        <span id="stamp-sample">COMPARABLE EVENTS: —</span>
+        <span id="stamp-window">TIMING: —</span>
+        <span>COMPARISON: PREVIOUS 14 DAYS</span>
+        <span>UPDATED: 2026-08-03</span>
+      </aside>
+    </section>
+
+    <section class="response-section">
+      <div class="response-section__main">
+        <p class="eyebrow">THE PUBLIC AFTERSHOCK · DAY −7 TO DAY +7</p>
+        <h2 id="trace-title">Did the attention last?</h2>
+        <p id="trace-subtitle"></p>
+        <div id="trace-graphic" class="trace-graphic"></div>
+        <details class="accessible-data"><summary>Read the chart as a table</summary><div id="trace-table"></div></details>
+      </div>
+      <aside class="how-to-read">
+        <p class="eyebrow">HOW TO READ THIS</p>
+        <p><i class="signal-line signal-line--solid"></i><strong>Wikipedia</strong><br>Did people go looking for more information?</p>
+        <p><i class="signal-line signal-line--dash"></i><strong>News coverage</strong><br>Did the club occupy more of the monitored news cycle?</p>
+        <p><i class="event-tick"></i><strong>Day 0</strong><br>The game or official announcement.</p>
+        <p class="plain-caveat">The line shows a typical change around clean, comparable moments. It is an association—not proof that the moment caused the response.</p>
+      </aside>
+    </section>
+
+    <section class="moment-explorer" id="explorer">
+      <header class="section-lede">
+        <p class="eyebrow">THE GAME TAPE, WITHOUT THE TAPE</p>
+        <h2 id="docket-title">The comparable moments behind this read</h2>
+        <p>Open any entry to see why it belongs, whether the surrounding days were clean, and where the original record lives.</p>
+      </header>
+      <div id="moment-docket" class="moment-docket"></div>
+    </section>
+
+    <section class="context-spread">
+      <article class="story-content">
+        <p class="eyebrow">WHAT THE CLUB ALREADY PUBLISHES</p>
+        <h2>The official YouTube record</h2>
+        <p id="youtube-summary"></p>
+        <div id="youtube-formats"></div>
+        <div id="youtube-videos"></div>
+      </article>
+      <article class="market-context">
+        <p class="eyebrow">THE PLACE AROUND THE CLUB</p>
+        <h2>Market context—not a same-day result</h2>
+        <p>These figures describe the home market. They do not explain the attention line and are never used to rank American and Canadian clubs together.</p>
+        <div id="market-table"></div>
+      </article>
+    </section>
+
+    <section class="activation-note" id="playbook">
+      <header class="section-lede">
+        <p class="eyebrow">IF THIS WERE YOUR NIGHT</p>
+        <h2>What a club could test while the story is still moving.</h2>
+        <p id="playbook-intro"></p>
+      </header>
+      <div id="playbook-list"></div>
+    </section>
+
+    <section class="league-footnote">
+      <div><p class="eyebrow">LEAGUE-WIDE CHECK</p><h2>Clear two-signal patterns are rare.</h2><p id="stable-rule"></p></div>
+      <div class="benchmark-block"><table><thead><tr><th>TYPE OF MOMENT</th><th>CLEAR CLUB READS</th></tr></thead><tbody id="league-benchmark"></tbody></table></div>
+      <aside class="coverage-rail"><h3>What is in the record</h3><dl id="coverage-rail"></dl></aside>
+    </section>
+
+    <section class="research-coda">
+      <p class="eyebrow">THE NEXT QUESTION BELONGS TO THE CLUB</p>
+      <blockquote>“Which public-attention signal would be useful in your team’s workflow, and which internal data would you need before acting on it?”</blockquote>
+      <p>This site cannot see attendance, revenue, sponsor value, conversions, private audience behaviour, or who any visitor is.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer"><span>NHL MOMENT-TO-MARKET INTELLIGENCE LAB</span><span>SOURCES · SAMPLES · DATES · LIMITS</span></footer>
+  <script src="/app.js"></script>
+</body>
+</html>

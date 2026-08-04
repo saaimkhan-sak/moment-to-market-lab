@@ -4,6 +4,6 @@
   "outputDirectory": "app",
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/clubs/:slug", "destination": "/" }
+    { "source": "/clubs/:slug", "destination": "/explore/" }
   ]
 }

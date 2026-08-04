@@ -321,7 +321,7 @@ def main() -> int:
             and web.get("model_version") == model.get("model_version")
             and web.get("taxonomy_version") == "1.1.0"
             and web_files_ok
-            and files_exist(["app/index.html", "app/app.js", "app/styles.css", "app/historical.css", "app/accessibility.css", "vercel.json"])
+            and files_exist(["app/index.html", "app/explore/index.html", "app/app.js", "app/styles.css", "app/historical.css", "app/accessibility.css", "app/favicon.svg", "vercel.json"])
             and not unexpected_public_files
         ),
     }
