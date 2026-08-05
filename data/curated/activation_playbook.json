@@ -1,6 +1,6 @@
 [
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 14 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 14 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "ANA",
@@ -106,7 +106,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered short persistence window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 14 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 14 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "ANA",
@@ -212,7 +212,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 14 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 14 titles coded as game highlight or recap.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "ANA",
@@ -318,7 +318,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 108 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 108 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "BOS",
@@ -424,7 +424,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 108 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 108 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "BOS",
@@ -530,7 +530,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered short persistence window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 108 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 108 titles coded as game highlight or recap.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "BOS",
@@ -636,7 +636,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 287 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 287 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "BUF",
@@ -743,7 +743,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 287 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 287 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "BUF",
@@ -850,7 +850,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 287 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 287 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "BUF",
@@ -957,7 +957,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 77 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 77 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "CGY",
@@ -1064,7 +1064,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered short persistence window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 77 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 77 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "CGY",
@@ -1171,7 +1171,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 77 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 77 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "CGY",
@@ -1278,7 +1278,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 310 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 310 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "CAR",
@@ -1383,7 +1383,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 310 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 310 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "CAR",
@@ -1488,7 +1488,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 310 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 310 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "CAR",
@@ -1593,7 +1593,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 420 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 420 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "CHI",
@@ -1699,7 +1699,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 420 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 420 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "CHI",
@@ -1805,7 +1805,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 420 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 420 titles coded as game highlight or recap.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "CHI",
@@ -1911,7 +1911,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 553 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 553 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "COL",
@@ -2018,7 +2018,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 553 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 553 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "COL",
@@ -2125,7 +2125,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 553 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 553 titles coded as game highlight or recap.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "COL",
@@ -2232,7 +2232,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered short persistence window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 976 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 976 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "CBJ",
@@ -2339,7 +2339,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 976 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 976 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "CBJ",
@@ -2446,7 +2446,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 976 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 976 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "CBJ",
@@ -2553,7 +2553,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 67 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 67 titles coded as press conference or media.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "DAL",
@@ -2659,7 +2659,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered short persistence window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 67 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 67 titles coded as press conference or media.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "DAL",
@@ -2765,7 +2765,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered short persistence window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 67 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 67 titles coded as press conference or media.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "DAL",
@@ -2871,7 +2871,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 246 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 246 titles coded as press conference or media.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "DET",
@@ -2977,7 +2977,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 246 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 246 titles coded as press conference or media.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "DET",
@@ -3083,7 +3083,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 246 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 246 titles coded as press conference or media.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "DET",
@@ -3189,7 +3189,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 301 titles coded as community or heritage; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 301 titles coded as community or heritage.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "EDM",
@@ -3295,7 +3295,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 301 titles coded as community or heritage; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 301 titles coded as community or heritage.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "EDM",
@@ -3401,7 +3401,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 301 titles coded as community or heritage; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 301 titles coded as community or heritage.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "EDM",
@@ -3507,7 +3507,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 338 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 338 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "FLA",
@@ -3613,7 +3613,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 338 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 338 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "FLA",
@@ -3719,7 +3719,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 338 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 338 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "FLA",
@@ -3825,7 +3825,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 704 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 704 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "LAK",
@@ -3932,7 +3932,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 704 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 704 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "LAK",
@@ -4039,7 +4039,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 704 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 704 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "LAK",
@@ -4146,7 +4146,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 8 titles coded as roster announcement; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 8 titles coded as roster announcement.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "MIN",
@@ -4253,7 +4253,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 8 titles coded as roster announcement; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 8 titles coded as roster announcement.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "MIN",
@@ -4360,7 +4360,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 8 titles coded as roster announcement; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 8 titles coded as roster announcement.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "MIN",
@@ -4467,7 +4467,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 877 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 877 titles coded as press conference or media.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "MTL",
@@ -4574,7 +4574,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 877 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 877 titles coded as press conference or media.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "MTL",
@@ -4681,7 +4681,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 877 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 877 titles coded as press conference or media.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "MTL",
@@ -4788,7 +4788,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 210 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 210 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "NSH",
@@ -4894,7 +4894,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 210 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 210 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "NSH",
@@ -5000,7 +5000,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 210 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 210 titles coded as game highlight or recap.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "NSH",
@@ -5106,7 +5106,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 288 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 288 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "NJD",
@@ -5213,7 +5213,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 288 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 288 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "NJD",
@@ -5320,7 +5320,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 288 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 288 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "NJD",
@@ -5427,7 +5427,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 132 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 132 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "NYI",
@@ -5533,7 +5533,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 132 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 132 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "NYI",
@@ -5639,7 +5639,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 132 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 132 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "NYI",
@@ -5745,7 +5745,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 2,813 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 2,813 titles coded as press conference or media.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "NYR",
@@ -5851,7 +5851,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 2,813 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 2,813 titles coded as press conference or media.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "NYR",
@@ -5957,7 +5957,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 2,813 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 2,813 titles coded as press conference or media.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "NYR",
@@ -6063,7 +6063,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 592 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 592 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "OTT",
@@ -6169,7 +6169,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 592 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 592 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "OTT",
@@ -6275,7 +6275,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 592 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 592 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "OTT",
@@ -6381,7 +6381,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 1,736 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 1,736 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "PHI",
@@ -6488,7 +6488,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 1,736 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 1,736 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "PHI",
@@ -6595,7 +6595,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 1,736 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 1,736 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "PHI",
@@ -6702,7 +6702,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 128 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 128 titles coded as press conference or media.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "PIT",
@@ -6808,7 +6808,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered short persistence window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 128 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 128 titles coded as press conference or media.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "PIT",
@@ -6914,7 +6914,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 128 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 128 titles coded as press conference or media.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "PIT",
@@ -7020,7 +7020,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 338 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 338 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "SJS",
@@ -7127,7 +7127,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered short persistence window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 338 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 338 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "SJS",
@@ -7234,7 +7234,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 338 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 338 titles coded as game highlight or recap.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "SJS",
@@ -7341,7 +7341,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 884 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 884 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "SEA",
@@ -7447,7 +7447,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 884 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 884 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "SEA",
@@ -7553,7 +7553,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 884 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 884 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "SEA",
@@ -7659,7 +7659,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 855 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 855 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "STL",
@@ -7766,7 +7766,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 855 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 855 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "STL",
@@ -7873,7 +7873,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 855 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 855 titles coded as game highlight or recap.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "STL",
@@ -7980,7 +7980,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 263 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 263 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "TBL",
@@ -8087,7 +8087,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 263 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 263 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "TBL",
@@ -8194,7 +8194,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 263 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 263 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "TBL",
@@ -8301,7 +8301,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 1,324 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 1,324 titles coded as press conference or media.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "TOR",
@@ -8408,7 +8408,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 1,324 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 1,324 titles coded as press conference or media.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "TOR",
@@ -8515,7 +8515,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 1,324 titles coded as press conference or media; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 1,324 titles coded as press conference or media.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "TOR",
@@ -8622,7 +8622,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 303 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 303 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "UTA",
@@ -8728,7 +8728,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered short persistence window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 303 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 303 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "UTA",
@@ -8834,7 +8834,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered sustained attention window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 303 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 303 titles coded as game highlight or recap.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "UTA",
@@ -8940,7 +8940,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 102 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 102 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "VAN",
@@ -9046,7 +9046,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 102 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 102 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "VAN",
@@ -9152,7 +9152,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 102 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 102 titles coded as game highlight or recap.",
     "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
     "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
     "club_id": "VAN",
@@ -9258,7 +9258,7 @@
     "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 588 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 588 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "VGK",
@@ -9365,7 +9365,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 588 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 588 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "VGK",
@@ -9472,7 +9472,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 588 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 588 titles coded as game highlight or recap.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "VGK",
@@ -9579,7 +9579,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 30 titles coded as roster announcement; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 30 titles coded as roster announcement.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "WSH",
@@ -9686,7 +9686,7 @@
     "trigger": "Confirmed four point game under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 30 titles coded as roster announcement; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 30 titles coded as roster announcement.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "WSH",
@@ -9793,7 +9793,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 30 titles coded as roster announcement; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 30 titles coded as roster announcement.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "WSH",
@@ -9900,7 +9900,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 674 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 674 titles coded as game highlight or recap.",
     "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
     "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
     "club_id": "WPG",
@@ -10006,7 +10006,7 @@
     "trigger": "Confirmed hat trick under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 674 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 674 titles coded as game highlight or recap.",
     "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
     "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
     "club_id": "WPG",
@@ -10112,7 +10112,7 @@
     "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
   },
   {
-    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 674 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+    "action_0_24h": "Publish the player's complete scoring contribution and distinguish goals from assists. The official-channel archive contains 674 titles coded as game highlight or recap.",
     "action_24_72h": "Use a sourced sequence breakdown instead of a generic performance superlative.",
     "action_day_4_7": "Compare persistence with other four-point games before committing recurring production resources.",
     "club_id": "WPG",

@@ -24118,7 +24118,7 @@
   ],
   "playbooks": [
     {
-      "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 210 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+      "action_0_24h": "Publish the decisive overtime sequence and a concise game-context explainer while the immediate window is open. The official-channel archive contains 210 titles coded as game highlight or recap.",
       "action_24_72h": "Add one format that explains how the winning sequence developed; retain exact publish time.",
       "action_day_4_7": "Review persistence against other overtime wins before repeating the format as a standard.",
       "club_id": "NSH",
@@ -24224,7 +24224,7 @@
       "trigger": "Confirmed overtime win under taxonomy v1.1.0 with source coverage for the registered immediate window"
     },
     {
-      "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 210 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+      "action_0_24h": "Publish the winning attempt and goalie sequence with the shootout state labelled explicitly. The official-channel archive contains 210 titles coded as game highlight or recap.",
       "action_24_72h": "Use one compact explainer or player reaction rather than treating the result as regulation performance.",
       "action_day_4_7": "Compare the seven-day signal with overtime and regulation wins before standardizing the package.",
       "club_id": "NSH",
@@ -24330,7 +24330,7 @@
       "trigger": "Confirmed shootout win under taxonomy v1.1.0 with source coverage for the registered immediate window"
     },
     {
-      "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 210 titles coded as game highlight or recap; treat that as production familiarity, not evidence that the format performs better.",
+      "action_0_24h": "Publish a three-goal evidence package with timestamps and the scorer's official game line. The official-channel archive contains 210 titles coded as game highlight or recap.",
       "action_24_72h": "Add one player-led or tactical explanation while retaining source links to all three goals.",
       "action_day_4_7": "Test whether the player-information response persists after Day 3 using internal content timestamps.",
       "club_id": "NSH",

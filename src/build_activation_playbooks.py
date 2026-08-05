@@ -124,7 +124,7 @@ def build():
                 "moment_type": moment_type,
                 "owner_function": owner,
                 "trigger": f"Confirmed {moment_type.replace('_', ' ')} under taxonomy v1.1.0 with source coverage for the registered {candidate['post_window'].replace('_', ' ')} window",
-                "action_0_24h": first + f" The official-channel archive contains {leading_format_count:,} titles coded as {leading_format.replace('_', ' ')}; treat that as production familiarity, not evidence that the format performs better.",
+                "action_0_24h": first + f" The official-channel archive contains {leading_format_count:,} titles coded as {leading_format.replace('_', ' ')}.",
                 "action_24_72h": second,
                 "action_day_4_7": third,
                 "public_kpi": "Wikimedia daily pageviews, corroborated by audited GDELT normalized article volume",
