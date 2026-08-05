@@ -102,6 +102,14 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .release-ledger dt { color: var(--slate); letter-spacing: 0; text-transform: none; }
 .release-ledger dd { text-align: right; font: 500 15px/1.35 "IBM Plex Mono", monospace; }
 .release-ledger .release-ledger__note { margin: 14px 0 0; color: var(--red); line-height: 1.5; }
+.desk-signal { margin-bottom: 28px; padding-bottom: 12px; border-bottom: 1px solid var(--rule); }
+.desk-signal svg { display: block; width: 100%; height: auto; overflow: visible; }
+.desk-signal__rule { stroke: var(--rule); stroke-width: 1; }
+.desk-signal__event { stroke: var(--red); stroke-width: 1; stroke-dasharray: 3 5; }
+.desk-signal__comparison { fill: none; stroke: var(--slate); stroke-width: 1.6; stroke-dasharray: 5 4; }
+.desk-signal__focus { fill: none; stroke: var(--evergreen); stroke-width: 2.4; }
+.desk-signal__point { fill: var(--amber); }
+.desk-signal__caption { display: flex; justify-content: space-between; gap: 10px; margin-top: 8px; color: var(--slate); font: 500 9px/1.35 "IBM Plex Mono", monospace; letter-spacing: .06em; }
 
 .genesis, .question-chain, .method-intro, .translation-section {
   display: grid;
