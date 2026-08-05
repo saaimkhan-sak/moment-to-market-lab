@@ -348,15 +348,6 @@ function renderMarket(profile, market) {
   document.querySelector('#market-table').innerHTML = `<table class="market-ledger"><thead><tr><th>MARKET MEASURE</th><th>PUBLIC FIGURE</th></tr></thead><tbody>${[...selected, ...concentrations].map(row => { const value = formatMetric(row); const valueMarkup = value === 'Not available' ? esc(value) : `<span class="context-number">${esc(value)}</span>`; return `<tr><td>${esc(marketMetricLabel(row))}<br><span class="quiet-label">${esc(row.reference_period)}${row.fallback_used ? ' · Census estimate used because the employment cell was withheld' : ''}</span></td><td>${valueMarkup}</td></tr>`; }).join('')}</tbody></table>`;
 }
 
-function confidenceLabel(value) {
-  const labels = {
-    stable_cross_channel_public_signal: 'Both public signals agree',
-    directional_hypothesis_not_stable: 'A sensible test, not a settled pattern',
-    no_reliable_pattern_measurement_only: 'Measurement rehearsal only'
-  };
-  return labels[value] || 'Needs a careful read';
-}
-
 function publicMeasure(value) {
   if (String(value).toLowerCase().includes('wikimedia')) return 'Wikipedia interest, checked against the club’s share of monitored news coverage';
   return cleanSentence(value);
@@ -365,7 +356,7 @@ function publicMeasure(value) {
 function renderPlaybooks(profile, playbooks, moment) {
   const rows = playbooks.filter(row => row.club_id === profile.club_id).sort((a, b) => (a.moment_type === moment ? -1 : 0) - (b.moment_type === moment ? -1 : 0) || a.priority_within_club - b.priority_within_club);
   document.querySelector('#playbook-intro').textContent = `These are three publishing and measurement ideas for ${profile.club_name}. They are prompts for a controlled club test—not claims about what will work.`;
-  document.querySelector('#playbook-list').innerHTML = rows.map(row => `<article class="playbook-record"><header class="playbook-record__head"><span>${esc(momentLabel(row.moment_type))}</span><span>WHO MOVES FIRST: ${esc(row.owner_function.toUpperCase())}</span><span>${esc(confidenceLabel(row.confidence_label))}</span></header><div class="action-strip"><div class="action-step"><b>FIRST NIGHT</b><p>${esc(cleanSentence(row.action_0_24h))}</p></div><div class="action-step"><b>NEXT TWO DAYS</b><p>${esc(cleanSentence(row.action_24_72h))}</p></div><div class="action-step"><b>REST OF THE WEEK</b><p>${esc(cleanSentence(row.action_day_4_7))}</p></div></div><footer class="playbook-foot"><div><b>WHAT THE PUBLIC RECORD CAN CHECK</b>${esc(publicMeasure(row.public_kpi))}</div><div><b>WHAT ONLY THE CLUB CAN CHECK</b>${esc(cleanSentence(row.internal_kpi))}</div><div class="validation-flag"><b>PRIVATE INFORMATION NEEDED</b>${esc(cleanSentence(row.internal_data_required))}</div></footer></article>`).join('');
+  document.querySelector('#playbook-list').innerHTML = rows.map(row => `<article class="playbook-record"><header class="playbook-record__head"><span>${esc(momentLabel(row.moment_type))}</span></header><div class="action-strip"><div class="action-step"><b>FIRST NIGHT</b><p>${esc(cleanSentence(row.action_0_24h))}</p></div><div class="action-step"><b>NEXT TWO DAYS</b><p>${esc(cleanSentence(row.action_24_72h))}</p></div><div class="action-step"><b>REST OF THE WEEK</b><p>${esc(cleanSentence(row.action_day_4_7))}</p></div></div><footer class="playbook-foot"><div><b>WHAT THE PUBLIC RECORD CAN CHECK</b>${esc(publicMeasure(row.public_kpi))}</div><div><b>WHAT ONLY THE CLUB CAN CHECK</b>${esc(cleanSentence(row.internal_kpi))}</div><div class="validation-flag"><b>PRIVATE INFORMATION NEEDED</b>${esc(cleanSentence(row.internal_data_required))}</div></footer></article>`).join('');
 }
 
 function renderLeague(summary) {

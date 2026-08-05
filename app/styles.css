@@ -299,9 +299,8 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 
 .activation-note { background: var(--ice); }
 .playbook-record { margin-top: 40px; border-top: 2px solid var(--ink); }
-.playbook-record__head { display: grid; grid-template-columns: 2fr 1.3fr 2fr; gap: 24px; padding: 12px 0; border-bottom: 1px solid var(--rule); }
+.playbook-record__head { display: grid; grid-template-columns: 1fr; gap: 24px; padding: 12px 0; border-bottom: 1px solid var(--rule); }
 .playbook-record__head span { font: 500 9px "IBM Plex Mono", monospace; text-transform: uppercase; }
-.playbook-record__head span:last-child { text-align: right; }
 .action-strip { display: grid; grid-template-columns: repeat(3, 1fr); }
 .action-step { min-height: 230px; padding: 22px 24px 18px 0; margin-right: 24px; border-right: 1px solid var(--rule); }
 .action-step:last-child { margin: 0; border-right: 0; }
@@ -411,7 +410,6 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
   .docket-row > summary span { display: grid; }
   .docket-row > summary span::before { margin-bottom: 2px; content: attr(data-label); color: var(--slate); font: 500 8px "IBM Plex Mono", monospace; }
   .docket-detail, .playbook-record__head, .action-strip, .playbook-foot { grid-template-columns: 1fr; }
-  .playbook-record__head span:last-child { text-align: left; }
   .action-step { min-height: 0; margin: 0; padding: 18px 0; border-right: 0; border-bottom: 1px solid var(--rule); }
   .mini-timeline { grid-template-columns: 1fr; }
   .closing-argument { margin-left: 0; border-left: 0; border-top: 4px solid var(--club-accent); }
