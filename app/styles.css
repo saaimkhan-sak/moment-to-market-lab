@@ -139,6 +139,8 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
   gap: var(--space-6);
   min-height: 330px;
   padding: var(--space-8) 0;
+  margin-inline: calc(var(--gutter) * -1);
+  padding-inline: var(--gutter);
   border-bottom: 1px solid var(--rule);
 }
 .method-number { color: var(--rule); font: 400 38px/1 "IBM Plex Mono", monospace; }
@@ -155,7 +157,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .math-block mjx-container { margin: 0 !important; }
 .math-block--display mjx-container[display="true"] { margin: 0 !important; }
 .method-proof p, .decision-rule p, .formula-board p, .signal-key p { margin: 16px 0 0; color: var(--slate); font-size: 13px; }
-.method-chapter--formula { background: var(--ice); margin-inline: calc(var(--gutter) * -1); padding-inline: var(--gutter); }
+.method-chapter--formula { background: var(--ice); }
 .method-chapter:nth-child(odd) { background: #e8eeea; }
 .method-chapter:nth-child(even) { background: #f0eee8; }
 .formula-board { border-top-color: var(--club-accent); }
@@ -362,7 +364,6 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
   .method-chapter { grid-template-columns: 1fr; gap: var(--space-5); padding: var(--space-7) 0; }
   .method-proof, .formula-board, .decision-rule, .signal-key, .window-strip { grid-column: 1; }
   .method-number { font-size: 26px; }
-  .method-chapter--formula { margin-inline: calc(var(--gutter) * -1); padding-inline: var(--gutter); }
   .window-strip { grid-template-columns: 1fr; }
   .window-strip div { min-height: 90px; border-right: 0; border-bottom: 1px solid var(--rule); }
   .docket-head { display: none; }
