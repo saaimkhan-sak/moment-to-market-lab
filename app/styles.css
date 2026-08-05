@@ -287,17 +287,21 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .docket-detail dl { margin: 0; }
 .docket-detail dd { margin: 2px 0 10px; font-size: 13px; }
 
-.context-spread { display: grid; grid-template-columns: 7fr 5fr; gap: var(--space-8); padding: var(--space-8) var(--gutter); border-bottom: 1px solid var(--rule); }
+.context-spread { display: grid; grid-template-columns: 7fr 5fr; gap: var(--space-8); padding: var(--space-8) var(--gutter); border-bottom: 1px solid var(--rule); overflow-x: hidden; }
 .story-content, .market-context { min-width: 0; }
 .story-content > p:not(.eyebrow), .market-context > p:not(.eyebrow) { max-width: 680px; }
 .format-ledger, .market-ledger, .video-ledger { width: 100%; margin-top: 22px; border-collapse: collapse; }
+.story-content > #youtube-videos > h3 { margin-top: 34px; }
+.video-ledger { table-layout: fixed; }
 .format-ledger th, .format-ledger td, .market-ledger th, .market-ledger td, .video-ledger td { padding: 10px 5px; border-bottom: 1px solid var(--rule); text-align: left; font-size: 13px; }
 .format-ledger td:last-child, .market-ledger td:last-child { text-align: right; font-family: "IBM Plex Mono", monospace; }
 .market-ledger td:first-child { white-space: nowrap; }
-.video-ledger td:first-child { width: 110px; vertical-align: top; font: 500 9px/1.5 "IBM Plex Mono", monospace; }
+.video-ledger td:first-child { width: 118px; vertical-align: top; font: 500 9px/1.5 "IBM Plex Mono", monospace; }
+.video-ledger td:nth-child(2) { min-width: 0; padding-left: 14px; vertical-align: middle; overflow-wrap: anywhere; }
 .video-thumbnail { display: block; width: 100px; aspect-ratio: 16 / 9; margin-bottom: 8px; background: var(--rule); overflow: hidden; }
 .video-thumbnail img { display: block; width: 100%; height: 100%; object-fit: cover; }
 .video-ledger a { font-weight: 500; }
+.video-ledger .video-title { display: inline-block; max-width: 100%; line-height: 1.35; overflow-wrap: anywhere; }
 .quiet-label { color: var(--slate); letter-spacing: 0; text-transform: none; }
 .publication-evidence { margin-top: 28px; padding: 18px 0; border-top: 2px solid var(--evergreen); border-bottom: 1px solid var(--rule); }
 .publication-evidence h3 { font-family: "Source Serif 4", serif; font-size: 25px; font-weight: 600; }
