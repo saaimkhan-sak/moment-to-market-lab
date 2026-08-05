@@ -279,6 +279,9 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .docket-row > summary::-webkit-details-marker { display: none; }
 .docket-row > summary:hover, .docket-row > summary:focus-visible { background: var(--ice); outline-offset: 0; }
 .docket-row > summary span:last-child { text-align: right; font: 500 9px "IBM Plex Mono", monospace; }
+.docket-row > summary .docket-opponent { display: flex; align-items: center; gap: 9px; min-width: 0; }
+.docket-opponent img { width: 25px; height: 25px; flex: 0 0 25px; object-fit: contain; object-position: center; filter: saturate(.82) contrast(.96); }
+.docket-opponent > span { min-width: 0; }
 .docket-detail { display: grid; grid-template-columns: 2fr 1fr; gap: 32px; padding: 20px 8px 24px; background: rgba(221, 231, 230, .45); }
 .docket-detail p { margin: 0; }
 .docket-detail dl { margin: 0; }

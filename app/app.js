@@ -26,6 +26,13 @@ const MOMENTS = {
   community_or_heritage_event: {label: 'Community and heritage events', singular: 'community or heritage event'}
 };
 
+const HISTORICAL_CLUBS = {
+  ARI: {
+    club_name: 'Arizona Coyotes',
+    club_logo_url: 'https://assets.nhle.com/logos/nhl/svg/ARI_light.svg'
+  }
+};
+
 const fmt = new Intl.NumberFormat('en-US');
 const pct = value => value == null ? '—' : `${value >= 0 ? '+' : ''}${(value * 100).toFixed(0)}%`;
 const esc = value => String(value ?? '').replace(/[&<>'"]/g, character => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[character]));
@@ -281,10 +288,14 @@ function renderDocket(state) {
     const windows = channels.flatMap(channel => state.eventWindows.filter(item => row.moment_ids.includes(item.moment_id) && item.post_window === state.window && item.attention_channel === channel));
     const states = windows.map(item => item.evidence_status);
     const coverage = !windows.length ? 'Not available' : states.every(value => value === 'eligible') ? 'Clean comparison' : states.includes('excluded_overlapping_major_event') ? 'Another story overlapped' : 'Part of the record is missing';
-    const opponentName = row.opponent_id ? state.clubNames.get(row.opponent_id) || row.opponent_id : momentLabel(row.moment_type);
+    const opponentClub = row.opponent_id ? state.clubDirectory.get(row.opponent_id) : null;
+    const opponentName = opponentClub?.club_name || (row.opponent_id ? row.opponent_id : momentLabel(row.moment_type));
     const opponent = row.performance_count > 1 ? `${opponentName} · ${row.performance_count} qualifying performances` : opponentName;
+    const opponentCell = opponentClub?.club_logo_url
+      ? `<span data-label="OPPONENT / STORY" class="docket-opponent"><img src="${esc(opponentClub.club_logo_url)}" alt="" aria-hidden="true"><span>${esc(opponent)}</span></span>`
+      : `<span data-label="OPPONENT / STORY">${esc(opponent)}</span>`;
     const sourceUrl = row.source_url || game.source_url || '#';
-    return `<details class="docket-row"><summary><span data-label="WHEN">${esc(row.moment_time_utc.slice(0, 10))}</span><span data-label="OPPONENT / STORY">${esc(opponent)}</span><span data-label="WHAT WE COULD SEE">${esc(SOURCES[state.source])}</span><span data-label="TIME CHECKED">${esc(WINDOWS[state.window])}</span><span data-label="HOW CLEAN?">${esc(coverage)}</span><span data-label="RECORD">OPEN +</span></summary><div class="docket-detail"><p><b>Why this moment is here.</b> ${esc(inclusionReason(row.moment_type))}${row.performance_count > 1 ? ` ${row.performance_count} separate player performances qualified in the same game, so they are grouped here for readability.` : ''} ${coverage === 'Clean comparison' ? 'The surrounding days were clear enough to use in the clean comparison.' : 'The event stays in the public ledger, but is not treated as a clean before-and-after example.'}</p><dl><dt>EVENT RECORD${row.performance_count > 1 ? 'S' : ''}</dt><dd>${esc(row.moment_ids.join(' · '))}</dd><dt>ORIGINAL SOURCE</dt><dd><a href="${esc(sourceUrl)}" target="_blank" rel="noreferrer">Open the public record ↗</a></dd></dl></div></details>`;
+    return `<details class="docket-row"><summary><span data-label="WHEN">${esc(row.moment_time_utc.slice(0, 10))}</span>${opponentCell}<span data-label="WHAT WE COULD SEE">${esc(SOURCES[state.source])}</span><span data-label="TIME CHECKED">${esc(WINDOWS[state.window])}</span><span data-label="HOW CLEAN?">${esc(coverage)}</span><span data-label="RECORD">OPEN +</span></summary><div class="docket-detail"><p><b>Why this moment is here.</b> ${esc(inclusionReason(row.moment_type))}${row.performance_count > 1 ? ` ${row.performance_count} separate player performances qualified in the same game, so they are grouped here for readability.` : ''} ${coverage === 'Clean comparison' ? 'The surrounding days were clear enough to use in the clean comparison.' : 'The event stays in the public ledger, but is not treated as a clean before-and-after example.'}</p><dl><dt>EVENT RECORD${row.performance_count > 1 ? 'S' : ''}</dt><dd>${esc(row.moment_ids.join(' · '))}</dd><dt>ORIGINAL SOURCE</dt><dd><a href="${esc(sourceUrl)}" target="_blank" rel="noreferrer">Open the public record ↗</a></dd></dl></div></details>`;
   }).join('');
   document.querySelector('#moment-docket').innerHTML = head + (body || '<div class="no-signal"><strong>No qualifying moments are in the record for this selection.</strong><p>The space stays empty rather than being filled with hand-picked examples.</p></div>');
 }
@@ -397,7 +408,9 @@ async function main([profiles, league]) {
   if (WINDOWS[initialParameters.get('window')]) document.querySelector('#window-select').value = initialParameters.get('window');
   if (SOURCES[initialParameters.get('source')]) document.querySelector('#source-select').value = initialParameters.get('source');
   let preferredMoment = initialParameters.get('moment');
-  const state = {profiles, league, clubNames: new Map(profiles.map(row => [row.club_id, row.club_name]))};
+  const clubDirectory = new Map(profiles.map(row => [row.club_id, row]));
+  Object.entries(HISTORICAL_CLUBS).forEach(([clubId, row]) => clubDirectory.set(clubId, row));
+  const state = {profiles, league, clubDirectory};
   renderLeague(league);
 
   async function loadClub(slug) {
