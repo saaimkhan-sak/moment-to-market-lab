@@ -364,9 +364,13 @@ function publicMeasure(value) {
   return cleanSentence(value);
 }
 
-function renderPlaybooks(profile, playbooks, moment) {
+function renderPlaybooks(profile, playbooks, moment, clubIdentity) {
   const rows = playbooks.filter(row => row.club_id === profile.club_id).sort((a, b) => (a.moment_type === moment ? -1 : 0) - (b.moment_type === moment ? -1 : 0) || a.priority_within_club - b.priority_within_club);
-  document.querySelector('#playbook-intro').textContent = `These are three publishing and measurement ideas for ${profile.club_name}. They are prompts for a controlled club test—not claims about what will work.`;
+  const logo = document.querySelector('#playbook-logo');
+  logo.src = clubIdentity?.club_logo_url || '';
+  logo.alt = `${profile.club_name} logo`;
+  logo.hidden = !clubIdentity?.club_logo_url;
+  document.querySelector('#playbook-intro').innerHTML = `These are three publishing and measurement ideas for <span class="club-name-highlight">${esc(profile.club_name)}</span>. They are prompts for a controlled club test—not claims about what will work.`;
   document.querySelector('#playbook-list').innerHTML = rows.map(row => `<article class="playbook-record"><header class="playbook-record__head"><span>${esc(momentLabel(row.moment_type))}</span></header><div class="action-strip"><div class="action-step"><b>FIRST NIGHT</b><p>${esc(cleanSentence(row.action_0_24h))}</p></div><div class="action-step"><b>NEXT TWO DAYS</b><p>${esc(cleanSentence(row.action_24_72h))}</p></div><div class="action-step"><b>REST OF THE WEEK</b><p>${esc(cleanSentence(row.action_day_4_7))}</p></div></div><footer class="playbook-foot"><div><b>WHAT THE PUBLIC RECORD CAN CHECK</b>${esc(publicMeasure(row.public_kpi))}</div><div><b>WHAT ONLY THE CLUB CAN CHECK</b>${esc(cleanSentence(row.internal_kpi))}</div><div class="validation-flag"><b>PRIVATE INFORMATION NEEDED</b>${esc(cleanSentence(row.internal_data_required))}</div></footer></article>`).join('');
 }
 
@@ -450,7 +454,7 @@ async function main([profiles, league]) {
     renderDocket(state);
     renderYouTube(state.profile, state.youtube, state.moment);
     renderMarket(state.profile, state.market);
-    renderPlaybooks(state.profile, state.playbooks, state.moment);
+    renderPlaybooks(state.profile, state.playbooks, state.moment, state.clubDirectory.get(state.profile.club_id));
     history.replaceState({}, '', routeFor(state.profile.club_slug, state.moment, state.window, state.source));
   }
 

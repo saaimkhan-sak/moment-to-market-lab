@@ -82,12 +82,12 @@
   "signal_trace_count": 528,
   "static_checksums": {
     "accessibility.css": "ad0965eea3176a6b403f52f8206e063186c3a3441fd894bc3762e785eef6b896",
-    "app.js": "80f881da8f9068b7807a7ab1e012da323cc4c820e33637ea2e3e55ec9c0157e8",
-    "explore/index.html": "d5f1e05615365741f74bae53b9f37a3398652b404599634e13c68011b315e45e",
+    "app.js": "f41ba66bb07ae2ac7f7ef94e481b41b477efca7273051a2108ed6c4cd9d838db",
+    "explore/index.html": "91dc76839b08c4cdbcb9f4529d7a3608f6da0b47107761d1a42b6383f8fe82f3",
     "favicon.svg": "e639b2f856c7fc9f45b58a57ac259f90339b27d3635f1009d3b4dd5cf773b4c7",
     "historical.css": "94507e4d378e629bf29562b1b415aa7fcd1e4bc3c8d7ebfcb3d35374ed2efc7b",
     "index.html": "8841c66f8758708c02042bfffb6fec91a229e35bdf666333f8fa2f2cc4955696",
-    "styles.css": "20a9b2aa2ff5d7db2fa57ac8a2ff72c1ef92801f9eb829cadac2f2216dd71e16"
+    "styles.css": "5f914a29461520d84269907068d8087bfb01988b0ca54f000b08404184435f52"
   },
   "taxonomy_version": "1.1.0",
   "youtube_club_count": 32

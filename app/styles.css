@@ -305,6 +305,9 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .mini-timeline span { color: var(--slate); font: 500 8px "IBM Plex Mono", monospace; }
 
 .activation-note { background: var(--ice); }
+.explorer-page .activation-heading { display: grid; grid-template-columns: minmax(0, 1fr) 160px; gap: 32px; align-items: center; max-width: none; }
+.playbook-heading__mark { width: 128px; height: 128px; justify-self: end; object-fit: contain; object-position: center; filter: saturate(.84) contrast(.96); }
+.club-name-highlight { display: inline; padding: 0 .16em .06em; color: var(--ink); font-weight: 600; background: color-mix(in srgb, var(--club-accent) 16%, transparent); border-bottom: 3px solid var(--club-accent); }
 .playbook-record { margin-top: 40px; border-top: 2px solid var(--ink); }
 .playbook-record__head { display: grid; grid-template-columns: 1fr; gap: 24px; padding: 12px 0; border-bottom: 1px solid var(--rule); }
 .playbook-record__head span { font: 500 9px "IBM Plex Mono", monospace; text-transform: uppercase; }
@@ -537,6 +540,8 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
   .explorer-page .finding-block { padding-top: 0; }
   .explorer-page .finding-copy > div { min-height: 0; }
   .market-ledger td:first-child { white-space: normal; }
+  .explorer-page .activation-heading { grid-template-columns: minmax(0, 1fr) 96px; gap: 20px; }
+  .playbook-heading__mark { width: 82px; height: 82px; }
 }
 
 @media (max-width: 600px) {
