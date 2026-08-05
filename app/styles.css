@@ -264,7 +264,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .no-signal strong { display: block; font: 600 23px/1.25 "Source Serif 4", serif; }
 .no-signal p { max-width: 650px; }
 
-.moment-explorer, .activation-note, .league-footnote, .research-coda { padding: var(--space-8) var(--gutter); border-bottom: 1px solid var(--rule); }
+.moment-explorer, .activation-note, .league-footnote { padding: var(--space-8) var(--gutter); border-bottom: 1px solid var(--rule); }
 .section-lede { max-width: var(--reading); }
 .section-lede > p:not(.eyebrow) { color: #33423f; font-size: 17px; }
 .moment-docket { margin-top: var(--space-6); border-top: 2px solid var(--ink); }
@@ -324,9 +324,6 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .coverage-rail dd { font: 500 9px "IBM Plex Mono", monospace; text-transform: uppercase; }
 .status-confirmed::before { content: "●"; margin-right: 7px; color: var(--green); }
 .status-qualified::before { content: "◆"; margin-right: 7px; color: var(--amber); }
-.research-coda { max-width: var(--report); margin-inline: auto; border-left: 4px solid var(--club-accent); }
-.research-coda blockquote { max-width: 980px; margin: 28px 0; font: 400 clamp(30px, 3.4vw, 48px)/1.08 "Source Serif 4", serif; }
-.research-coda > p:last-child { color: var(--slate); font: 400 10px "IBM Plex Mono", monospace; }
 .site-footer { display: flex; justify-content: space-between; gap: 20px; padding: 30px var(--gutter); color: var(--slate); font: 400 9px "IBM Plex Mono", monospace; }
 
 /* The evidence layer is intentionally readable at a glance. The release ledger
@@ -356,7 +353,6 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .playbook-foot b { font-size: 13.5px; }
 .coverage-rail dt { font-size: 15px; }
 .coverage-rail dd { font-size: 13.5px; }
-.research-coda > p:last-child { font-size: 15px; }
 .site-footer { font-size: 13.5px; }
 
 @media (max-width: 1100px) {
@@ -515,8 +511,6 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .explorer-page .context-spread { background: var(--bone); }
 .explorer-page .activation-note { background: var(--ice); }
 .explorer-page .league-footnote { background: #f0eee8; }
-.explorer-page .research-coda { background: var(--bone); }
-.explorer-page .research-coda blockquote { max-width: 920px; }
 
 @media (max-width: 1100px) {
   .explorer-page .control-deck { grid-template-columns: repeat(3, 1fr); }
