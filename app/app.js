@@ -303,7 +303,7 @@ function renderYouTube(profile, summaries, moment) {
   const row = summaries.find(item => item.club_id === profile.club_id);
   if (!row) return;
   const historical = (row.historical_publication_by_moment || []).find(item => item.moment_type === moment);
-  document.querySelector('#youtube-summary').innerHTML = `${esc(profile.club_name)}’s verified channel has <strong class="context-number">${esc(fmt.format(row.video_count))}</strong> accessible videos in this archive, stretching from ${esc(row.oldest_published_at.slice(0, 10))} to ${esc(row.newest_published_at.slice(0, 10))}. The title groups below describe what the club publishes; they do not tell us which format performed best.`;
+  document.querySelector('#youtube-summary').innerHTML = `${esc(profile.club_name)}’s verified channel has <strong class="context-number">${esc(fmt.format(row.video_count))}</strong> accessible videos in this archive, stretching from ${esc(row.oldest_published_at.slice(0, 10))} to ${esc(row.newest_published_at.slice(0, 10))}.`;
   const formats = Object.entries(row.format_counts).sort((a, b) => b[1] - a[1]);
   document.querySelector('#youtube-formats').innerHTML = `<table class="format-ledger"><thead><tr><th>WHAT THE TITLE SUGGESTS</th><th>VIDEOS</th></tr></thead><tbody>${formats.map(([label, count]) => `<tr><td>${esc(contentFormatLabel(label))}</td><td><span class="context-number">${esc(fmt.format(count))}</span></td></tr>`).join('')}</tbody></table>`;
   const historicalBlock = historical
