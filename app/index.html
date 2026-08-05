@@ -88,25 +88,25 @@
     <section class="method-spine" aria-label="Step-by-step methodology">
       <article class="method-chapter">
         <div class="method-number">01</div>
-        <div class="method-copy"><h3>The game record is established before any attention response is considered.</h3><p>NHL schedules, box scores, play-by-play, rosters, and standings are used to establish the game, clock, score, players, and opponent. MoneyPuck is used to add expected-goal and game-state context. The sources are reconciled at the game level rather than treated as interchangeable.</p></div>
+        <div class="method-copy"><h3>Establishing the game record</h3><p>NHL schedules, box scores, play-by-play, rosters, and standings are used to establish the game, clock, score, players, and opponent. MoneyPuck is used to add expected-goal and game-state context.</p></div>
         <div class="method-proof"><b>INPUT</b><div class="math-block">\( \mathit{game\_id} + \mathit{event\_id} + \mathit{event\_time\_utc} \)</div><p>Each raw response is retained with its source URL, retrieval time, and checksum.</p></div>
       </article>
 
       <article class="method-chapter">
         <div class="method-number">02</div>
-        <div class="method-copy"><h3>The moment is defined before its public response is examined.</h3><p>An overtime win is defined by the final game state; a hat trick by three goals; and a comeback by a club trailing by at least two goals at the start of the third period and winning the game. The rules are applied across the full archive, so memorable examples are not selected after attention data has been observed.</p></div>
+        <div class="method-copy"><h3>Defining the 'moment'</h3><p>An overtime win is defined by the final game state; a hat trick by three goals; and a comeback by a club trailing by at least two goals at the start of the third period and winning the game. The rules are applied across the full archive, so memorable examples are not selected after attention data has been observed.</p></div>
         <div class="method-proof"><b>EXAMPLE LOGIC</b><div class="math-block math-block--stacked"><div>\( \operatorname{goals}(player, game) \ge 3 \)</div><div>\( \mathit{moment} = \mathit{hat\_trick} \)</div></div><p>A new moment type is admitted only after a written rule, version increment, complete rebuild, and test case have been supplied.</p></div>
       </article>
 
       <article class="method-chapter">
         <div class="method-number">03</div>
-        <div class="method-copy"><h3>Club identity and temporal validity are resolved before records are joined.</h3><p>Names, relocations, and dates are kept as separate dimensions. Wikidata is used to connect each club and player to the appropriate Wikipedia entity, including redirects and aliases. Arizona and Utah are retained as separate historical identities. Vegas, Seattle, and Utah are entered only for periods in which each franchise existed.</p></div>
+        <div class="method-copy"><h3>Resolving club identities and temporal validity</h3><p>Names, relocations, and dates are kept as separate dimensions. Wikidata is used to connect each club and player to the appropriate Wikipedia entity, including redirects and aliases. Arizona and Utah are treated as separate franchises and Vegas, Seattle, Utah enter the model in their respective NHL entry seasons.</p></div>
         <div class="method-proof"><b>IDENTITY KEY</b><div class="math-block math-block--stacked"><div>\( \mathit{club\_id} + \mathit{franchise\_id} \)</div><div>\( \mathit{valid\_from} + \mathit{valid\_through} \)</div></div><p>All event times are stored in UTC; local time is derived separately.</p></div>
       </article>
 
       <article class="method-chapter method-chapter--formula">
         <div class="method-number">04</div>
-        <div class="method-copy"><h3>Each moment is compared with the club’s own preceding two weeks.</h3><p>For every qualifying moment, the prior 14 days are used to establish the club’s normal level of public attention. This prevents a continuously active club from appearing important solely because it is continuously active. Missing days are retained as missing values rather than recoded as zero.</p></div>
+        <div class="method-copy"><h3>Establishing the public attention baseline for each club</h3><p>For every qualifying moment, the prior 14 days are used to establish the baseline of each club’s level of public attention.</p></div>
         <div class="formula-board"><b>PUBLIC-ATTENTION DIFFERENCE</b><div class="formula"><div class="math-block math-block--display">\[
           \mathit{attention\_difference} =
           \frac{\mathit{response}_{w} - \overline{\mathit{attention}}_{-14:-1}}
@@ -116,7 +116,7 @@
 
       <article class="method-chapter">
         <div class="method-number">05</div>
-        <div class="method-copy"><h3>The immediate burst and subsequent persistence are treated as separate windows.</h3><p>Immediate response is assessed over the first two days. Short persistence is assessed on days two and three. Sustained attention is assessed over days four through seven.</p></div>
+        <div class="method-copy"><h3>Separating public attention into immediate bursts and persistent engagement</h3><p>Immediate response is assessed over the first two days. Short persistence is assessed on days two and three. Sustained attention is assessed over days four through seven.</p></div>
         <div class="window-strip"><div><b>\(0\text{–}1\)</b><span>FIRST 48 HOURS</span></div><div><b>\(2\text{–}3\)</b><span>NEXT TWO DAYS</span></div><div><b>\(4\text{–}7\)</b><span>REST OF WEEK</span></div></div>
       </article>
 

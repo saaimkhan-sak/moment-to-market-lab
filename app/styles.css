@@ -33,6 +33,8 @@ body {
   font: 400 16px/1.62 "IBM Plex Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
+::selection { background: var(--ink); color: var(--bone); }
+::-moz-selection { background: var(--ink); color: var(--bone); }
 a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 button, select { color: inherit; font: inherit; }
 h1, h2, h3, p { text-wrap: pretty; }
@@ -154,6 +156,8 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .math-block--display mjx-container[display="true"] { margin: 0 !important; }
 .method-proof p, .decision-rule p, .formula-board p, .signal-key p { margin: 16px 0 0; color: var(--slate); font-size: 13px; }
 .method-chapter--formula { background: var(--ice); margin-inline: calc(var(--gutter) * -1); padding-inline: var(--gutter); }
+.method-chapter:nth-child(odd) { background: #e8eeea; }
+.method-chapter:nth-child(even) { background: #f0eee8; }
 .formula-board { border-top-color: var(--club-accent); }
 .formula { padding: 12px 0; text-align: center; }
 .formula hr { border: 0; border-top: 1px solid var(--ink); }
