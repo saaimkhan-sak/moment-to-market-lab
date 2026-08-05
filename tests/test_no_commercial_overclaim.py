@@ -10,11 +10,11 @@ class CommercialClaims(unittest.TestCase):
   for term in ['unlock','supercharge','ai-powered','revenue forecast']: self.assertNotIn(term,text)
  def test_story_home_explains_the_reasoning_and_registered_math(self):
   text=(ROOT/'app/index.html').read_text().lower()
-  for term in ['the genesis','public-attention difference','prior 14 days','log(attention + 1)','overlap rule','two signals must agree']:
+  for term in ['the genesis','public-attention difference','prior 14 days','log(attention + 1)','overlap rule','ensuring signal agreement before labeling']:
    self.assertIn(term,text)
  def test_club_explorer_uses_plain_public_language(self):
   text=(ROOT/'app/explore/index.html').read_text().lower()
-  for term in ['what we saw','what it means','the honest limit','did the attention last?']:
+  for term in ['what we saw','what it suggests','what this cannot tell us','what happened after the moment?']:
    self.assertIn(term,text)
   self.assertIn('what only the club can check',(ROOT/'app/app.js').read_text().lower())
   for term in ['hierarchical','confidence interval','taxonomy','algorithm']:
