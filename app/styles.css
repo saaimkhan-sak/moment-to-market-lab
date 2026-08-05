@@ -326,7 +326,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .benchmark-block table { width: 100%; border-collapse: collapse; }
 .benchmark-block th, .benchmark-block td { padding: 11px 5px; border-bottom: 1px solid var(--rule); text-align: left; }
 .benchmark-block th { font: 500 13px/1.25 "IBM Plex Mono", monospace; letter-spacing: .06em; }
-.benchmark-block td:last-child { text-align: right; font: 500 12px "IBM Plex Mono", monospace; }
+.benchmark-block td:last-child { text-align: right; font: 600 17px "IBM Plex Mono", monospace; }
 .coverage-rail h3 { margin: 14px 0 10px; }
 .coverage-rail dl { display: grid; grid-template-columns: 1fr auto; margin: 0; }
 .coverage-rail dt, .coverage-rail dd { margin: 0; padding: 8px 0; border-bottom: 1px solid var(--rule); }
