@@ -82,8 +82,8 @@
   "signal_trace_count": 528,
   "static_checksums": {
     "accessibility.css": "ad0965eea3176a6b403f52f8206e063186c3a3441fd894bc3762e785eef6b896",
-    "app.js": "152b9f220b501573a04b6723860c9edb3ff6ea7b0cc2da936209162896e33106",
-    "explore/index.html": "22503be2fca285b9ec74219749f22866ce2bb59751f1118680e3874ce0343a75",
+    "app.js": "f35b4d35fff7abcc83acf93d6d83e83262cd3141c8f70ea866681d1563967994",
+    "explore/index.html": "b7b25dcaba3a92121fe8906a4ce9e45f2681f4bb9c9b8a84e0316456aa3503e3",
     "favicon.svg": "e639b2f856c7fc9f45b58a57ac259f90339b27d3635f1009d3b4dd5cf773b4c7",
     "historical.css": "94507e4d378e629bf29562b1b415aa7fcd1e4bc3c8d7ebfcb3d35374ed2efc7b",
     "index.html": "2c03247865e74bf1c1e7451362662dcf6d11b6e2a5dc4239cc5784bc1f503bab",

@@ -273,7 +273,7 @@ function renderDocket(state) {
     groupedRows.get(key).performance_count += 1;
   });
   const rows = [...groupedRows.values()].slice(0, 30);
-  document.querySelector('#docket-title').textContent = `${momentLabel(state.moment)}: the moments behind the read`;
+  document.querySelector('#docket-title').textContent = momentLabel(state.moment);
   const head = '<div class="docket-head"><span>WHEN</span><span>OPPONENT / STORY</span><span>WHAT WE COULD SEE</span><span>TIME CHECKED</span><span>HOW CLEAN?</span><span>RECORD</span></div>';
   const body = rows.map(row => {
     const game = gameMap.get(row.game_id) || {};
