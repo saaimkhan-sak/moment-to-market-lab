@@ -388,7 +388,7 @@ function renderLeague(summary) {
   };
   const statusText = value => value.startsWith('confirmed') ? 'In the release' : 'Qualified';
   document.querySelector('#coverage-rail').innerHTML = Object.entries(summary.source_coverage).map(([source, status]) => `<dt>${esc(sourceLabels[source] || source)}</dt><dd class="${status.startsWith('confirmed') ? 'status-confirmed' : 'status-qualified'}">${statusText(status)}</dd>`).join('');
-  document.querySelector('#stable-rule').textContent = `Only ${fmt.format(summary.stable_cell_count)} club–moment–timing combinations across the league produced a clear read in both public signals. The site requires enough clean examples, the same direction in Wikipedia and news coverage, and a result that does not swing through no change.`;
+  document.querySelector('#stable-rule').textContent = `Only ${fmt.format(summary.stable_cell_count)} club–moment–timing combinations across the league produced a clear read in both public signals.`;
 }
 
 function chooseInitialMoment(state, preferred) {
