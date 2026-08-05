@@ -370,7 +370,7 @@ function renderPlaybooks(profile, playbooks, moment, clubIdentity) {
   logo.src = clubIdentity?.club_logo_url || '';
   logo.alt = `${profile.club_name} logo`;
   logo.hidden = !clubIdentity?.club_logo_url;
-  document.querySelector('#playbook-intro').innerHTML = `These are three publishing and measurement ideas for <span class="club-name-highlight">${esc(profile.club_name)}</span>. They are prompts for a controlled club test—not claims about what will work.`;
+  document.querySelector('#playbook-intro').innerHTML = `These are three publishing and measurement ideas for <span class="club-name-highlight">${esc(profile.club_name)}</span>.`;
   document.querySelector('#playbook-list').innerHTML = rows.map(row => `<article class="playbook-record"><header class="playbook-record__head"><span>${esc(momentLabel(row.moment_type))}</span></header><div class="action-strip"><div class="action-step"><b>FIRST NIGHT</b><p>${esc(cleanSentence(row.action_0_24h))}</p></div><div class="action-step"><b>NEXT TWO DAYS</b><p>${esc(cleanSentence(row.action_24_72h))}</p></div><div class="action-step"><b>REST OF THE WEEK</b><p>${esc(cleanSentence(row.action_day_4_7))}</p></div></div><footer class="playbook-foot"><div><b>WHAT THE PUBLIC RECORD CAN CHECK</b>${esc(publicMeasure(row.public_kpi))}</div><div><b>WHAT ONLY THE CLUB CAN CHECK</b>${esc(cleanSentence(row.internal_kpi))}</div><div class="validation-flag"><b>PRIVATE INFORMATION NEEDED</b>${esc(cleanSentence(row.internal_data_required))}</div></footer></article>`).join('');
 }
 
