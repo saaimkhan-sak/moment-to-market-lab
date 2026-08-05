@@ -83,11 +83,11 @@
   "static_checksums": {
     "accessibility.css": "ad0965eea3176a6b403f52f8206e063186c3a3441fd894bc3762e785eef6b896",
     "app.js": "f35b4d35fff7abcc83acf93d6d83e83262cd3141c8f70ea866681d1563967994",
-    "explore/index.html": "b7b25dcaba3a92121fe8906a4ce9e45f2681f4bb9c9b8a84e0316456aa3503e3",
+    "explore/index.html": "37ff97b57bf2a92b2f1607fca1eab063b7d18fea7f5d510cdb65335e2b7a632a",
     "favicon.svg": "e639b2f856c7fc9f45b58a57ac259f90339b27d3635f1009d3b4dd5cf773b4c7",
     "historical.css": "94507e4d378e629bf29562b1b415aa7fcd1e4bc3c8d7ebfcb3d35374ed2efc7b",
     "index.html": "2c03247865e74bf1c1e7451362662dcf6d11b6e2a5dc4239cc5784bc1f503bab",
-    "styles.css": "851528c5ebe64e00eb2c420f7627df742a57241e062410e11c990da05677ecaa"
+    "styles.css": "6ed49bf1c0d5a9ae1b61d0ad650c9ad4ad38217b20d04c97598ace6683e815f3"
   },
   "taxonomy_version": "1.1.0",
   "youtube_club_count": 32

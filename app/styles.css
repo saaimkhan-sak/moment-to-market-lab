@@ -319,6 +319,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .benchmark-block, .coverage-rail { border-top: 2px solid var(--ink); }
 .benchmark-block table { width: 100%; border-collapse: collapse; }
 .benchmark-block th, .benchmark-block td { padding: 11px 5px; border-bottom: 1px solid var(--rule); text-align: left; }
+.benchmark-block th { font: 500 13px/1.25 "IBM Plex Mono", monospace; letter-spacing: .06em; }
 .benchmark-block td:last-child { text-align: right; font: 500 12px "IBM Plex Mono", monospace; }
 .coverage-rail h3 { margin: 14px 0 10px; }
 .coverage-rail dl { display: grid; grid-template-columns: 1fr auto; margin: 0; }
