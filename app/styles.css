@@ -296,8 +296,8 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .video-ledger { table-layout: fixed; }
 .format-ledger th, .format-ledger td, .market-ledger th, .market-ledger td, .video-ledger td { padding: 10px 5px; border-bottom: 1px solid var(--rule); text-align: left; font-size: 13px; }
 .format-ledger td:last-child, .market-ledger td:last-child { text-align: right; font-family: "IBM Plex Mono", monospace; }
-.market-ledger td:first-child { width: 62%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 12px; }
-.market-ledger td:last-child { width: 38%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.market-ledger td:first-child { width: 72%; white-space: nowrap; overflow: visible; text-overflow: clip; font-size: 12px; letter-spacing: -.01em; }
+.market-ledger td:last-child { width: 28%; white-space: nowrap; overflow: visible; text-overflow: clip; }
 .market-ledger .quiet-label { font-size: 11px; }
 .video-ledger td:first-child { width: 118px; vertical-align: top; font: 500 9px/1.5 "IBM Plex Mono", monospace; }
 .video-ledger td:nth-child(2) { min-width: 0; padding-left: 14px; vertical-align: middle; overflow-wrap: anywhere; }
