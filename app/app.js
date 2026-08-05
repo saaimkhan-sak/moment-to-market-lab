@@ -188,7 +188,7 @@ function renderTrace(state) {
   const height = 320;
   // Reserve a quiet right gutter for the series labels so they never sit on top
   // of the plotted lines or compete with the explanatory panel beside the chart.
-  const margin = {left: 58, right: 190, top: 34, bottom: 46};
+  const margin = {left: 58, right: 230, top: 34, bottom: 46};
   let minimum = Math.min(0, ...values);
   let maximum = Math.max(0, ...values);
   if (minimum === maximum) { minimum -= 0.1; maximum += 0.1; }
@@ -217,7 +217,7 @@ function renderTrace(state) {
     };
   }).filter(Boolean);
   const labelX = width - 12;
-  const labelWidth = 166;
+  const labelWidth = 220;
   const labelMinY = margin.top + 12;
   const labelMaxY = height - margin.bottom - 12;
   const orderedLabels = [...labelRows].sort((a, b) => a.targetY - b.targetY);
