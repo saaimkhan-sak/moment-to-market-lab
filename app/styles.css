@@ -474,7 +474,8 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .explorer-page .evidence-stamp {
   grid-area: evidence;
 }
-.explorer-page .finding-number {
+.explorer-page .finding-number,
+.explorer-page .context-number {
   display: inline-block;
   margin: 0 .08em;
   padding: 0 .14em;
