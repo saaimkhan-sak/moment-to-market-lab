@@ -364,10 +364,10 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .docket-row > summary span:last-child { font-size: 13.5px; }
 .video-ledger td:first-child { font-size: 13.5px; }
 .mini-timeline span { font-size: 12px; }
-.playbook-record__head span { font-size: 13.5px; }
+.playbook-record__head span { font-size: 17px; }
 .action-timeline span { font-size: 19.5px; }
-.action-step b { font-size: 13.5px; }
-.playbook-foot b { font-size: 13.5px; }
+.action-step b { font-size: 15.5px; }
+.playbook-foot b { font-size: 15.5px; }
 .coverage-rail dt { font-size: 15px; }
 .coverage-rail dd { font-size: 13.5px; }
 .site-footer { font-size: 13.5px; }
