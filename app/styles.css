@@ -318,7 +318,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
    remains at its established size so the Data Snapshot is not resized. */
 .eyebrow, .kicker, .chapter-mark, .quiet-label { font-size: 15px; }
 .chapter-mark span:first-child { font-size: 19.5px; }
-.masthead__descriptor { font-size: 15px; }
+.masthead__descriptor { font-size: 15px; white-space: nowrap; }
 .masthead nav a { font-size: 15px; }
 .chain-line span { font-size: 15px; }
 .method-proof b, .formula-board > b, .decision-rule > b { font-size: 15px; }
@@ -363,7 +363,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
   :root { --gutter: 20px; }
   .masthead { grid-template-columns: 1fr; padding-top: 20px; }
   .wordmark { padding-bottom: 10px; }
-  .masthead__descriptor { padding-bottom: 14px; }
+  .masthead__descriptor { padding-bottom: 14px; white-space: normal; }
   .masthead nav { justify-content: flex-start; gap: 22px; }
   .story-opener, .genesis, .question-chain, .method-intro, .translation-section, .club-opener, .response-section, .context-spread, .league-footnote { grid-template-columns: 1fr; }
 .story-opener { min-height: auto; padding-top: var(--space-8); }
