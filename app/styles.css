@@ -70,7 +70,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
   padding: 26px var(--gutter) 0;
   border-bottom: 1px solid var(--ink);
 }
-.wordmark { display: grid; padding-bottom: 18px; text-decoration: none; font: 600 12px/1.22 "IBM Plex Sans", sans-serif; letter-spacing: .055em; }
+.wordmark { display: grid; padding-bottom: 18px; text-decoration: none; font: 600 18px/1.22 "IBM Plex Sans", sans-serif; letter-spacing: .055em; }
 .wordmark span:last-child { color: var(--slate); }
 .masthead__descriptor { align-self: end; margin: 0; padding: 0 0 19px; color: var(--slate); font: 400 10px/1.4 "IBM Plex Mono", monospace; letter-spacing: .06em; }
 .masthead nav { display: flex; justify-content: flex-end; gap: 28px; overflow-x: auto; }
