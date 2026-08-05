@@ -181,7 +181,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .action-timeline { grid-column: 2; display: grid; grid-template-columns: repeat(3, 1fr); margin-top: var(--space-6); border-top: 3px solid var(--club-accent); }
 .action-timeline > div { min-height: 250px; padding: 24px 28px 20px 0; margin-right: 28px; border-right: 1px solid var(--rule); }
 .action-timeline > div:last-child { margin-right: 0; border-right: 0; }
-.action-timeline span { color: var(--slate); font: 500 10px "IBM Plex Mono", monospace; }
+.action-timeline span { color: var(--slate); font: 600 13px/1.35 "IBM Plex Mono", monospace; letter-spacing: .04em; }
 .action-timeline h3 { margin-top: 26px; font-family: "Source Serif 4", serif; font-size: 27px; font-weight: 600; }
 .action-timeline p { font-size: 14px; }
 .closing-argument { max-width: var(--report); margin: 0 auto; padding: var(--space-9) var(--gutter); border-left: 4px solid var(--club-accent); }
