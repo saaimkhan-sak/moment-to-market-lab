@@ -109,3 +109,6 @@ The single source of truth is the `:root` block in `app/styles.css`.
 - Breakpoints: 1100px, 820px, and 600px, with a 20px mobile gutter.
 - Chart marks: solid evergreen for Wikipedia interest, dashed slate for news coverage, dotted red for Day 0, direct labels instead of a legend.
 
+## Club identity marks
+
+Team logos are treated as navigational identity cues rather than decorative wallpaper. The selected club mark appears beside the club selector and in the club brief rail, where it helps orient the reader without competing with the finding. The same restrained mark appears in each executive memo header. Assets are referenced from the current official NHL SVG asset host through the documented `club_logo_url` field in `config/clubs.csv`; the club accent remains the stronger structural signal.

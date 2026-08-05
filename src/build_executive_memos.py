@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 from collections import Counter
+import csv
 import hashlib
 from html import escape
 import json
@@ -109,7 +110,7 @@ def slide_html(slide: dict) -> str:
     )
     return (
         f"<section class='slide' aria-label='Slide {slide['slide']}'>"
-        f"<header><span>{escape(slide['club_name'])} · {slide['slide']} / 5 · AS OF {escape(slide['as_of'])}</span><b>{escape(slide['kicker'])}</b></header>"
+        f"<header><span class='memo-club'><img src='{escape(slide['club_logo_url'], quote=True)}' alt='' aria-hidden='true'><span>{escape(slide['club_name'])} · {slide['slide']} / 5 · AS OF {escape(slide['as_of'])}</span></span><b>{escape(slide['kicker'])}</b></header>"
         f"<h2>{escape(slide['title'])}</h2>"
         f"<p class='body'>{escape(slide.get('body', ''))}</p>"
         + (f"<ul>{evidence}</ul>" if evidence else "")
@@ -123,11 +124,13 @@ def memo_html(memo: dict, accent: str) -> str:
     slides = "".join(slide_html(slide) for slide in memo["slides"])
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{escape(memo['title'])}</title><style>
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:wght@400;600&display=swap');
-:root{{--bone:#f4f1ea;--ink:#13201d;--slate:#607078;--rule:#c8d0cd;--ice:#dde7e6;--accent:{accent}}}*{{box-sizing:border-box}}body{{margin:0;background:#d8d8d4;color:var(--ink);font:16px/1.5 'IBM Plex Sans',sans-serif}}.deck{{display:grid;gap:28px;justify-content:center;padding:28px}}.slide{{position:relative;width:1280px;min-height:720px;padding:48px 58px 46px;background:var(--bone);border-top:5px solid var(--accent);display:flex;flex-direction:column}}header{{display:flex;justify-content:space-between;border-bottom:1px solid var(--ink);padding-bottom:12px;font:500 11px 'IBM Plex Mono';letter-spacing:.08em}}h1,h2{{font:400 48px/1.03 'Source Serif 4';max-width:980px;margin:52px 0 18px}}.body{{font-size:19px;max-width:850px}}ul{{columns:2;gap:50px;margin-top:36px;padding:20px 0 0;list-style:none;border-top:1px solid var(--rule)}}li{{break-inside:avoid;padding:8px 0;font:14px 'IBM Plex Mono'}}table{{border-collapse:collapse;width:100%;margin-top:32px}}th,td{{padding:12px;border-bottom:1px solid var(--rule);text-align:left}}th,.mono,dt{{font:500 10px 'IBM Plex Mono';letter-spacing:.07em}}.playbooks{{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:24px}}.playbook{{border-top:2px solid var(--ink);padding-top:10px}}.playbook h3{{margin:8px 0 14px}}dl{{margin:0}}dt{{margin-top:12px}}dd{{margin:3px 0;font-size:13px}}footer{{margin-top:auto;border-top:1px solid var(--rule);padding-top:12px;color:var(--slate);font:11px 'IBM Plex Mono'}}@media(max-width:900px){{.deck{{display:block;padding:0}}.slide{{width:100%;min-height:100vh;padding:28px 22px;margin-bottom:10px}}h2{{font-size:36px}}.playbooks{{grid-template-columns:1fr}}}}@media print{{@page{{size:13.333in 7.5in;margin:0}}body{{background:white}}.deck{{display:block;padding:0}}.slide{{break-after:page;width:13.333in;height:7.5in;min-height:0}}}}
+:root{{--bone:#f4f1ea;--ink:#13201d;--slate:#607078;--rule:#c8d0cd;--ice:#dde7e6;--accent:{accent}}}*{{box-sizing:border-box}}body{{margin:0;background:#d8d8d4;color:var(--ink);font:16px/1.5 'IBM Plex Sans',sans-serif}}.deck{{display:grid;gap:28px;justify-content:center;padding:28px}}.slide{{position:relative;width:1280px;min-height:720px;padding:48px 58px 46px;background:var(--bone);border-top:5px solid var(--accent);display:flex;flex-direction:column}}header{{display:flex;justify-content:space-between;border-bottom:1px solid var(--ink);padding-bottom:12px;font:500 11px 'IBM Plex Mono';letter-spacing:.08em}}.memo-club{{display:inline-flex;align-items:center;gap:9px}}.memo-club img{{width:24px;height:24px;object-fit:contain;filter:saturate(.82) contrast(.96)}}h1,h2{{font:400 48px/1.03 'Source Serif 4';max-width:980px;margin:52px 0 18px}}.body{{font-size:19px;max-width:850px}}ul{{columns:2;gap:50px;margin-top:36px;padding:20px 0 0;list-style:none;border-top:1px solid var(--rule)}}li{{break-inside:avoid;padding:8px 0;font:14px 'IBM Plex Mono'}}table{{border-collapse:collapse;width:100%;margin-top:32px}}th,td{{padding:12px;border-bottom:1px solid var(--rule);text-align:left}}th,.mono,dt{{font:500 10px 'IBM Plex Mono';letter-spacing:.07em}}.playbooks{{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:24px}}.playbook{{border-top:2px solid var(--ink);padding-top:10px}}.playbook h3{{margin:8px 0 14px}}dl{{margin:0}}dt{{margin-top:12px}}dd{{margin:3px 0;font-size:13px}}footer{{margin-top:auto;border-top:1px solid var(--rule);padding-top:12px;color:var(--slate);font:11px 'IBM Plex Mono'}}@media(max-width:900px){{.deck{{display:block;padding:0}}.slide{{width:100%;min-height:100vh;padding:28px 22px;margin-bottom:10px}}h2{{font-size:36px}}.playbooks{{grid-template-columns:1fr}}}}@media print{{@page{{size:13.333in 7.5in;margin:0}}body{{background:white}}.deck{{display:block;padding:0}}.slide{{break-after:page;width:13.333in;height:7.5in;min-height:0}}}}
 </style></head><body><main class="deck">{slides}</main></body></html>"""
 
 
 def build():
+    with (ROOT / "config/clubs.csv").open(newline="") as handle:
+        club_configs = {row["club_id"]: row for row in csv.DictReader(handle)}
     profiles = json.loads((ROOT / "data/curated/club_profiles.json").read_text())
     playbooks = json.loads((ROOT / "data/curated/activation_playbook.json").read_text())
     model = json.loads((ROOT / "data/curated/club_moment_estimate.json").read_text())
@@ -159,8 +162,11 @@ def build():
             "taxonomy_version": profile["taxonomy_version"],
             "model_version": profile["model_version"],
             "feedback_question": FEEDBACK,
+            "club_logo_url": club_configs[profile["club_id"]]["club_logo_url"],
             "slides": build_slides(profile, club_playbooks, benchmark),
         }
+        for slide in memo["slides"]:
+            slide["club_logo_url"] = memo["club_logo_url"]
         output_dir = ROOT / "outputs/memos" / profile["club_slug"]
         output_dir.mkdir(parents=True, exist_ok=True)
         json_path = output_dir / "executive-memo.json"

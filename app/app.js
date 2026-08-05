@@ -418,6 +418,15 @@ async function main([profiles, league]) {
     state.window = document.querySelector('#window-select').value;
     state.source = document.querySelector('#source-select').value;
     document.documentElement.style.setProperty('--club-accent', state.profile.club_accent);
+    const clubIndexRow = state.profiles.find(row => row.club_slug === state.profile.club_slug);
+    const logoUrl = clubIndexRow?.club_logo_url || '';
+    const logoAlt = `${state.profile.club_name} logo`;
+    for (const selector of ['#club-logo', '#club-select-logo']) {
+      const logo = document.querySelector(selector);
+      logo.src = logoUrl;
+      logo.alt = selector === '#club-logo' ? logoAlt : '';
+      logo.hidden = !logoUrl;
+    }
     document.querySelector('#club-name').textContent = state.profile.club_name;
     document.querySelector('#club-market').textContent = state.profile.market_name;
     document.querySelector('#club-coverage').textContent = `${fmt.format(state.profile.moment_records)} TRACKED MOMENTS · ${fmt.format(state.profile.game_records)} GAMES`;

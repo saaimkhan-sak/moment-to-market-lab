@@ -29,7 +29,7 @@
 
   <section class="control-deck" aria-label="Choose what to explore">
     <div class="explorer-controls__label"><span>01</span><b>CHOOSE A CLUB</b></div>
-    <label><span>Club</span><select id="club-select" aria-label="Club"></select></label>
+    <label class="club-picker"><img id="club-select-logo" src="" alt="" aria-hidden="true"><span>Club</span><select id="club-select" aria-label="Club"></select></label>
     <label><span>Hockey moment</span><select id="moment-select" aria-label="Hockey moment"></select></label>
     <label><span>When to look</span><select id="window-select" aria-label="Time after the moment"><option value="immediate">First 48 hours</option><option value="short_persistence">Next two days</option><option value="sustained_attention">Rest of the week</option></select></label>
     <label><span>Public signal</span><select id="source-select" aria-label="Public signal"><option value="both">The full public trail</option><option value="wikimedia_pageviews">Wikipedia interest</option><option value="gdelt_earned_media">News coverage</option></select></label>
@@ -39,7 +39,7 @@
     <section class="club-opener" id="club-brief">
       <aside class="club-rail">
         <p class="eyebrow">CLUB BRIEF</p>
-        <strong id="club-name">—</strong>
+        <div class="club-identity"><img id="club-logo" src="" alt=""><strong id="club-name">—</strong></div>
         <span id="club-market">—</span>
         <span id="club-coverage">—</span>
         <span>PUBLIC RECORD THROUGH 2026-07-31</span>

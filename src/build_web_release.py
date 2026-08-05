@@ -249,7 +249,11 @@ def build():
     clubs_dir.mkdir(parents=True, exist_ok=True)
     for club in sorted(current_clubs):
         profile = profile_by_club[club]
-        club_index.append({key: profile[key] for key in ("club_id", "club_name", "club_slug", "club_accent", "country", "market_name")})
+        club_index.append({
+            **{key: profile[key] for key in ("club_id", "club_name", "club_slug", "club_accent", "country", "market_name")},
+            "nhl_abbreviation": config_by_club[club]["nhl_abbreviation"],
+            "club_logo_url": config_by_club[club]["club_logo_url"],
+        })
         club_moments = [row for row in moments if row["club_id"] == club]
         game_ids = {row.get("game_id") for row in club_moments if row.get("game_id")}
         bundle = {

@@ -5,6 +5,11 @@ class SchemaTests(unittest.TestCase):
  def test_registry_has_exactly_32_current_clubs(self):
   with (ROOT/'CLUB_REGISTRY.csv').open() as handle: rows=list(csv.DictReader(handle))
   self.assertEqual(len(rows),32); self.assertEqual(len({r['club_id'] for r in rows}),32); self.assertIn('Utah Mammoth',[r['club_name'] for r in rows])
+ def test_all_clubs_have_documented_nhl_logo_assets(self):
+  with (ROOT/'config/clubs.csv').open() as handle: rows=list(csv.DictReader(handle))
+  self.assertEqual(len(rows),32)
+  for row in rows:
+   self.assertRegex(row['club_logo_url'], r'^https://assets\.nhle\.com/logos/nhl/svg/[A-Z]{3}_light\.svg$')
  def test_required_canonical_tables_are_documented(self):
   text=(ROOT/'DATA_DICTIONARY.md').read_text();
   for name in ['game','game_event','moment','official_announcement','entity_mapping','attention_daily','gdelt_attention_daily','gdelt_article_observation','content_video','market_context','club_moment_estimate','activation_playbook','evidence_coverage','release_manifest']: self.assertIn(f'`{name}`',text)

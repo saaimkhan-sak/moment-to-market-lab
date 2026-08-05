@@ -1,6 +1,7 @@
 {
   "as_of": "2026-08-03",
   "club_id": "DAL",
+  "club_logo_url": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
   "club_slug": "dallas-stars",
   "feedback_question": "Which public-attention signal would be useful in your team’s workflow, and which internal data would you need before acting on it?",
   "model_version": "2.0.0-unbalanced-multichannel-hierarchical",
@@ -8,6 +9,7 @@
     {
       "as_of": "2026-08-03",
       "body": "No club–moment–window cell clears the registered agreement, precision, and sample-size rules in both Wikimedia and GDELT.",
+      "club_logo_url": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
       "club_name": "Dallas Stars",
       "evidence": [
         "Cross-channel status: no reliable pattern",
@@ -23,6 +25,7 @@
     {
       "as_of": "2026-08-03",
       "body": "The profile keeps immediate, short-persistence, and sustained windows separate and suppresses club–moment cells with fewer than ten observations.",
+      "club_logo_url": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
       "club_name": "Dallas Stars",
       "evidence": [
         "Wikimedia observations: 4,049",
@@ -55,6 +58,7 @@
         }
       ],
       "body": "The benchmark counts only club–moment–window cells that meet both sample and precision rules. A high single-channel estimate is not promoted to a stable finding.",
+      "club_logo_url": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
       "club_name": "Dallas Stars",
       "kicker": "LEAGUE BENCHMARK",
       "limitation": "League comparisons describe public-signal associations and do not rank club business performance.",
@@ -63,6 +67,7 @@
     },
     {
       "as_of": "2026-08-03",
+      "club_logo_url": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
       "club_name": "Dallas Stars",
       "kicker": "THREE ACTIVATION TEST NOTES",
       "limitation": "Every action is a test protocol. Any internal KPI or commercial use requires club validation.",
@@ -392,6 +397,7 @@
     {
       "as_of": "2026-08-03",
       "body": "Retain exact publication and distribution timestamps, predeclare one internal outcome, preserve no-signal cases, and compare the same moment definition over time.",
+      "club_logo_url": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
       "club_name": "Dallas Stars",
       "evidence": [
         "Internal request: owned-channel publication and distribution timestamps",

@@ -4,7 +4,7 @@
   "delivery_mode": "per_club_route_bundle",
   "evidence_status": "confirmed",
   "file_checksums": {
-    "club_index.json": "6fa8dc7ae8e928fedceb12cb87cf4fa7d41ca3b3a3cb085a199563b51dcffe63",
+    "club_index.json": "c6b85cb0ac4bd5a5726609dfb4a11e77f26a2409d68140b94a0f0d15766b08e5",
     "clubs/anaheim-ducks.json": "2eb1368f096211c96fa61937e716e5cc7ccac1ea392eea5c54e660874968dff4",
     "clubs/boston-bruins.json": "9db02dd38b45de70b4e0abfa4ae23a428e9ec681235c0fecff32662a22a9ab96",
     "clubs/buffalo-sabres.json": "250a110be94f4eec8776545729d657236b8c28f66395436e53538b97121b972c",
@@ -82,12 +82,12 @@
   "signal_trace_count": 528,
   "static_checksums": {
     "accessibility.css": "ad0965eea3176a6b403f52f8206e063186c3a3441fd894bc3762e785eef6b896",
-    "app.js": "fea1dfb561ce160028bd23ca74805be511d88a64cab00a3f59dc60cea5c8dc2d",
-    "explore/index.html": "f1a6a6f009265a8f7c79f15d2a95ce191b36756a5e731d75e30b7f8830a4c2c8",
+    "app.js": "152b9f220b501573a04b6723860c9edb3ff6ea7b0cc2da936209162896e33106",
+    "explore/index.html": "22503be2fca285b9ec74219749f22866ce2bb59751f1118680e3874ce0343a75",
     "favicon.svg": "e639b2f856c7fc9f45b58a57ac259f90339b27d3635f1009d3b4dd5cf773b4c7",
     "historical.css": "94507e4d378e629bf29562b1b415aa7fcd1e4bc3c8d7ebfcb3d35374ed2efc7b",
     "index.html": "2c03247865e74bf1c1e7451362662dcf6d11b6e2a5dc4239cc5784bc1f503bab",
-    "styles.css": "7a3e5b3a7acc7c49bb566f0844dfb883720839debcd3483cf81851738901df40"
+    "styles.css": "851528c5ebe64e00eb2c420f7627df742a57241e062410e11c990da05677ecaa"
   },
   "taxonomy_version": "1.1.0",
   "youtube_club_count": 32
