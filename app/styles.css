@@ -247,7 +247,10 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .chart-gdelt { fill: none; stroke: var(--slate); stroke-width: 2.2; stroke-dasharray: 6 4; }
 .chart-label { fill: var(--slate); font: 9px "IBM Plex Mono", monospace; }
 .chart-label--event { fill: var(--red); font-weight: 500; }
-.chart-end { fill: var(--ink); font: 500 9px "IBM Plex Mono", monospace; }
+.chart-label-bg { fill: #e8efec; stroke: var(--rule); stroke-width: 1; }
+.chart-end { font: 500 9px "IBM Plex Mono", monospace; letter-spacing: .025em; }
+.chart-end--wikimedia { fill: var(--evergreen); }
+.chart-end--gdelt { fill: var(--slate); }
 .how-to-read { align-self: end; padding: 16px 0; border-top: 2px solid var(--ink); border-bottom: 1px solid var(--rule); }
 .how-to-read > p { margin: 0; padding: 12px 0; border-top: 1px solid var(--rule); font-size: 13px; }
 .how-to-read > p:first-child { padding-top: 0; border-top: 0; }

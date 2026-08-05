@@ -186,7 +186,9 @@ function renderTrace(state) {
 
   const width = 820;
   const height = 320;
-  const margin = {left: 58, right: 116, top: 34, bottom: 46};
+  // Reserve a quiet right gutter for the series labels so they never sit on top
+  // of the plotted lines or compete with the explanatory panel beside the chart.
+  const margin = {left: 58, right: 190, top: 34, bottom: 46};
   let minimum = Math.min(0, ...values);
   let maximum = Math.max(0, ...values);
   if (minimum === maximum) { minimum -= 0.1; maximum += 0.1; }
@@ -204,14 +206,37 @@ function renderTrace(state) {
   [-7, -3, 0, 3, 7].forEach(value => {
     svg += `<text class="chart-label" x="${x(value)}" y="${height - 16}" text-anchor="middle">DAY ${value > 0 ? '+' : ''}${value}</text>`;
   });
+  const labelRows = series.map(row => {
+    const last = [...row.points].reverse().find(point => point.median_difference != null);
+    if (!last) return null;
+    return {
+      row,
+      last,
+      label: row.attention_channel === 'wikimedia_pageviews' ? 'WIKIPEDIA' : 'NEWS',
+      targetY: y(last.median_difference)
+    };
+  }).filter(Boolean);
+  const labelX = width - 12;
+  const labelWidth = 166;
+  const labelMinY = margin.top + 12;
+  const labelMaxY = height - margin.bottom - 12;
+  const orderedLabels = [...labelRows].sort((a, b) => a.targetY - b.targetY);
+  orderedLabels.forEach((item, index) => {
+    item.labelY = Math.max(item.targetY, index ? orderedLabels[index - 1].labelY + 22 : labelMinY);
+  });
+  const labelOverflow = Math.max(0, orderedLabels.at(-1)?.labelY - labelMaxY || 0);
+  if (labelOverflow) orderedLabels.forEach(item => { item.labelY -= labelOverflow; });
+  const labelUnderflow = Math.max(0, labelMinY - (orderedLabels[0]?.labelY || labelMinY));
+  if (labelUnderflow) orderedLabels.forEach(item => { item.labelY += labelUnderflow; });
+
   series.forEach(row => {
     const styleClass = row.attention_channel === 'wikimedia_pageviews' ? 'chart-wikimedia' : 'chart-gdelt';
     svg += `<path class="${styleClass}" d="${tracePath(row.points, x, y)}"/>`;
-    const last = [...row.points].reverse().find(point => point.median_difference != null);
-    if (last) {
-      const label = row.attention_channel === 'wikimedia_pageviews' ? 'WIKIPEDIA' : 'NEWS';
-      const labelX = width - margin.right - 8;
-      svg += `<text class="chart-end" x="${labelX}" y="${y(last.median_difference) + 4}" text-anchor="end">${label} · ${last.sample_size} EVENTS</text>`;
+    const labelRow = labelRows.find(item => item.row === row);
+    if (labelRow) {
+      const boxX = labelX - labelWidth;
+      const labelClass = row.attention_channel === 'wikimedia_pageviews' ? 'chart-end--wikimedia' : 'chart-end--gdelt';
+      svg += `<rect class="chart-label-bg" x="${boxX}" y="${labelRow.labelY - 11}" width="${labelWidth}" height="22" rx="2"/><text class="chart-end ${labelClass}" x="${labelX - 8}" y="${labelRow.labelY + 4}" text-anchor="end">${labelRow.label} · ${labelRow.last.sample_size} EVENTS</text>`;
     }
   });
   graphic.innerHTML = `${svg}</svg>`;
