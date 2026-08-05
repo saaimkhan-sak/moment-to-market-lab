@@ -109,6 +109,10 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .desk-signal__comparison { fill: none; stroke: var(--slate); stroke-width: 1.6; stroke-dasharray: 5 4; }
 .desk-signal__focus { fill: none; stroke: var(--evergreen); stroke-width: 2.4; }
 .desk-signal__point { fill: var(--amber); }
+.desk-signal__label, .desk-signal__axis, .desk-signal__annotation { fill: var(--slate); font: 500 8px "IBM Plex Mono", monospace; letter-spacing: .04em; }
+.desk-signal__label { fill: var(--ink); font-size: 9px; }
+.desk-signal__axis { font-size: 7px; }
+.desk-signal__annotation { fill: var(--evergreen); font-size: 7px; }
 .desk-signal__caption { display: flex; justify-content: space-between; gap: 10px; margin-top: 8px; color: var(--slate); font: 500 9px/1.35 "IBM Plex Mono", monospace; letter-spacing: .06em; }
 
 .genesis, .question-chain, .method-intro, .translation-section {
