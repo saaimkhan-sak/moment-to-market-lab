@@ -208,7 +208,11 @@ function renderTrace(state) {
     const styleClass = row.attention_channel === 'wikimedia_pageviews' ? 'chart-wikimedia' : 'chart-gdelt';
     svg += `<path class="${styleClass}" d="${tracePath(row.points, x, y)}"/>`;
     const last = [...row.points].reverse().find(point => point.median_difference != null);
-    if (last) svg += `<text class="chart-end" x="${x(last.day_offset) + 9}" y="${y(last.median_difference) + 4}">${row.attention_channel === 'wikimedia_pageviews' ? 'WIKIPEDIA' : 'NEWS'} · ${last.sample_size} EVENTS</text>`;
+    if (last) {
+      const label = row.attention_channel === 'wikimedia_pageviews' ? 'WIKIPEDIA' : 'NEWS';
+      const labelX = width - margin.right - 8;
+      svg += `<text class="chart-end" x="${labelX}" y="${y(last.median_difference) + 4}" text-anchor="end">${label} · ${last.sample_size} EVENTS</text>`;
+    }
   });
   graphic.innerHTML = `${svg}</svg>`;
 
