@@ -136,25 +136,25 @@
           &\quad + \mathit{day\_of\_week}+\mathit{month}+\mathit{season}\\
           &\quad + \mathit{club\_baseline}+\mathit{opponent\_baseline}
           \end{aligned}
-        \]</div><p>Wikipedia and GDELT are fitted separately. Raw club medians are reported beside the adjusted estimates.</p></div>
+        \]</div></div>
       </article>
 
       <article class="method-chapter">
         <div class="method-number">08</div>
-        <div class="method-copy"><h3>Overlapping moments are handled as potential confounds.</h3><p>Where another major moment occurs within seven days, the event is excluded from the isolated before-and-after comparison. It is retained in the daily analysis, where both moment windows can be modeled together. The reason for exclusion is kept visible.</p></div>
-        <div class="method-proof"><b>OVERLAP RULE</b><div class="math-block math-block--stacked"><div>\( \left|\operatorname{day}(A)-\operatorname{day}(B)\right| \le 7 \)</div><div>\( \operatorname{isolated}(A) = \mathrm{false} \)</div></div><p>The system never pretends one event acted alone when another major story occupied the same week.</p></div>
+        <div class="method-copy"><h3>Treating overlapping moments as confounding variables</h3><p>When another major moment occurs within seven days, the following major event is excluded from the isolated before-and-after comparison, but it is retained in the daily analysis so that both moment windows can be modeled together.</p></div>
+        <div class="method-proof"><b>OVERLAP RULE</b><div class="math-block math-block--stacked"><div>\( \left|\operatorname{day}(A)-\operatorname{day}(B)\right| \le 7 \)</div><div>\( \operatorname{isolated}(A) = \mathrm{false} \)</div></div></div>
       </article>
 
       <article class="method-chapter method-chapter--decision">
         <div class="method-number">09</div>
-        <div class="method-copy"><h3>The two signals must agree before a repeatable label is assigned.</h3><p>At least 10 comparable events are required for each source, and all evidence thresholds must be cleared. The adjusted result and the club’s raw history must indicate the same direction, while their uncertainty ranges must remain entirely on one side of no change. Where any condition fails, the result is reported as mixed or not yet clear.</p></div>
+        <div class="method-copy"><h3>Ensuring signal agreement before labeling</h3><p>At least 10 comparable events are required for each source, and all evidence thresholds must be cleared. The adjusted result and the club’s raw history must indicate the same direction, while their uncertainty ranges must remain entirely on one side of no change. Where any condition fails, the result is reported as mixed or not yet clear.</p></div>
         <div class="decision-rule"><b>A REPEATABLE PUBLIC PATTERN REQUIRES</b><div class="math-block math-block--display">\[
           \begin{gathered}
           N_{\mathrm{adjusted}} \ge 10 \land N_{\mathrm{clean}} \ge 10\\
           \mathit{direction}_{\mathrm{Wikipedia}} = \mathit{direction}_{\mathrm{news}}\\
           0 \notin \text{every registered }95\%\text{ range}
           \end{gathered}
-        \]</div><p>Alternative 7-day and 21-day baselines are also checked before a finding is released.</p></div>
+        \]</div><p>Alternative 7-day and 21-day baselines are also checked.</p></div>
       </article>
     </section>
 

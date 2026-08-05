@@ -173,7 +173,6 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .signal-key span { grid-column: 2; color: var(--slate); font: 500 9px "IBM Plex Mono", monospace; }
 .signal-line { display: inline-block; width: 38px; margin-right: 10px; border-top: 2px solid var(--evergreen); vertical-align: middle; }
 .signal-line--dash { border-top-color: var(--slate); border-top-style: dashed; }
-.method-chapter--decision .method-number { color: var(--amber); }
 .decision-rule { border-top-color: var(--amber); }
 
 .translation-section { grid-template-columns: 1fr 11fr; }
