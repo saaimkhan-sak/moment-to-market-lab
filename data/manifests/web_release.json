@@ -82,12 +82,12 @@
   "signal_trace_count": 528,
   "static_checksums": {
     "accessibility.css": "ad0965eea3176a6b403f52f8206e063186c3a3441fd894bc3762e785eef6b896",
-    "app.js": "034325e6820517e18087a7daa39f27ba63e0b80b3f4d3b4bdf1a0ef403ff1cab",
+    "app.js": "f43b30790df5f9cc611abdd59a24e77d1f83c8318ffa0fcc13f83729a0aed699",
     "explore/index.html": "816c4e50856414eb6fea76820f344e01b5e43e41a1a8fb1c3571d79442d3f52f",
     "favicon.svg": "e639b2f856c7fc9f45b58a57ac259f90339b27d3635f1009d3b4dd5cf773b4c7",
     "historical.css": "94507e4d378e629bf29562b1b415aa7fcd1e4bc3c8d7ebfcb3d35374ed2efc7b",
     "index.html": "2c03247865e74bf1c1e7451362662dcf6d11b6e2a5dc4239cc5784bc1f503bab",
-    "styles.css": "79194a1d400b33077a8fcd209f6593ce416898935dad02ead7e9e629bdf16d41"
+    "styles.css": "f805c5ab09131b5e8726a7c626ffca7fd4b6fa77e80da0324ba54be0cee6c48f"
   },
   "taxonomy_version": "1.1.0",
   "youtube_club_count": 32

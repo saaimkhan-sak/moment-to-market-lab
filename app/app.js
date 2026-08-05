@@ -77,7 +77,7 @@ function rangeCrossesNoChange(row) {
 
 function numericRead(pair) {
   if (!pair.wiki || !pair.news) return 'The two parts of the public trail are not both available for this selection.';
-  return `Across ${fmt.format(minimumCleanSample(pair) || 0)} cleaner examples, the typical change was ${pct(pair.wiki.raw_median_lift)} in Wikipedia interest and ${pct(pair.news.raw_median_lift)} in the club’s share of monitored news coverage.`;
+  return `Across <strong class="finding-number">${esc(fmt.format(minimumCleanSample(pair) || 0))}</strong> cleaner examples, the typical change was <strong class="finding-number">${esc(pct(pair.wiki.raw_median_lift))}</strong> in Wikipedia interest and <strong class="finding-number">${esc(pct(pair.news.raw_median_lift))}</strong> in the club’s share of monitored news coverage.`;
 }
 
 function renderFinding(state) {
@@ -145,7 +145,7 @@ function renderFinding(state) {
   }
 
   document.querySelector('#finding-title').textContent = headline;
-  document.querySelector('#finding-dek').textContent = dek;
+  document.querySelector('#finding-dek').innerHTML = dek.includes('finding-number') ? dek : esc(dek);
   document.querySelector('#finding-what').textContent = `The archive contains ${fmt.format(comparableCount)} ${momentLabel(moment).toLowerCase()} for ${profile.club_name}. The chart below shows the cleaner examples that were not crowded by another major club moment in the same week.`;
   document.querySelector('#finding-why').textContent = meaning;
   document.querySelector('#finding-falsify').textContent = limit;
