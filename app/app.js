@@ -405,7 +405,6 @@ async function main([profiles, league]) {
     document.querySelector('#club-name').textContent = state.profile.club_name;
     document.querySelector('#club-market').textContent = state.profile.market_name;
     document.querySelector('#club-coverage').textContent = `${fmt.format(state.profile.moment_records)} TRACKED MOMENTS · ${fmt.format(state.profile.game_records)} GAMES`;
-    document.querySelector('#active-filter').textContent = `${state.profile.club_name}. ${momentLabel(state.moment)}. Looking at the ${WINDOWS[state.window]}, through ${state.source.toLowerCase()}.`;
     document.querySelector('#memo-link').href = state.memo_path;
     document.title = `${state.profile.club_name} findings · Moment-to-Market Lab`;
     renderFinding(state);
