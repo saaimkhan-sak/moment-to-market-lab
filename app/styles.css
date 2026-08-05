@@ -314,6 +314,36 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .research-coda > p:last-child { color: var(--slate); font: 400 10px "IBM Plex Mono", monospace; }
 .site-footer { display: flex; justify-content: space-between; gap: 20px; padding: 30px var(--gutter); color: var(--slate); font: 400 9px "IBM Plex Mono", monospace; }
 
+/* The evidence layer is intentionally readable at a glance. The release ledger
+   remains at its established size so the Data Snapshot is not resized. */
+.eyebrow, .kicker, .chapter-mark, .quiet-label { font-size: 15px; }
+.chapter-mark span:first-child { font-size: 19.5px; }
+.masthead__descriptor { font-size: 15px; }
+.masthead nav a { font-size: 15px; }
+.chain-line span { font-size: 15px; }
+.method-proof b, .formula-board > b, .decision-rule > b { font-size: 15px; }
+.window-strip span, .signal-key span { font-size: 13.5px; }
+.control-deck label > span { font-size: 13.5px; }
+.control-deck p { font-size: 15px; }
+.club-rail span { font-size: 13.5px; }
+.finding-copy b { font-size: 13.5px; }
+.evidence-stamp { font-size: 15px; }
+.chart-label { font-size: 13.5px; }
+.chart-end { font-size: 13.5px; }
+.accessible-data summary { font-size: 15px; }
+.docket-head { font-size: 13.5px; }
+.docket-row > summary span:last-child { font-size: 13.5px; }
+.video-ledger td:first-child { font-size: 13.5px; }
+.mini-timeline span { font-size: 12px; }
+.playbook-record__head span { font-size: 13.5px; }
+.action-timeline span { font-size: 19.5px; }
+.action-step b { font-size: 13.5px; }
+.playbook-foot b { font-size: 13.5px; }
+.coverage-rail dt { font-size: 15px; }
+.coverage-rail dd { font-size: 13.5px; }
+.research-coda > p:last-child { font-size: 15px; }
+.site-footer { font-size: 13.5px; }
+
 @media (max-width: 1100px) {
   :root { --gutter: 40px; }
   .masthead { grid-template-columns: 3fr 2fr 7fr; }
