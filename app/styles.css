@@ -292,10 +292,13 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .story-content > p:not(.eyebrow), .market-context > p:not(.eyebrow) { max-width: 680px; }
 .format-ledger, .market-ledger, .video-ledger { width: 100%; margin-top: 22px; border-collapse: collapse; }
 .story-content > #youtube-videos > h3 { margin-top: 34px; }
+.market-ledger { table-layout: fixed; }
 .video-ledger { table-layout: fixed; }
 .format-ledger th, .format-ledger td, .market-ledger th, .market-ledger td, .video-ledger td { padding: 10px 5px; border-bottom: 1px solid var(--rule); text-align: left; font-size: 13px; }
 .format-ledger td:last-child, .market-ledger td:last-child { text-align: right; font-family: "IBM Plex Mono", monospace; }
-.market-ledger td:first-child { white-space: nowrap; }
+.market-ledger td:first-child { width: 62%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 12px; }
+.market-ledger td:last-child { width: 38%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.market-ledger .quiet-label { font-size: 11px; }
 .video-ledger td:first-child { width: 118px; vertical-align: top; font: 500 9px/1.5 "IBM Plex Mono", monospace; }
 .video-ledger td:nth-child(2) { min-width: 0; padding-left: 14px; vertical-align: middle; overflow-wrap: anywhere; }
 .video-thumbnail { display: block; width: 100px; aspect-ratio: 16 / 9; margin-bottom: 8px; background: var(--rule); overflow: hidden; }
