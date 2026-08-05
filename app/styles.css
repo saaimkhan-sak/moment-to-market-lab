@@ -304,6 +304,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .mini-timeline { display: grid; grid-template-columns: repeat(3, 1fr); margin-top: 18px; border-top: 1px solid var(--rule); }
 .mini-timeline div { display: grid; padding: 14px 14px 10px 0; }
 .mini-timeline b { font: 500 24px "IBM Plex Mono", monospace; }
+.mini-timeline small { margin-top: 5px; color: var(--slate); font: 500 8px "IBM Plex Mono", monospace; letter-spacing: .05em; }
 .mini-timeline span { color: var(--slate); font: 500 8px "IBM Plex Mono", monospace; }
 
 .activation-note { background: var(--ice); }
