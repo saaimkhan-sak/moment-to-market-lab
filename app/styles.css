@@ -286,6 +286,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 .format-ledger, .market-ledger, .video-ledger { width: 100%; margin-top: 22px; border-collapse: collapse; }
 .format-ledger th, .format-ledger td, .market-ledger th, .market-ledger td, .video-ledger td { padding: 10px 5px; border-bottom: 1px solid var(--rule); text-align: left; font-size: 13px; }
 .format-ledger td:last-child, .market-ledger td:last-child { text-align: right; font-family: "IBM Plex Mono", monospace; }
+.market-ledger td:first-child { white-space: nowrap; }
 .video-ledger td:first-child { width: 110px; font: 500 9px/1.5 "IBM Plex Mono", monospace; }
 .video-ledger a { font-weight: 500; }
 .quiet-label { color: var(--slate); letter-spacing: 0; text-transform: none; }
@@ -535,6 +536,7 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
   .explorer-page .club-opener { padding-top: var(--space-8); padding-bottom: var(--space-8); }
   .explorer-page .finding-block { padding-top: 0; }
   .explorer-page .finding-copy > div { min-height: 0; }
+  .market-ledger td:first-child { white-space: normal; }
 }
 
 @media (max-width: 600px) {
