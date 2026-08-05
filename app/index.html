@@ -6,6 +6,13 @@
   <meta name="description" content="Why the NHL Moment-to-Market Intelligence Lab was built, what it measures, and how public hockey moments are matched to public attention.">
   <title>The story behind the NHL Moment-to-Market Intelligence Lab</title>
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <script>
+    window.MathJax = {
+      tex: { inlineMath: [['\\(', '\\)']], displayMath: [['\\[', '\\]']] },
+      svg: { fontCache: 'global' }
+    };
+  </script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-svg.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
@@ -82,31 +89,35 @@
       <article class="method-chapter">
         <div class="method-number">01</div>
         <div class="method-copy"><h3>The game record is established before any attention response is considered.</h3><p>NHL schedules, box scores, play-by-play, rosters, and standings are used to establish the game, clock, score, players, and opponent. MoneyPuck is used to add expected-goal and game-state context. The sources are reconciled at the game level rather than treated as interchangeable.</p></div>
-        <div class="method-proof"><b>INPUT</b><code>game_id + event_id + event_time_utc</code><p>Each raw response is retained with its source URL, retrieval time, and checksum.</p></div>
+        <div class="method-proof"><b>INPUT</b><div class="math-block">\( \mathit{game\_id} + \mathit{event\_id} + \mathit{event\_time\_utc} \)</div><p>Each raw response is retained with its source URL, retrieval time, and checksum.</p></div>
       </article>
 
       <article class="method-chapter">
         <div class="method-number">02</div>
         <div class="method-copy"><h3>The moment is defined before its public response is examined.</h3><p>An overtime win is defined by the final game state; a hat trick by three goals; and a comeback by a club trailing by at least two goals at the start of the third period and winning the game. The rules are applied across the full archive, so memorable examples are not selected after attention data has been observed.</p></div>
-        <div class="method-proof"><b>EXAMPLE LOGIC</b><code>if goals(player, game) ≥ 3<br>then moment = hat_trick</code><p>A new moment type is admitted only after a written rule, version increment, complete rebuild, and test case have been supplied.</p></div>
+        <div class="method-proof"><b>EXAMPLE LOGIC</b><div class="math-block math-block--stacked"><div>\( \operatorname{goals}(player, game) \ge 3 \)</div><div>\( \mathit{moment} = \mathit{hat\_trick} \)</div></div><p>A new moment type is admitted only after a written rule, version increment, complete rebuild, and test case have been supplied.</p></div>
       </article>
 
       <article class="method-chapter">
         <div class="method-number">03</div>
         <div class="method-copy"><h3>Club identity and temporal validity are resolved before records are joined.</h3><p>Names, relocations, and dates are kept as separate dimensions. Wikidata is used to connect each club and player to the appropriate Wikipedia entity, including redirects and aliases. Arizona and Utah are retained as separate historical identities. Vegas, Seattle, and Utah are entered only for periods in which each franchise existed.</p></div>
-        <div class="method-proof"><b>IDENTITY KEY</b><code>club_id + franchise_id<br>+ valid_from + valid_through</code><p>All event times are stored in UTC; local time is derived separately.</p></div>
+        <div class="method-proof"><b>IDENTITY KEY</b><div class="math-block math-block--stacked"><div>\( \mathit{club\_id} + \mathit{franchise\_id} \)</div><div>\( \mathit{valid\_from} + \mathit{valid\_through} \)</div></div><p>All event times are stored in UTC; local time is derived separately.</p></div>
       </article>
 
       <article class="method-chapter method-chapter--formula">
         <div class="method-number">04</div>
         <div class="method-copy"><h3>Each moment is compared with the club’s own preceding two weeks.</h3><p>For every qualifying moment, the prior 14 days are used to establish the club’s normal level of public attention. This prevents a continuously active club from appearing important solely because it is continuously active. Missing days are retained as missing values rather than recoded as zero.</p></div>
-        <div class="formula-board"><b>PUBLIC-ATTENTION DIFFERENCE</b><div class="formula"><span>response during the window − average of the prior 14 days</span><hr><span>max(average of the prior 14 days, 1)</span></div><p>A value of <strong>+0.20</strong> is interpreted as a public signal 20% above its recent baseline. It is not interpreted as 20% more people or 20% more sales.</p></div>
+        <div class="formula-board"><b>PUBLIC-ATTENTION DIFFERENCE</b><div class="formula"><div class="math-block math-block--display">\[
+          \mathit{attention\_difference} =
+          \frac{\mathit{response}_{w} - \overline{\mathit{attention}}_{-14:-1}}
+          {\max\left(\overline{\mathit{attention}}_{-14:-1}, 1\right)}
+        \]</div></div><p>A value of <strong>\( +0.20 \)</strong> is interpreted as a public signal 20% above its recent baseline. It is not interpreted as 20% more people or 20% more sales.</p></div>
       </article>
 
       <article class="method-chapter">
         <div class="method-number">05</div>
         <div class="method-copy"><h3>The immediate burst and subsequent persistence are treated as separate windows.</h3><p>Immediate response is assessed over the first two days. Short persistence is assessed on days two and three. Sustained attention is assessed over days four through seven.</p></div>
-        <div class="window-strip"><div><b>0–1</b><span>FIRST 48 HOURS</span></div><div><b>2–3</b><span>NEXT TWO DAYS</span></div><div><b>4–7</b><span>REST OF WEEK</span></div></div>
+        <div class="window-strip"><div><b>\(0\text{–}1\)</b><span>FIRST 48 HOURS</span></div><div><b>\(2\text{–}3\)</b><span>NEXT TWO DAYS</span></div><div><b>\(4\text{–}7\)</b><span>REST OF WEEK</span></div></div>
       </article>
 
       <article class="method-chapter">
@@ -118,19 +129,32 @@
       <article class="method-chapter">
         <div class="method-number">07</div>
         <div class="method-copy"><h3>The conditions surrounding each NHL game are accounted for before club comparisons are made.</h3><p>Because games occur under different conditions, the league-wide partial-pooling model is adjusted for home or road, opponent, standings context, day of week, month, season, and each club’s usual level. Information is shared across clubs when samples are thin, while club-level differences are retained.</p></div>
-        <div class="method-proof method-proof--wide"><b>REGISTERED FORM</b><code>log(attention + 1) ~ moment × window<br>+ home/away + opponent + standings context<br>+ day of week + month + season<br>+ club baseline + opponent baseline</code><p>Wikipedia and GDELT are fitted separately. Raw club medians are reported beside the adjusted estimates.</p></div>
+        <div class="method-proof method-proof--wide"><b>REGISTERED FORM</b><div class="math-block math-block--display" aria-label="log(attention + 1) ~ moment × window + home/away + opponent + standings context + day of week + month + season + club baseline + opponent baseline">\[
+          \begin{aligned}
+          \log(\mathit{attention}+1) &\sim \mathit{moment}\times\mathit{window}\\
+          &\quad + \mathit{home\_away}+\mathit{opponent}+\mathit{standings\_context}\\
+          &\quad + \mathit{day\_of\_week}+\mathit{month}+\mathit{season}\\
+          &\quad + \mathit{club\_baseline}+\mathit{opponent\_baseline}
+          \end{aligned}
+        \]</div><p>Wikipedia and GDELT are fitted separately. Raw club medians are reported beside the adjusted estimates.</p></div>
       </article>
 
       <article class="method-chapter">
         <div class="method-number">08</div>
         <div class="method-copy"><h3>Overlapping moments are handled as potential confounds.</h3><p>Where another major moment occurs within seven days, the event is excluded from the isolated before-and-after comparison. It is retained in the daily analysis, where both moment windows can be modeled together. The reason for exclusion is kept visible.</p></div>
-        <div class="method-proof"><b>OVERLAP RULE</b><code>if |day(A) − day(B)| ≤ 7<br>then isolated(A) = false</code><p>The system never pretends one event acted alone when another major story occupied the same week.</p></div>
+        <div class="method-proof"><b>OVERLAP RULE</b><div class="math-block math-block--stacked"><div>\( \left|\operatorname{day}(A)-\operatorname{day}(B)\right| \le 7 \)</div><div>\( \operatorname{isolated}(A) = \mathrm{false} \)</div></div><p>The system never pretends one event acted alone when another major story occupied the same week.</p></div>
       </article>
 
       <article class="method-chapter method-chapter--decision">
         <div class="method-number">09</div>
         <div class="method-copy"><h3>The two signals must agree before a repeatable label is assigned.</h3><p>At least 10 comparable events are required for each source, and all evidence thresholds must be cleared. The adjusted result and the club’s raw history must indicate the same direction, while their uncertainty ranges must remain entirely on one side of no change. Where any condition fails, the result is reported as mixed or not yet clear.</p></div>
-        <div class="decision-rule"><b>A REPEATABLE PUBLIC PATTERN REQUIRES</b><code>N<sub>adjusted</sub> ≥ 10 ∧ N<sub>clean</sub> ≥ 10<br>direction<sub>Wikipedia</sub> = direction<sub>news</sub><br>0 ∉ every registered 95% range</code><p>Alternative 7-day and 21-day baselines are also checked before a finding is released.</p></div>
+        <div class="decision-rule"><b>A REPEATABLE PUBLIC PATTERN REQUIRES</b><div class="math-block math-block--display">\[
+          \begin{gathered}
+          N_{\mathrm{adjusted}} \ge 10 \land N_{\mathrm{clean}} \ge 10\\
+          \mathit{direction}_{\mathrm{Wikipedia}} = \mathit{direction}_{\mathrm{news}}\\
+          0 \notin \text{every registered }95\%\text{ range}
+          \end{gathered}
+        \]</div><p>Alternative 7-day and 21-day baselines are also checked before a finding is released.</p></div>
       </article>
     </section>
 
